@@ -1,0 +1,48 @@
+/* ============================================
+   Tema personalizado para CartaNatal.de
+   Azul + Rosa + Lila | Contraste perfecto
+   ============================================ */
+
+/* ---------- MODO CLARO (fondo claro, colores oscuros) ---------- */
+[data-md-color-scheme="default"] {
+    /* Color primario: Azul profundo (oscuro) */
+    --md-primary-fg-color:        #1E3A8A;  /* azul noche */
+    --md-primary-fg-color--light: #3B82F6;  /* azul medio */
+    --md-primary-fg-color--dark:  #172554;  /* azul muy oscuro */
+    /* Color de acento: Rosa intenso (oscuro) */
+    --md-accent-fg-color:         #BE185D;  /* rosa oscuro */
+    --md-accent-fg-color--light:  #EC4899;  /* rosa medio */
+    --md-accent-fg-color--dark:   #831843;  /* rosa muy oscuro */
+    /* Toque lila en fondos sutiles (opcional) */
+    --md-default-fg-color--light: #4C1D95;  /* lila para textos secundarios */
+}
+
+/* ---------- MODO OSCURO (fondo oscuro, colores claros) ---------- */
+[data-md-color-scheme="slate"] {
+    /* Color primario: Azul claro (claridad) */
+    --md-primary-fg-color:        #60A5FA;  /* azul cielo */
+    --md-primary-fg-color--light: #93C5FD;
+    --md-primary-fg-color--dark:  #3B82F6;
+    /* Color de acento: Rosa claro */
+    --md-accent-fg-color:         #F472B6;  /* rosa pastel */
+    --md-accent-fg-color--light:  #F9A8D4;
+    --md-accent-fg-color--dark:   #EC4899;
+    /* Lila claro para detalles */
+    --md-default-fg-color--light: #C084FC;  /* lila suave */
+}
+
+/* 🌟 Bonus: pequeños detalles místicos (opcional, pero bonito) */
+[data-md-color-scheme="slate"] .md-header {
+    background: linear-gradient(135deg, #1e1b4b, #0f172a);
+    border-bottom: 1px solid #4C1D95;
+}
+
+[data-md-color-scheme="default"] .md-header {
+    background: linear-gradient(135deg, #dbeafe, #ede9fe);
+    border-bottom: 1px solid #a21caf;
+}
+
+/* Hace que el botón de cambio de tema sea más visible */
+.md-header__button.md-icon {
+    color: var(--md-accent-fg-color);
+}
