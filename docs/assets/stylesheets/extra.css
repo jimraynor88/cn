@@ -60,3 +60,115 @@
 .md-footer-meta {
     background-color: var(--md-primary-fg-color--dark);
 }
+/* Estilos específicos para AstroMitos */
+.hero {
+    text-align: center;
+    padding: 2rem 1rem 3rem;
+    border-bottom: 2px solid var(--md-accent-fg-color);
+    margin-bottom: 2rem;
+}
+.hero h1 {
+    font-size: 3rem;
+    background: linear-gradient(135deg, var(--md-primary-fg-color--light), var(--md-accent-fg-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.hero-sub {
+    font-size: 1.2rem;
+    color: var(--md-default-fg-color--light);
+    margin-bottom: 1rem;
+}
+.astromitos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+.astro-card {
+    background: var(--md-code-bg-color, #1e293b);
+    border-radius: 28px;
+    padding: 1.5rem;
+    border: 1px solid var(--md-accent-fg-color, #F472B6);
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+.astro-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--md-primary-fg-color);
+}
+.card-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.badge {
+    display: inline-block;
+    background: var(--md-accent-fg-color);
+    color: white;
+    border-radius: 40px;
+    padding: 0.2rem 0.8rem;
+    font-size: 0.7rem;
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+.highlight-myth {
+    background: linear-gradient(120deg, var(--md-primary-fg-color--dark), var(--md-accent-fg-color--dark));
+    border-radius: 32px;
+    padding: 2rem;
+    margin: 2rem 0;
+    color: white;
+    text-align: center;
+}
+.myth-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.2rem;
+    margin-top: 1rem;
+}
+.myth-item {
+    background: rgba(255,255,255,0.15);
+    border-radius: 24px;
+    padding: 0.5rem 1.2rem;
+    font-weight: bold;
+}
+.catalog-list {
+    columns: 2;
+    list-style: none;
+    text-align: center;
+    margin: 1rem 0;
+}
+.catalog-list li {
+    margin: 0.3rem 0;
+}
+.btn-container {
+    text-align: center;
+    margin: 2rem 0;
+}
+.btn-carta {
+    display: inline-block;
+    background: var(--md-accent-fg-color);
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.8rem 2rem;
+    border-radius: 60px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+.btn-carta:hover {
+    background: var(--md-primary-fg-color);
+    transform: scale(1.02);
+    color: var(--md-accent-fg-color--light);
+}
+.footer-note {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--md-default-fg-color--lighter);
+}
+@media (max-width: 600px) {
+    .hero h1 { font-size: 2rem; }
+    .catalog-list { columns: 1; }
+}
