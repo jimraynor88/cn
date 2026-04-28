@@ -6,33 +6,35 @@ casa_tipica: [1, 5, 7, 2]
 tags: [mito, gracias, encanto, fertilidad]
 ---
 
-# 🌸 *Aglaya (47)* · *Eufrósine (31)* · *Talía (23)*
+# 🌸 *Las Cárites* · La Belleza que Todo lo Ablanda
 
 ## 📖 Historia compartida
-Las Cárites (conocidas como las Gracias en Roma) eran diosas del encanto, la belleza y la alegría. Eran compañeras inseparables de Afrodita y presidían los banquetes, las danzas y las reuniones sociales. Su número solía ser tres: **Aglaya** (Belleza radiante), **Eufrósine** (Regocijo) y **Talía** (Florecimiento). **OJO**: Talía (asteroide 23) es a la vez una Musa (Comedia) y una Gracia (Florecimiento). Cuando la uses, decide si la interpretas con su máscara cómica o con su corona de flores.
+Las **Cárites** (conocidas como las **Gracias** en Roma) eran diosas del **encanto**, la **belleza** y la **alegría**. Eran compañeras inseparables de Afrodita y presidían los banquetes, las danzas y las reuniones sociales. Su número solía ser tres, aunque Hesíodo las individualiza como **Aglaya** (Belleza radiante), **Eufrósine** (Regocijo) y **Talía** (Florecimiento).
+
+**OJO**: Talía (asteroide 23) es a la vez una Musa (Comedia) y una Gracia (Florecimiento). Cuando la uses, decide si la interpretas con su máscara cómica o con su corona de flores.
 
 ## 🔮 Lectura astrológica del vínculo
-Activan tu capacidad para generar placer estético, tu habilidad social para desarmar con la sonrisa y tus dones artísticos no competitivos.
+Activan tu **capacidad para generar placer estético**, tu **habilidad social para desarmar con la sonrisa** y tus **dones artísticos no competitivos**.
 
-## 🧩 Por signo
-- **Cárites en Aries**: encanto agresivo, belleza guerrera.
-- **Cárites en Tauro**: atractivo físico innato; sensualidad sin esfuerzo.
-- **Cárites en Géminis**: labia fácil; chispa verbal que cae bien a todos.
-- **Cárites en Cáncer**: belleza que recuerda a la infancia; encanto basado en la vulnerabilidad.
-- **Cárites en Leo**: magnetismo escénico; gracia regia que atrae las miradas.
-- **Cárites en Virgo**: belleza discreta; servicio agradable.
-- **Cárites en Libra**: belleza equilibrada; sentido innato de la moda.
-- **Cárites en Escorpio**: atractivo magnético, peligroso y adictivo.
-- **Cárites en Sagitario**: alegría expansiva; encanto viajero.
-- **Cárites en Capricornio**: belleza clásica y atemporal.
-- **Cárites en Acuario**: encanto excéntrico, raro y original.
-- **Cárites en Piscis**: belleza etérea y soñadora.
+## 🧩 Ubicación por signo
+- **Cárites en Aries**: Encanto agresivo, belleza guerrera que no espera permiso.
+- **Cárites en Tauro**: Atractivo físico innato, sensualidad sin esfuerzo.
+- **Cárites en Géminis**: Labia fácil, chispa verbal que cae bien a todo el mundo.
+- **Cárites en Cáncer**: Belleza que recuerda a la infancia, encanto basado en la vulnerabilidad.
+- **Cárites en Leo**: Magnetismo escénico, gracia regia que naturalmente atrae las miradas.
+- **Cárites en Virgo**: Belleza discreta, servicio agradable, encanto funcional.
+- **Cárites en Libra**: Belleza equilibrada, sentido innato de la moda y las formas.
+- **Cárites en Escorpio**: Atractivo magnético, peligroso y adictivo.
+- **Cárites en Sagitario**: Alegría expansiva, encanto viajero, facilidad para caer bien en cualquier cultura.
+- **Cárites en Capricornio**: Belleza clásica y atemporal.
+- **Cárites en Acuario**: Encanto excéntrico, raro y original.
+- **Cárites en Piscis**: Belleza etérea y soñadora.
 
 ## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Aglaya    | 47     |
-| Eufrósine | 31     |
-| Talía     | 23     |
+| Asteroide   | Número | Significado |
+|-------------|--------|-------------|
+| Aglaya      | 47     | Belleza radiante, esplendor |
+| Eufrósine   | 31     | Alegría, regocijo |
+| Talía       | 23     | Florecimiento, abundancia festiva |
 
-> 🌸 *Consejo*: si necesitas un talismán para una entrevista o una primera cita, activa a Eufrósine (31), la que desarma tensiones.
+> 🌸 *Consejo*: Si necesitas un talismán para una entrevista de trabajo o una primera cita, activa a Eufrósine (31). Ella es la que desarma las tensiones y genera un ambiente distendido.
