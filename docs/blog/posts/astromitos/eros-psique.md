@@ -29,3 +29,4 @@ Psique, una princesa mortal de belleza excepcional, despertó la ira de Afrodita
 | Psique    | 16     |
 
 > 🌹 *Consejo*: presta atención si forman oposición o cuadratura. Esa es la tensión entre "lo que me excita" y "lo que me da seguridad".
+> 🌹 *Consejo*: presta atención si forman conjunción con el Ascendente o el Nodo Sur → vínculo kármico muy intenso.
