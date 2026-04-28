@@ -95,7 +95,7 @@ hide: toc
 
 <!-- Botón -->
 <div class="btn-container">
-    <a href="../servicios/carta-natal-personalizada.md" class="btn-carta">
+    <a href="../servicios/carta-natal-personalizada/" class="btn-carta">
         ✨ Obtén tu Carta Natal Personalizada ✨
     </a>
 </div>
