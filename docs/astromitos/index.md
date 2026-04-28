@@ -1,3 +1,8 @@
+---
+title: AstroMitos
+hide: toc
+---
+
 <!-- index-astromitos.md -->
 # 🌙✨ AstroMitos — El gran compendio de asteroides mitológicos en tu carta natal
 
