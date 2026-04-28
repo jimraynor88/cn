@@ -1,0 +1,62 @@
+/* docs/stylesheets/extra.css */
+
+/* ============================================
+   Tema personalizado para CartaNatal.de
+   Azul + Rosa + Lila | Fondo oscuro por defecto
+   ============================================ */
+
+/* Variables base (modo oscuro por defecto) */
+:root,
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #60A5FA;        /* azul cielo */
+    --md-primary-fg-color--light: #93C5FD;
+    --md-primary-fg-color--dark: #3B82F6;
+    --md-accent-fg-color: #F472B6;         /* rosa pastel */
+    --md-accent-fg-color--light: #F9A8D4;
+    --md-accent-fg-color--dark: #EC4899;
+    --md-default-fg-color--light: #C084FC; /* lila suave */
+    --md-default-bg-color: #0f172a;        /* fondo oscuro base */
+    --md-header-bg-start: #1e1b4b;
+    --md-header-bg-end: #0f172a;
+}
+
+/* Modo claro: se activa solo cuando el usuario cambia manualmente */
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #1E3A8A;
+    --md-primary-fg-color--light: #3B82F6;
+    --md-primary-fg-color--dark: #172554;
+    --md-accent-fg-color: #BE185D;
+    --md-accent-fg-color--light: #EC4899;
+    --md-accent-fg-color--dark: #831843;
+    --md-default-fg-color--light: #4C1D95;
+    --md-default-bg-color: #ffffff;
+    --md-header-bg-start: #dbeafe;
+    --md-header-bg-end: #ede9fe;
+}
+
+/* Decoración del header (gradiente) */
+.md-header {
+    background: linear-gradient(135deg, var(--md-header-bg-start), var(--md-header-bg-end));
+    border-bottom: 1px solid var(--md-accent-fg-color);
+}
+
+/* Botón de cambio de tema más vistoso */
+.md-header__button.md-icon {
+    color: var(--md-accent-fg-color);
+}
+
+/* Pequeños detalles místicos en contenedores */
+.md-tabs {
+    background-color: var(--md-primary-fg-color--dark);
+}
+
+/* Para tarjetas o bloques de notas (admonitions) */
+.md-typeset .admonition,
+.md-typeset details {
+    border-left-color: var(--md-accent-fg-color);
+}
+
+/* Personalización del footer (si lo usas) */
+.md-footer-meta {
+    background-color: var(--md-primary-fg-color--dark);
+}
