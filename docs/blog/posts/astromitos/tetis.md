@@ -2,7 +2,7 @@
 title: "Tetis – La Madre que se Transforma para Proteger"
 asteroides: [17]
 vinculo: "mar – adaptación – maternidad – metamorfosis"
-casa_tipica: [4, 7, 12]
+casa_tipica: [4, 5, 7, 12]
 tags: [mito, titánide, nereida, madre]
 ---
 
