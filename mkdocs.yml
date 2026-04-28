@@ -53,7 +53,8 @@ theme:
     - navigation.tracking
 
 extra_css:
-  - assets/stylesheets/cartanatal.css   # <--- NUEVO: el archivo de estilos personalizados
+  - assets/stylesheets/extra.css
+  #- assets/stylesheets/cartanatal.css   # <--- NUEVO: el archivo de estilos personalizados
   # - assets/stylesheets/kofi.css       # si lo necesitas, lo dejas comentado o lo añades
 
 plugins:
