@@ -172,3 +172,9 @@
     .hero h1 { font-size: 2rem; }
     .catalog-list { columns: 1; }
 }
+.astromitos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
