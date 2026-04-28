@@ -18,6 +18,7 @@ Tetis era una nereida (ninfa marina), hija de Nereo y Doris. Fue criada por Hera
 
 ## 🧩 Ubicación por casas
 - **Casa 4**: la figura materna como algo líquido, cambiante, difícil de sujetar.
+- **Casa 5** → una madre que proyecta su ambición en los hijos; el talento como herencia.
 - **Casa 7**: relaciones que se transforman constantemente; pareja escurridiza.
 - **Casa 12**: la madre como misterio; adaptación como refugio inconsciente.
 
