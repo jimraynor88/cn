@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <!-- Luna C -->
+  <path d="M30,20 A30,30 0 1,0 30,80 A20,20 0 1,1 30,20" fill="#E0B0FF" />
+  <!-- Luna inversa para la N -->
+  <path d="M130,20 A30,30 0 0,1 130,80 A20,20 0 0,0 130,20" fill="#E0B0FF" transform="translate(10,0)"/>
+  <!-- Estrella central -->
+  <polygon points="85,45 88,55 98,55 90,61 93,71 85,65 77,71 80,61 72,55 82,55" fill="#FFD700"/>
+</svg>
