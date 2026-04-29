@@ -21,10 +21,4 @@ Orfeo, el músico más grande, perdió a su esposa **Eurídike** por la mordedur
 - **Casa 8** → pérdidas transformadoras que se convierten en legado artístico o espiritual.
 - **Casa 12** → amor que se vive en secreto o que termina en soledad; la canción como terapia.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Orfeo     | 3361   |
-| Eurídike  | 75     |
-
 > 🎵 *Consejo*: fíjate si forman aspecto con Neptuno o con la Luna en casa 12 → talento para expresar el duelo colectivo a través del arte.
