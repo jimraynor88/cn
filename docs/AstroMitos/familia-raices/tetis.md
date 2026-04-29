@@ -22,9 +22,4 @@ Tetis era una nereida (ninfa marina), hija de Nereo y Doris. Fue criada por Hera
 - **Casa 7**: relaciones que se transforman constantemente; pareja escurridiza.
 - **Casa 12**: la madre como misterio; adaptación como refugio inconsciente.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Tetis     | 17     |
-
 > 🧜‍♀️ *Consejo*: Tetis no se sujeta con fuerza. Se sujeta aceptando que cambiará de forma. Cuanto más la aprietas, más se escurre.
