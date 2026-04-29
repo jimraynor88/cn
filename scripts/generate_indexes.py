@@ -32,7 +32,7 @@ def generate_index_for_folder(folder_path: Path):
     """Crea o sobreescribe index.md dentro de folder_path con tarjetas."""
     # Buscar todos los archivos .md (excepto index.md y los IGNORE)
     files = [f for f in folder_path.glob("*.md")
-             if f.name not in IGNORE and f.name != "index.md"]
+             if f.name not in IGNORE and f.name != "index.html"]
     if not files:
         return
 
@@ -107,7 +107,7 @@ title: {category_title}
 """  # Nota: estas clases ya están en tu extra.css, pero las incluimos para que el generador sea autocontenido.
 
     # Escribir el archivo
-    index_path = folder_path / "index.md"
+    index_path = folder_path / "index.html"
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(content)
     print(f"✅ Generado {index_path}")
