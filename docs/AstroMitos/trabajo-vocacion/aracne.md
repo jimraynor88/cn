@@ -22,8 +22,3 @@ Aracne, una joven tejedora de Lidia, era tan habilidosa que su fama corrió peli
 - **Aracne en Libra**: El desafío a la autoridad por un ideal de justicia estética.
 - **Aracne en Escorpio**: Capacidad de tejer tramas complejas y peligrosas, y de sufrir metamorfosis radicales.
 - **Aracne en Piscis**: Fusión entre el arte y la vida; redes kármicas muy complejas y delicadas.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Aracne    | 407    |
