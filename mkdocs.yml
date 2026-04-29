@@ -11,21 +11,21 @@ theme:
   logo: assets/1px.png
   
   custom_dir: overrides
-  palette:
+ # palette:
     # Modo claro (fondo claro -> colores oscuros)
-    - scheme: default
-      primary: custom     # usaremos nuestro color personalizado
-      accent: custom      # también personalizado
-      toggle:
-        icon: material/brightness-4
-        name: Cambiar a modo oscuro
+  #  - scheme: default
+   #   primary: custom     # usaremos nuestro color personalizado
+    #  accent: custom      # también personalizado
+     # toggle:
+      #  icon: material/brightness-4
+       # name: Cambiar a modo oscuro
     # Modo oscuro (fondo oscuro -> colores claros)
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-7
-        name: Cambiar a modo claro
+   # - scheme: slate
+    #  primary: custom
+     # accent: custom
+      #toggle:
+       # icon: material/brightness-7
+        #name: Cambiar a modo claro
   icon:
     repo: fontawesome/solid/mug-hot
   favicon: assets/favicon.ico
