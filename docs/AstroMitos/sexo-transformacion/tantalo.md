@@ -22,8 +22,3 @@ Tántalo, rey de Lidia y favorito de los dioses olímpicos, fue invitado a sus b
 - **Tántalo en Virgo**: Perfección inalcanzable en el trabajo o la salud.
 - **Tántalo en Escorpio**: Deseos intensos y tabúes que permanecen insatisfechos.
 - **Tántalo en Piscis**: Anhelos espirituales o artísticos que se esfuman al intentar alcanzarlos.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Tántalo   | 2102   |
