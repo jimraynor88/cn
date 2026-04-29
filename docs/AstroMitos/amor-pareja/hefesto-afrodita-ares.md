@@ -1,5 +1,6 @@
 ---
 title: "Hefesto, Afrodita y Ares – El herrero, la belleza y la guerra"
+ico: "🔨"
 asteroides: [2212, (Venus planeta), (Marte planeta)]
 vinculo: "artesanía – deseo – conflicto – humillación"
 casa_tipica: [5, 7, 8, 10]
@@ -22,12 +23,5 @@ tags: [mito, triángulo, pasión, creatividad]
 - **Casa 7** → matrimonio abierto, celos, rivalidades explícitas.
 - **Casa 8** → sexo como campo de batalla; poder a través de la humillación.
 - **Casa 10** → escándalos públicos vinculados a la vida amorosa.
-
-## 🌐 En astro.com
-| Cuerpo      | Número / Símbolo |
-|-------------|------------------|
-| Hefesto     | 2212             |
-| Afrodita    | Venus (planeta)   |
-| Ares        | Marte (planeta)   |
 
 > 🔗 *Consejo*: activa también **Cupido (763)** para la hija de este triángulo (la lujuria desatada) y **Harmonia (40)** para la hija "legítima".
