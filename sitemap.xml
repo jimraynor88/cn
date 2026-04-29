@@ -261,11 +261,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CartaNatal.de/AstroMitos/jacinto-apolo/</loc>
-         <lastmod>2026-04-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://CartaNatal.de/AstroMitos/jason-argonautas/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -447,6 +442,11 @@
     </url>
     <url>
          <loc>https://CartaNatal.de/AstroMitos/amor-pareja/hefesto-afrodita-ares/</loc>
+         <lastmod>2026-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CartaNatal.de/AstroMitos/amor-pareja/jacinto-apolo/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
