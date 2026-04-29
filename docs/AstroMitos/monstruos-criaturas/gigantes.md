@@ -26,7 +26,6 @@ Los **Telquines** eran nueve démones marinos, hijos de Ponto y Gea, herreros y 
 - **Casa 8** → tecnología que da poder, transformación a través de herramientas.
 - **Casa 10** → una carrera en la industria pesada, la robótica, la construcción.
 
-## 🌐 En Astro.com
 | Asteroide      | Número |
 |----------------|--------|
 | Cíclope        | 2257   |
