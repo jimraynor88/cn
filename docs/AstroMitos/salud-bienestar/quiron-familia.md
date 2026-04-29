@@ -23,12 +23,4 @@ tags: [mito, salud, pedagogía, sanación]
 - **Casa 9** → estudios de medicina, filosofía de la curación, viajes para aprender sanación.
 - **Casa 12** → sanación invisible (rezos, meditación, sanación energética), heridas heredadas.
 
-## 🌐 En astro.com
-| Asteroide  | Número |
-|------------|--------|
-| Quirón     | 2060   |
-| Higia      | 10     |
-| Asclepio   | 1027   |
-| Podalirio  | 172    |
-
 > 💊 *Consejo*: activa también **Hades (399)** si el caso incluye enfermedades terminales o procesos de muerte consciente.
