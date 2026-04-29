@@ -1,6 +1,7 @@
 ---
 title: "Eros y Psique – La sombra del deseo que se vuelve luz"
 asteroides: [433, 16]
+date: "2026-04-27"
 vinculo: "amor – alma – deseo – traición iniciática"
 casa_tipica: [1, 5, 8, 12]
 ico: "🦋"
