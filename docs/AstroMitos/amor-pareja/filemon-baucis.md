@@ -23,10 +23,4 @@ Júpiter (Zeus) y Mercurio (Hermes) descendieron a la Tierra disfrazados de mend
 - **Ambos en Capricornio**: el templo construido durante décadas; vejez consagrada.
 - **Baucis en Cáncer**: la cabaña materna como lugar de refugio para extraños.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Filemón   | 1135   |
-| Baucis    | 172    |
-
 > 🏛️ *Consejo*: si Filemón y Baucis están en conjunción en tu Casa 7, indica una relación de pareja basada en la hospitalidad mutua. Puede que recibáis "dioses disfrazados" (oportunidades inesperadas) a través de vuestra generosidad.
