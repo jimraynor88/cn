@@ -1,6 +1,6 @@
 ---
 title: "Deucalión y Pirra – El Diluvio que Reinició la Humanidad"
-asteroides: [2891, (Pirra sin número oficial)]
+asteroides: [2891, (Pirra sin número oficial) Pandora (55) como sustituto materno]
 vinculo: "diluvio – supervivencia – reinicio – piedras que se vuelven pueblo"
 casa_tipica: [4, 8, 12]
 tags: [mito, diluvio, pareja, creación]
@@ -23,11 +23,5 @@ Deucalión era hijo de Prometeo (el titán que robó el fuego). Pirra era hija d
 - **Deucalión en Acuario**: reinicio comunitario o tecnológico.
 - **Pirra (Pandora) en Tauro**: repoblación a través de recursos materiales.
 - **Pirra en Sagitario**: nueva humanidad con una filosofía renovada.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Deucalión | 2891   |
-| Pirra     | sin número oficial; usa Pandora (55) como sustituto materno |
 
 > 🪨 *Consejo*: si Deucalión está en Casa 4 con Saturno, indica que tú o tu familia sobrevivisteis a un desastre (guerra, exilio, ruina) y fundasteis un nuevo hogar. Las "piedras" son los valores duros con los que reconstruisteis.
