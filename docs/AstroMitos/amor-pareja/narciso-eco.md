@@ -22,10 +22,4 @@ tags: [mito, ego, comunicación, eco]
 - **Casa 5** → amores con personas muy parecidas a uno; narcisismo creativo.
 - **Casa 12** → el narcisismo espiritual (creerse iluminado) o el miedo a desaparecer.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Narciso   | 37117  |
-| Eco       | 60     |
-
 > 🗣️ *Consejo*: si tienes a Eco en casa 3 o en aspecto a Mercurio, revisa si repites frases que otros dijeron antes (lemas familiares, publicidad, discursos prestados).
