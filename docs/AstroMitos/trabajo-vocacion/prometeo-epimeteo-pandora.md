@@ -23,7 +23,6 @@ tags: [mito, fuego, tecnología, límite]
 - **Casa 9** → estudios superiores prohibidos; conocimiento que quema.
 - **Casa 11** → grupos que pagan por sus ideales; la esperanza como último recurso colectivo.
 
-## 🌐 En astro.com
 | Asteroide | Número |
 |-----------|--------|
 | Prometeo  | 1809   |
