@@ -3,7 +3,7 @@ title: "Adonis – El Amante que Muere Cada Año"
 asteroides: [2101]
 vinculo: "belleza – caza – muerte – renacimiento vegetal"
 casa_tipica: [1, 5, 8]
-icon: "🌹"
+ico: "🌹"
 tags: [mito, adonis, afrodita, perséfone]
 ---
 
