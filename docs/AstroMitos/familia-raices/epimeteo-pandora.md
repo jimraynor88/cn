@@ -22,10 +22,4 @@ tags: [mito, culpa, secreto, regalo]
 - **Casa 8** → herencias conflictivas; secretos sexuales o financieros que se revelan.
 - **Casa 12** → trauma inconsciente que se "abre" en terapia; la esperanza como único antídoto.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Pandora   | 55     |
-| Epimeteo  | 1810   |
-
 > 🕳️ *Consejo*: activa también a **Prometeo (1809)** (el hermano "que piensa antes") para entender el contraste entre quien mira adelante y quien actúa sin calcular consecuencias.
