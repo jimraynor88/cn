@@ -23,8 +23,3 @@ Sísifo, rey de Éfira y el más astuto de los mortales, logró engañar dos vec
 - **Sísifo en Virgo**: Rutinas laborales agotadoras y perfeccionistas.
 - **Sísifo en Capricornio**: Carreras profesionales que exigen un desgaste titánico por poco reconocimiento.
 - **Sísifo en Acuario**: Luchas repetitivas por ideales revolucionarios que no terminan de cuajar.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Sísifo    | 1866   |
