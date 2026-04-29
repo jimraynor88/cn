@@ -18,7 +18,6 @@ Las titánides representan la versión civilizada y ordenada del cosmos. Sus cua
 - **Febe (sin número)** la profecía; no hay número oficial. Usa a **Casandra (114)** o a **Europa (52)** (Asteroides de la lista A).
 - **Océano (sin número)** el río que todo lo abraza; fusión entre todos los opuestos, límites fluidos. Usa a **Neptuno** en su lugar.
 
-## 🌐 En astro.com
 | Asteroide | Número |
 |-----------|--------|
 | Mnemósine | 57     |
