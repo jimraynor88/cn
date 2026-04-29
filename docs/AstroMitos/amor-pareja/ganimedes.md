@@ -23,9 +23,4 @@ Ganimedes, un príncipe troyano de extraordinaria belleza, fue raptado por Zeus 
 - **Ganimedes en Acuario**: ascenso por ideas originales; raptado por grupos de poder.
 - **Ganimedes en Piscis**: ascenso espiritual; disolución en lo divino.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Ganimedes | 1036   |
-
 > 🦅 *Consejo*: si Ganimedes está en Casa 10, una oportunidad externa muy potente (como una beca, un padrino o una oferta inesperada) puede cambiar tu carrera de forma radical.
