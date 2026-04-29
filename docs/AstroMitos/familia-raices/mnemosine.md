@@ -21,9 +21,4 @@ Mnemósine era una titánide, hija de Urano y Gea. Se unió a Zeus durante nueve
 - **Casa 9**: archivo filosófico; recuerdos de viajes y estudios.
 - **Casa 12**: memoria inconsciente; recuerdos de vidas pasadas.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Mnemósine | 57     |
-
 > 🧠 *Consejo*: si Mnemósine está en aspecto duro con Plutón, hay traumas que la memoria no puede soltar. La sanación no es olvidar, es resignificar el archivo.
