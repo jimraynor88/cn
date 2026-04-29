@@ -21,9 +21,4 @@ Atalanta era una heroína griega, criada por una osa en el bosque y luego adopta
 - **Casa 6** → trabajo que exige velocidad y precisión extrema; rutinas de alto rendimiento.
 - **Casa 11** → grupos feministas, círculos de alto rendimiento, redes de apoyo mutuo entre mujeres independientes.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Atalanta  | 36     |
-
 > 🍎 *Consejo*: aunque Hipómenes no tiene asteroide conocido, puedes buscar a **Hipómenes** o esperar a que algún día se nombre uno. Mientras, puedes leer este mito junto a **Afrodita (Venus)** y **Ares (Marte)**, que son sus aliados y antagonistas simbólicos.
