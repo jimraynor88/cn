@@ -1,4 +1,3 @@
-
 ---
 title: "Medusa – La Mirada que Petrífica"
 asteroides: [149]
@@ -28,10 +27,5 @@ Activa la **ira que te paraliza a ti mismo o a los demás**, el **secreto que no
 - **Medusa en Capricornio**: Furia por el estatus, miedo paralizante al fracaso público.
 - **Medusa en Acuario**: Ira colectiva, mirada fría que desconecta de las emociones.
 - **Medusa en Piscis**: Fantasmas que te miran fijamente, ansiedad paralizante.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Medusa    | 149    |
 
 > 🗿 *Consejo*: Medusa en Casa 8 suele indicar un trauma sexual. En Casa 12, un miedo irracional que no te deja avanzar.
