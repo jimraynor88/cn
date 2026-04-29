@@ -24,10 +24,4 @@ tags: [mito, diosas, derecho, armonía]
 - **Casa 9** → estudios de leyes, ética profesional, tribunales internacionales.
 - **Casa 10** → una reputación de persona íntegra; vocación de juez o mediador.
 
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Temis     | 24     |
-| Astrea    | 5      |
-
 > 🏛️ *Consejo*: si activas también a **Líber (7710)** (libertad) y a **Eunomia (15)** (legalidad), obtendrás el marco completo de la justicia olímpica.
