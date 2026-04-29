@@ -22,10 +22,4 @@ tags: [mito, luna, sueño, eternidad]
 - **Casa 9** → amor por otras culturas o religiones como forma de trascendencia.
 - **Casa 12** → el amor secreto, el que nunca se consuma, la entrega espiritual.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Selene    | 580    |
-| Endimión  | No catalogado como asteroide |
-
 > 🌙 *Consejo*: Endimión no tiene asteroide propio, pero puedes rastrearlo a través de la **Luna** (planeta) y **Neptuno** (planeta). Selene activa tu propia "fase lunar interna".
