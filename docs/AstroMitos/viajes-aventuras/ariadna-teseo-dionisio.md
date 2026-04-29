@@ -23,11 +23,4 @@ tags: [mito, laberinto, fidelidad, renacimiento]
 - **Casa 8** → la traición sexual que se convierte en poder personal.
 - **Casa 12** → guías espirituales o tú mismo actúas como Ariadna para otros, desde el anonimato.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Ariadna   | 43     |
-| Teseo     | No catalogado como asteroide (usa arquetipo) |
-| Dioniso   | No catalogado (usa al planeta Neptuno como sustituto) |
-
 > ✨ *Consejo*: para Teseo, puedes usar a **Marte** (acción heroica) o al asteroide **Hipólito** si quieres rastrear el abandono. Para Dioniso, el planeta **Neptuno** (trascendencia) o el asteroide **Baco (2063)** son buenos sustitutos.
