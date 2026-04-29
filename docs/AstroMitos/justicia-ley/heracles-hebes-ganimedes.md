@@ -25,11 +25,4 @@ tags: [mito, héroe, heracles, juventud]
 - **Ganimedes en Escorpio**: rapto transformador, poder sexual.
 - **Ganimedes en Capricornio**: ascenso social a través de alianzas con la autoridad.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Heracles  | 5143   |
-| Hebe      | 6      |
-| Ganimedes | 1036   |
-
 > 🍷 *Consejo*: si Ganimedes está en Casa 10, tu carrera puede estar vinculada a servir a personas con poder o a convertir una "captación" (apadrinamiento, mecenazgo) en éxito público.
