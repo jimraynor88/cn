@@ -3,6 +3,7 @@ title: "Adonis – El Amante que Muere Cada Año"
 asteroides: [2101]
 vinculo: "belleza – caza – muerte – renacimiento vegetal"
 casa_tipica: [1, 5, 8]
+icon: "🌹"
 tags: [mito, adonis, afrodita, perséfone]
 ---
 
@@ -22,10 +23,5 @@ Adonis nació del incesto entre Mirra (convertida en árbol) y su padre. Era tan
 - **Adonis en Escorpio**: muy potente. belleza oscura; atracción por el peligro; sexo con la muerte.
 - **Adonis en Piscis**: belleza espiritual; disolución en el amor.
 - **Adonis en Libra**: belleza armoniosa; indecisión entre dos amores.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Adonis    | 2101   |
 
 > 🐗 *Consejo*: si Adonis está en Casa 5 en conjunción con Marte, revisa los amores peligrosos o los deportes de riesgo. La rosa nace de la sangre.
