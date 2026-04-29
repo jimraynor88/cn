@@ -27,11 +27,4 @@ tags: [mito, titanes, tecnología, ideales]
 - **Casa 10** → una carrera de pionero; el peso de ser el "primero" en algo.
 - **Casa 12** → sacrificios ocultos por el bien de la humanidad.
 
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Atlas     | 36     |
-| Prometeo  | 1809   |
-| Epimeteo  | 1810   |
-
 > 🔥 *Consejo*: si estos asteroides están activos en tu carta, explora si repites el patrón de **dar sin recibir**, de **sentirte con el mundo a cuestas** o de **pagar por el don de haber nacido con un talento especial**.
