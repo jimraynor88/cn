@@ -12,7 +12,7 @@ IGNORE = {"index.md", "catalog-astromitos.md"}  # no generar índice sobre el í
 def slug_to_title(slug: str) -> str:
     """Convierte 'eros-psique' en 'Eros y Psique'."""
     # Reemplazar guiones por espacios y capitalizar
-    words = slug.replace('.md', '').split('-')
+    words = slug.replace('.html', '').split('-')
     return ' '.join(w.capitalize() for w in words)
 
 def extract_icon_from_md(filepath: Path) -> str:
