@@ -22,10 +22,4 @@ Cadmo, hermano de Europa, fue enviado por su padre a buscarla. Tras consultar el
 - **Casa 9** → fundar una escuela, una iglesia o difundir una nueva filosofía.
 - **Casa 10** → construir una carrera o un legado sobre las ruinas de una antigua estructura.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Cadmo     | 7092   |
-| Harmonía  | 40     |
-
 > 🐉 *Consejo*: activa también a **Ares (Marte)** y a **Atenea (Palas 2)**. Cadmo deberá servir a Ares por matar a su dragón, y es Atenea quien le dice cómo sembrar los dientes.
