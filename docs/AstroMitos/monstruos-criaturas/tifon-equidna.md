@@ -30,10 +30,4 @@ Tifón fue el hijo más joven de Gea (la Tierra) y el Tártaro (las profundidade
 - **Tifón en Acuario** → revolución violenta, caos tecnológico, grupo que implosiona.
 - **Tifón en Piscis** → disolución completa, psicosis, misticismo caótico.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Tifón     | 42355  |
-| Equidna   | sin número oficial |
-
 > 🌋 *Consejo*: si Tifón está en tu Casa 10, tu carrera puede tener ciclos de explosión y derrumbe. No le temas: los volcanes dejan ceniza fértil.
