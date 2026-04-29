@@ -23,9 +23,4 @@ Hebe era hija de Zeus y Hera, y la diosa de la **juventud eterna**. En el Olimpo
 - **Hebe en Escorpio**: juventud intensa y transformadora.
 - **Hebe en Acuario**: servicio a grupos y causas colectivas.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Hebe      | 6      |
-
 > 🏺 *Consejo*: si Hebe está en Casa 10, tu carrera puede estar vinculada a servir a personas poderosas o a mantener una imagen pública de eterna frescura.
