@@ -21,9 +21,4 @@ Cerbero era el perro de tres cabezas (o cincuenta, según versiones), hijo de Ti
 - **Casa 8**: miedo profundo a la muerte, a la intimidad, a las herencias o al poder sexual.
 - **Casa 12**: guardián del inconsciente colectivo; lo que te protege del trauma reprimido.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Cerbero   | 1865   |
-
 > 🔒 *Consejo*: Cerbero no es un enemigo. Es un protector que se volvió carcelero. Para pasar, no lo mates; demuéstrale que mereces cruzar.
