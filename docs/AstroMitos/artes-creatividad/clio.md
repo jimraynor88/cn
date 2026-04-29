@@ -23,9 +23,4 @@ Clío es una de las nueve musas, hija de Zeus y Mnemósine (la diosa de la memor
 - **Clío en Capricornio**: la historia como estructura de poder.
 - **Clío en Acuario**: la historia colectiva y digital.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Clío      | 84     |
-
 > 📖 *Consejo*: si Clío está en Casa 10, tu carrera puede estar vinculada a documentar, enseñar historia o construir un legado público que trascienda tu vida.
