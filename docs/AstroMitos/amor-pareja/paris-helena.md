@@ -1,6 +1,7 @@
 ---
 title: "Paris y Helena – El deseo que incendió un imperio"
 asteroides: [3317, 101]
+ico: "🍎"
 vinculo: "seducción – fama – conflicto – deseo colectivo"
 casa_tipica: [3, 5, 7, 10]
 tags: [mito, troyano, deseo, conflicto]
@@ -21,11 +22,5 @@ En la boda de Peleo y Tetis, la diosa de la discordia, Éris, lanzó una manzana
 - **Casa 5** → amores prohibidos o muy públicos; la creatividad como fuente de conflicto.
 - **Casa 7** → triángulos amorosos; el socio o la pareja como "manzana de la discordia".
 - **Casa 10** → la reputación construida sobre un deseo o un escándalo amoroso.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Paris     | 3317   |
-| Helena    | 101    |
 
 > ⚔️ *Consejo*: activa también a **Menelao (1647)** y **Afrodita (Venus)** para ver el triángulo completo. Si Paris y Helena están en oposición, busca rivalidades abiertas.
