@@ -23,9 +23,4 @@ Dafne era una ninfa, hija del dios río Peneo. Apolo, herido por una flecha de o
 - **Dafne en Escorpio**: huida desesperada que puede incluir la muerte simbólica.
 - **Dafne en Piscis**: disolución y huida espiritual.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Dafne     | 41     |
-
 > 🏹 *Consejo*: si Dafne está en Casa 7, la presión en las relaciones de pareja puede desencadenar una "huida hacia tu propio desarrollo" que te transforma.
