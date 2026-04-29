@@ -31,9 +31,4 @@ Ixión fue rey de los Lápitas. Para no pagar el precio de la novia, invitó a s
 - **Ixión en Acuario**: seducir a lo colectivo; rueda de rechazo grupal.
 - **Ixión en Piscis**: fusión con la sombra; rueda de confusión mental.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Ixión     | 2893   |
-
 > 🌀 *Consejo*: si Ixión está en Casa 7 con Marte o Plutón, revisa si hay patrones de infidelidad o de traición a la confianza. La rueda deja de girar cuando aceptas tu sombra sin actuararla.
