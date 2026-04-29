@@ -22,10 +22,4 @@ Coronis fue una princesa tesalia, amada por Apolo. Quedó embarazada de él (de 
 - **Coronis en Escorpio**: secretos sexuales que matan simbólicamente.
 - **Coronis en Acuario**: revelaciones inesperadas sobre la pareja.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Coronis   | 158    |
-| Apolo     | 1862   |
-
 > 🖤 *Consejo*: activa también a **Asclepio (1027)** para ver el hijo salvado de esa tragedia: la sanación nace de la herida.
