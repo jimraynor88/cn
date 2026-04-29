@@ -22,9 +22,4 @@ Temis era una titánide, hija de Urano y Gea. Fue la segunda esposa de Zeus, y c
 - **Casa 9**: vocación legal o ética; la justicia como sistema de creencias.
 - **Casa 10**: carrera vinculada al derecho o al orden; reputación de justo.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Temis     | 24     |
-
 > ⚖️ *Consejo*: Temis no es vengativa. Es el espejo que te devuelve tus propios actos. Si te duele su juicio, revisa qué hiciste para merecerlo.
