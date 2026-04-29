@@ -21,10 +21,4 @@ tags: [mito, amistad, luto, acción]
 - **Casa 7** → socios o amigos íntimos que desencadenan crisis transformadoras.
 - **Casa 11** → traiciones en grupos de amigos; duelos por amistades.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Aquiles   | 588    |
-| Patroclo  | 617    |
-
 > ⚔️ *Consejo*: si activas también **Héctor (1179)** y **Andrómaca (271)**, obtienes el drama completo de la Ilíada en tu carta.
