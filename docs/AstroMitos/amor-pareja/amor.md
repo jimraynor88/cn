@@ -22,9 +22,4 @@ Amor es el dios romano del deseo erótico, equivalente al Eros griego. Hijo de V
 - **Casa 7**: atracción inmediata en las relaciones de pareja; a veces huida igual de rápida.
 - **Casa 8**: pasión sexual muy intensa; deseo que transforma o quema.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Amor      | 1221   |
-
 > 🏹 *Consejo*: Amor no es un asteroide para relaciones duraderas. Es para entender cómo te enganchas al deseo y cómo el deseo te engancha a otros sin preguntar.
