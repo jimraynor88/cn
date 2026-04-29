@@ -22,11 +22,4 @@ El rey Enómao de Élide retaba a los pretendientes de su hija, **Hipodamía**, 
 - **Casa 8** → crímenes por herencia, traiciones, asesinatos.
 - **Casa 7** → competición abierta; rivales que recurren a trampas.
 
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Pelops    | 2895   |
-| Hipodamía | 692    |
-| Mírtilo   | 2896   |
-
 > ⚡ *Consejo*: si Pelops está en casa 4, busca historias de "éxito familiar" que se construyeron sobre una injusticia. La energía curativa de Mírtilo te pedirá reconciliarte con el precio que otros pagaron.
