@@ -19,8 +19,3 @@ Casandra era una princesa de Troya, hija de Príamo y Hécuba, sacerdotisa de Ap
 - **Casa 3** → don verbal para advertir; aislamiento por decir lo que otros callan.
 - **Casa 9** → predicciones sobre viajes o estudios; verdad filosófica poco popular.
 - **Casa 12** → visiones psíquicas o sueños premonitorios.
-
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|---------|
-| Casandra  | 114     |
