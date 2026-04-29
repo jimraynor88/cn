@@ -3,6 +3,7 @@ title: "Eros y Psique – La sombra del deseo que se vuelve luz"
 asteroides: [433, 16]
 vinculo: "amor – alma – deseo – traición iniciática"
 casa_tipica: [1, 5, 8, 12]
+icon: "🦋"
 tags: [mito, psique, eros, iluminación]
 ---
 
@@ -21,12 +22,6 @@ Psique, una princesa mortal de belleza excepcional, despertó la ira de Afrodita
 - **Casa 5** → tus romances son iniciáticos; cada amor te enseña algo sobre ti mismo.
 - **Casa 8** → el sexo es una puerta a la trascendencia o a heridas muy profundas.
 - **Casa 12** → el amor idealizado, el romance que transcurre en la imaginación o en secreto.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Eros      | 433    |
-| Psique    | 16     |
 
 > 🌹 *Consejo*: presta atención si forman oposición o cuadratura. Esa es la tensión entre "lo que me excita" y "lo que me da seguridad".
 > 🌹 *Consejo*: presta atención si forman conjunción con el Ascendente o el Nodo Sur → vínculo kármico muy intenso.
