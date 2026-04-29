@@ -28,7 +28,6 @@ tags: [mito, guerra, estrategia, fuerza]
 - **Casa 7** → socios que actúan por deber (Héctor) o socios demasiado competitivos.
 - **Casa 10** → una reputación de gran estratega (Néstor, Diomedes) o de defensor del honor (Héctor).
 
-## 🌐 En Astro.com
 | Asteroide | Número |
 |-----------|--------|
 | Néstor    | 659    |
