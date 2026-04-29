@@ -21,9 +21,4 @@ La Esfinge era un monstruo con cuerpo de león, alas de águila y rostro de muje
 - **Casa 7**: ¿Quién es mi pareja? El amor como misterio que no se resuelve desde fuera.
 - **Casa 9**: ¿Cuál es mi verdad filosófica? El dogma como trampa; la fe como respuesta íntima.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Esfinge   | 896    |
-
 > 🧠 *Consejo*: la Esfinge no te pregunta datos. Te pregunta quién eres. La respuesta correcta no es un concepto, es tu propia vida vivida.
