@@ -21,9 +21,3 @@ tags: [mito, sombra, violencia, poder femenino]
 - **Casa 7** → conflictos de poder extremos; el matrimonio como campo de batalla.
 - **Casa 8** → herencias envenenadas; asesinato psicológico; sexo como arma.
 - **Casa 12** → venganzas inconscientes; violencia doméstica oculta.
-
-## 🌐 En Astro.com
-| Asteroide   | Número |
-|-------------|---------|
-| Medea       | 212     |
-| Clitemnestra| 179     |
