@@ -21,10 +21,4 @@ Dejanira era esposa de Heracles. Al cruzarse con el centauro **Nessus**, este in
 - **Casa 8** → trauma sexual, manipulación en herencias, sexo ligado a culpa.
 - **Casa 12** → patrón inconsciente de auto-sabotaje o martirio heredado.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Dejanira  | 157    |
-| Nessus    | 7066   |
-
 > 🧠 *Consejo*: actívalos juntos para explorar el ciclo. No son "bueno o malo", sino un espejo de patrones a sanar.
