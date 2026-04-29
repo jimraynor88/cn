@@ -23,10 +23,4 @@ Belerefonte fue un héroe griego que, con la ayuda de Atenea, domó al caballo a
 - **Conjunción Belerefonte-Pegaso en Casa 9**: viaje de éxito intelectual que termina en crisis de fe.
 - **Belerefonte en Casa 10**: carrera meteórica seguida de caída pública.
 
-## 🌐 En astro.com
-| Asteroide  | Número |
-|------------|--------|
-| Belerefonte| 1808   |
-| Pegaso     | 5731   |
-
 > 🪶 *Consejo*: si Belerefonte está en aspecto con Saturno, la caída puede frenarse. Saturno te recuerda tu altura máxima. Si está con Júpiter, el vuelo es más peligroso (expansión sin límite).
