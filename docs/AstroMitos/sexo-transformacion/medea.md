@@ -20,8 +20,3 @@ Hechicera de la Cólquide, hija del rey Eetes y de la diosa Hécate. Enamoró a 
 - **Casa 7** → venganza hacia un ex que te abandonó.
 - **Casa 8** → secretos esotéricos; poder sexual como herramienta de control.
 - **Casa 12** → el poder inconsciente de la hechicería.
-
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|---------|
-| Medea     | 212     |
