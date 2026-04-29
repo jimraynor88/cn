@@ -1,6 +1,6 @@
 ---
 title: "Los Cíclopes – La mirada única que forja el rayo"
-asteroides: [2257, 17258, ??]
+asteroides: [2257, 17258]
 vinculo: "creación – poder bruto – singularidad – artesanía divina"
 casa_tipica: [5, 6, 8, 10]
 tags: [mito, herrero, rayo, titán]
@@ -21,11 +21,5 @@ Los Cíclopes eran tres gigantes de un solo ojo, hijos de Urano (el Cielo) y Gea
 - **Casa 6** → trabajo físico pesado, artesanos, herreros, fabricantes de armas.
 - **Casa 8** → poder transformador a través de instrumentos creados por uno mismo.
 - **Casa 10** → cirujanos especialistas, artesanos famosos, arquitectos.
-
-## 🌐 En astro.com
-| Asteroide      | Número |
-|----------------|--------|
-| Brontes        | 2257   |
-| Cíclope genérico | No hay número unificado |
 
 > 👁️ *Consejo*: usa **Brontes (2257)** para rastrear la energía de "creador del rayo". Para Estéropes y Arges, tendrás que trabajar con el mito puro o esperar a que algún día se nombren asteroides con esos nombres. Mientras, puedes activar **Hefesto (2212)** , que lidera el taller de los Cíclopes.
