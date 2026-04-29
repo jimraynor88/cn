@@ -31,9 +31,4 @@ Dédalo fue el más grande arquitecto, escultor e inventor de la mitología grie
 - **Dédalo en Acuario**: laberintos tecnológicos; inteligencia artificial compleja.
 - **Dédalo en Piscis**: confusión creativa; el arte como laberinto sin salida.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Dédalo    | 1864   |
-
 > 🕊️ *Consejo*: si Dédalo está en conjunción con Mercurio, hay un talento especial para diseñar sistemas de comunicación. Si está con Saturno, las estructuras que creas serán muy duraderas pero también muy difíciles de modificar.
