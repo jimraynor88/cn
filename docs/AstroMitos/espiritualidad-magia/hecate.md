@@ -31,9 +31,4 @@ Hécate es una Titánide que conservó sus poderes después de la derrota de los
 - **Hécate en Acuario**: hechicería tecnológica, magia de redes.
 - **Hécate en Piscis**: trance, mediumnidad, hechizos de agua.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Hécate    | 100    |
-
 > 🕯️ *Consejo*: fíjate si Hécate está en conjunción con la Luna o con el Ascendente. Indica una persona con habilidades psíquicas activas desde la infancia.
