@@ -341,11 +341,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CartaNatal.de/AstroMitos/justicia-ley/cerbero/</loc>
-         <lastmod>2026-04-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://CartaNatal.de/AstroMitos/justicia-ley/fides/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -362,6 +357,11 @@
     </url>
     <url>
          <loc>https://CartaNatal.de/AstroMitos/justicia-ley/temis-astrea/</loc>
+         <lastmod>2026-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CartaNatal.de/AstroMitos/monstruos-criaturas/cerbero/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
