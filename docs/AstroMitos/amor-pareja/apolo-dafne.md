@@ -1,6 +1,7 @@
 ---
 title: "Apolo y Dafne – El Amor que Huye y el Laurel"
 asteroides: [1862, (Dafne 41)]
+ico: "🏹"
 vinculo: "persecución – rechazo – transformación – laurel"
 casa_tipica: [3, 5, 7, 9]
 tags: [mito, apolo, dafne, árbol]
@@ -22,11 +23,5 @@ Apolo, dios de la luz, la música y la profecía, ridiculizó a Eros (Cupido). �
 - **Dafne en tierra** → la huida se materializa en cambios físicos (salud, trabajo).
 - **Dafne en aire** → frialdad intelectual como defensa.
 - **Conjunción Apolo-Dafne** → necesidad de reconciliar el impulso amoroso con la libertad individual.
-
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Apolo     | 1862   |
-| Dafne     | 41     |
 
 > 🌿 *Consejo*: si Dafne está en Casa 7, indica tendencia a huir del compromiso convirtiéndote en otra cosa (trabajo, arte, espiritualidad). La corona de laurel es el premio a esa huida.
