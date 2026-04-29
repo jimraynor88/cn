@@ -27,9 +27,4 @@ Activan la conciencia punitiva, el remordimiento que no te deja dormir y la viol
 - **Erinias en Acuario**: culpa por no haber ayudado a la humanidad.
 - **Erinias en Piscis**: fantasmas, sueños punitivos, miedo a enloquecer.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Erynnia   | 889    |
-
 > ⚖️ *Consejo avanzado*: si tienes a Erynnia (889) en cuadratura con la Luna o Saturno, revisa venganzas familiares sin resolver.
