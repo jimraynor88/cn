@@ -11,11 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CartaNatal.de/AstroMitos/selene-endimion/</loc>
-         <lastmod>2026-04-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://CartaNatal.de/AstroMitos/selene/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -112,6 +107,11 @@
     </url>
     <url>
          <loc>https://CartaNatal.de/AstroMitos/amor-pareja/paris-helena/</loc>
+         <lastmod>2026-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CartaNatal.de/AstroMitos/amor-pareja/selene-endimion/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
