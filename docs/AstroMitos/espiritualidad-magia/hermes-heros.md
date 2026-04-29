@@ -32,10 +32,4 @@ tags: [mito, hermes, tránsito, iniciación]
 - **Hermes en Acuario**: mensajes desde el inconsciente colectivo; tecnología de trance.
 - **Hermes en Piscis**: disolución de la frontera vida/muerte; comunicación onírica constante.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Hermes    | 69230  |
-| Heros     | sin número oficial; usa el concepto de héroe espacial |
-
 > *Consejo*: Hermes en aspecto con la Luna en Casa 12 puede indicar sueños premonitorios o capacidad de hablar con fallecidos. No es “planeta”, es embajador de los límites.
