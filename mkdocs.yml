@@ -2,8 +2,8 @@ site_name: CartaNatal.de
 site_url: https://CartaNatal.de
 site_author: "Jim Raynor"
 #edit_uri: ""
-repo_url: https://ko-fi.com/invito/?hidefeed=true&widget=true
-repo_name: Invítame al Ko-Fi
+repo_url: /servicios/carta-natal-personalizada/
+repo_name: Haz mi Carta Natal
 
 theme:
   name: material
@@ -27,8 +27,8 @@ theme:
        # icon: material/brightness-7
         #name: Cambiar a modo claro
   icon:
-    repo: fontawesome/solid/mug-hot
-  favicon: assets/favicon.ico
+    repo: material/brightness-7
+  favicon: material/brightness-7
   highlightjs: true
   features:
     - navigation.tabs
