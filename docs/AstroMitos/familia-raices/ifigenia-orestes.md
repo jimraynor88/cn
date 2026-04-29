@@ -21,10 +21,4 @@ Ifigenia, hija de Agamenón y Clitemnestra, iba a ser sacrificada por su propio 
 - **Casa 8** → violencia familiar, secretos de sangre, herencias envenenadas.
 - **Casa 12** → el sacrificio inconsciente; el familiar olvidado; la culpa colectiva que se arrastra.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Ifigenia  | 112    |
-| Orestes   | 134    |
-
 > 🏹 *Consejo*: activa también a **Agamenón (911)** y **Clitemnestra (179)** para ver la dinámica completa del drama familiar griego.
