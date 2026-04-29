@@ -18,5 +18,5 @@ Ofiuco no es un asteroide, sino una **constelación zodiacal real** que atravies
 ## 🧩 Ubicación por signo
 - **Ofiuco actuará como si fuera un signo más**, exigiendo que incorpores todo lo que Escorpio reprimió y Sagitario expande sin mirar atrás. Es la costura entre la muerte (Escorpio) y el viaje (Sagitario): la **resurrección**.
 
-## 🌐 En astro.com
+
 No tiene número. Debes calcularlo con coordenadas eclípticas específicas (entre 225° y 270°). En `astro.com`, activa la opción de **signos siderales** o usa coordenadas personalizadas.
