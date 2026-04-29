@@ -28,8 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Generate indexes
-        run: python scripts/generate_indexes.py
+  #    - name: Generate indexes
+    #    run: python scripts/generate_indexes.py
     #  - name: Generate blog index pages
     #    run: python scripts/generate_blog_index.py
 
@@ -45,16 +45,16 @@ jobs:
 
      # - name: Proteger archivos de la categoría
      #   run: python scripts/protect_folders.py
-     
+      - name: Add prev/next links
+        run: python scripts/add_prev_next.py site   # pasa el directorio de salida
 
       - name: Build site
         run: mkdocs build
         #run: mkdocs build --strict
-      - name: Generate category indexes after build
-        run: python scripts/generate_category_indexes_in_site.py
+  #    - name: Generate category indexes after build
+  #      run: python scripts/generate_category_indexes_in_site.py
 
-      - name: Add prev/next links
-        run: python scripts/add_prev_next.py site   # pasa el directorio de salida
+     
 
      # - name: Add CNAME
       #  run: echo "jim88.pp.ua" > ./site/CNAME
