@@ -22,10 +22,4 @@ tags: [mito, compromiso, autoridad, realeza]
 - **Casa 9** → matrimonio intercultural, con un extranjero, o con un líder religioso/académico.
 - **Casa 10** → el cónyuge impulsa la carrera; la pareja es parte de la imagen pública.
 
-## 🌐 En astro.com
-| Cuerpo      | Número / Símbolo |
-|-------------|------------------|
-| Juno        | 3                |
-| Júpiter     | planeta (no se numera como asteroide) |
-
 > ⚖️ *Consejo*: activa también **Venus** y **Marte** para ver cómo se mezcla el amor con el poder.
