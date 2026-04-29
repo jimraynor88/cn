@@ -30,7 +30,6 @@ Activan tu **capacidad para generar placer estético**, tu **habilidad social pa
 - **Cárites en Acuario**: Encanto excéntrico, raro y original.
 - **Cárites en Piscis**: Belleza etérea y soñadora.
 
-## 🌐 En astro.com
 | Asteroide   | Número | Significado |
 |-------------|--------|-------------|
 | Aglaya      | 47     | Belleza radiante, esplendor |
