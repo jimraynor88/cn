@@ -21,9 +21,3 @@ tags: [mito, nupcial, guerra, ascendencia]
 - **Casa 5** → nacimiento de un hijo especial, una descendencia heroica o problemática.
 - **Casa 7** → un matrimonio o asociación que te desborda o transforma.
 - **Casa 10** → la propia ascendencia o reputación vinculada a un linaje excepcional.
-
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|---------|
-| Tetis     | 17      |
-| Peleo     | 11351   |
