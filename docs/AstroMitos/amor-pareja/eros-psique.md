@@ -3,7 +3,7 @@ title: "Eros y Psique – La sombra del deseo que se vuelve luz"
 asteroides: [433, 16]
 vinculo: "amor – alma – deseo – traición iniciática"
 casa_tipica: [1, 5, 8, 12]
-icon: "🦋"
+ico: "🦋"
 tags: [mito, psique, eros, iluminación]
 ---
 
