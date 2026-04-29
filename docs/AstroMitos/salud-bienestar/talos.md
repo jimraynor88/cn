@@ -23,9 +23,4 @@ Talos era un autómata de bronce forjado por Hefesto, regalado a Europa y luego 
 - **Talos en Capricornio**: sistemas de vigilancia laboral; protocolos inflexibles.
 - **Talos en Acuario**: robots domésticos; defensa perimetral tecnológica.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Talos     | 5786   |
-
 > *Consejo*: Talos en la Casa 6 puede indicar un trabajo repetitivo hasta el límite, donde la más mínima rotura en la rutina puede derrumbar todo el sistema de salud o laboral.
