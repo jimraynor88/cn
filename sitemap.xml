@@ -101,11 +101,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CartaNatal.de/AstroMitos/esperides/</loc>
-         <lastmod>2026-04-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://CartaNatal.de/AstroMitos/estrategas-troya/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -342,6 +337,11 @@
     </url>
     <url>
          <loc>https://CartaNatal.de/AstroMitos/espiritualidad-magia/hermes-heros/</loc>
+         <lastmod>2026-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CartaNatal.de/AstroMitos/espiritualidad-magia/hesperides/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
