@@ -32,34 +32,26 @@ jobs:
     #    run: python scripts/generate_indexes.py
     #  - name: Generate blog index pages
     #    run: python scripts/generate_blog_index.py
-
       # NUEVO PASO: Generar la tienda
       - name: Generate shop data
         run: python scripts/generar_tienda.py
-
      # - name: Check links and aliases
       #  run: python scripts/check_links.py
-        
       #- name: Standardize frontmatter
       #  run: python scripts/standardize_frontmatter.py
-
      # - name: Proteger archivos de la categoría
      #   run: python scripts/protect_folders.py
-     
-
       - name: Build site
         run: mkdocs build
         #run: mkdocs build --strict
-  #    - name: Generate category indexes after build
-  #      run: python scripts/generate_category_indexes_in_site.py
+      #- name: Generate category indexes after build
+      #  run: python scripts/generate_category_indexes_in_site.py
+      #- name: Add prev/next links
+      #  run: python scripts/add_prev_next.py site   # pasa el directorio de salida  
+      #- name: Add CNAME
+      #  run: echo "jim88.pp.ua" > ./site/CNAME
       - name: Add prev/next links (file-based)
         run: python scripts/add_prev_next_filebased.py site
-  #    - name: Add prev/next links
-   #     run: python scripts/add_prev_next.py site   # pasa el directorio de salida  
-
-     # - name: Add CNAME
-      #  run: echo "jim88.pp.ua" > ./site/CNAME
-
       - name: Create MTA-STS and .nojekyll
         run: |
           mkdir -p site/.well-known
