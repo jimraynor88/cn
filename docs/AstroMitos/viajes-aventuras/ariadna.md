@@ -22,9 +22,4 @@ Ariadna, hija del rey Minos de Creta, se enamoró de Teseo y le entregó un ovil
 - **Ariadna en Virgo**: el hilo es de servicio; laberinto de trabajo.
 - **Ariadna en Escorpio**: el hilo es sexual o mágico; laberinto de transformación.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Ariadna   | 43     |
-
 > 🧩 *Consejo*: si Ariadna está en Casa 7, puedes sentir que entregas todo a la relación y luego te abandonan sin nada; el cambio es que lo entregado no era todo, tu inmortalidad ya está dentro.
