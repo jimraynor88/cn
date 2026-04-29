@@ -22,10 +22,4 @@ Odiseo (Ulises), rey de Ítaca y héroe de la guerra de Troya, protagonizó un v
 - **Odiseo en Sagitario**: viaje de sentido; la odisea es filosófica.
 - **Odiseo en Piscis**: viaje de disolución; casi pierdes la identidad en el mar.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Odiseo    | 1143   |
-| Ulises    | 5254?  |
-
 > 🏺 *Consejo*: si Odiseo está en Casa 12, el viaje de regreso es hacia el interior. Los monstruos que enfrentas son tus propios fantasmas.
