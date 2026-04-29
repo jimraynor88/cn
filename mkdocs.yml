@@ -2,7 +2,7 @@ site_name: CartaNatal.de
 site_url: https://CartaNatal.de
 site_author: "Jim Raynor"
 #edit_uri: ""
-repo_url: /servicios/carta-natal-personalizada/
+repo_url: https://cartanatal.de/servicios/carta-natal-personalizada/
 repo_name: Haz mi Carta Natal
 
 theme:
