@@ -21,9 +21,4 @@ Apofis (Apep) era la serpiente gigante del caos en la mitología egipcia, enemig
 - **Casa 8**: experiencia cercana a la muerte; crisis financiera o sexual límite.
 - **Casa 12**: colapso psicológico del que se sale por poco; ataque de pánico o crisis espiritual.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Apofis    | 99942  |
-
 > 🌑 *Consejo*: Apofis no es un anuncio de catástrofe. Es un recordatorio de que sobreviviste a tu propia noche oscura y el sol volvió a salir.
