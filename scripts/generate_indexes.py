@@ -16,12 +16,12 @@ def slug_to_title(slug: str) -> str:
     return ' '.join(w.capitalize() for w in words)
 
 def extract_icon_from_md(filepath: Path) -> str:
-    """Intenta leer el frontmatter para sacar un icono (ej. 'icon: 💘')."""
+    """Intenta leer el frontmatter para sacar un icono (ej. 'ico: 💘')."""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
         # Buscar 'icon: ' en las primeras 20 líneas
-        match = re.search(r'icon:\s*([^\n]+)', content[:2000])
+        match = re.search(r'ico:\s*([^\n]+)', content[:2000])
         if match:
             return match.group(1).strip()
     except:
