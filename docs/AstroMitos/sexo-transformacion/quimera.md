@@ -21,9 +21,4 @@ La Quimera era un monstruo hija de Tifón y Equidna, con cabeza de león, cuerpo
 - **Casa 8**: perversión sexual, transformación peligrosa; poder que se vuelve contra ti.
 - **Casa 12**: autoengaño fantástico; confundir la sombra con la realidad.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Quimera   | 623    |
-
 > 🦁 *Consejo*: para domar a Quimera, no te enfrentes cuerpo a cuerpo. Usa la altura (perspectiva, inteligencia, arte). Pegaso es tu aliado.
