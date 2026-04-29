@@ -25,11 +25,4 @@ tags: [mito, troyano, romanos, destino]
 - **Casa 9** → viajes que cambian tu destino; vivir en el extranjero.
 - **Casa 12** → el duelo por la patria perdida; el exilio interior.
 
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Príamo    | 884    |
-| Eneas     | 1172   |
-| Anquises  | 1173   |
-
 > 🐺 *Consejo*: activa también a **Rómulo (10386)** y **Remo (5853)** para cerrar el ciclo de la fundación de Roma. Si Eneas está en casa 10, tu carrera puede implicar representar a otra cultura o ser un "puente" entre mundos.
