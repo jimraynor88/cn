@@ -1,4 +1,3 @@
-
 ---
 title: "Las Ninfas – Las Almas de los Árboles y el Agua"
 asteroides: [Multiple]
@@ -35,7 +34,6 @@ Activan tu **conexión con lo salvaje y lo orgánico**, los **doncellas que no p
 - **Ninfas en Acuario**: Ninfas extrañas, de especies botánicas que aún no existen.
 - **Ninfas en Piscis**: Ninfas que se disuelven en el mar, sin forma fija.
 
-## 🌐 En astro.com
 | Asteroide | Número | Tipo |
 |-----------|--------|------|
 | Naiad     | 152    | Náyade (agua dulce) |
