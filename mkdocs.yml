@@ -76,6 +76,7 @@ plugins:
       encrypted_something:
         main: [main, tag]
  # - section-index
+  - sitemap
   - rss:
       match_path: "AstroMitos/.*"
       date_from_meta:
