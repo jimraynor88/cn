@@ -28,7 +28,7 @@ def main():
         # Extraer la ruta relativa desde site_dir
         # Ej: https://jim88.pp.ua/Astrologia/Carta_Natal/casa_01/ -> casa_01/index.html
         # O mejor, usamos la ruta real en disco
-        path = url.replace("https://soyel.de", "").lstrip("/")
+        path = url.replace("https://cartanatal.de", "").lstrip("/")
         if path.endswith("/"):
             path = path + "index.html"
         else:
