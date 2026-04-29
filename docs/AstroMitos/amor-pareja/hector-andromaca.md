@@ -21,10 +21,4 @@ Héctor, príncipe de Troya, era el mejor defensor de su ciudad. Esposo de **And
 - **Casa 7** → pareja marcada por el deber o la separación trágica.
 - **Casa 10** → carrera construida sobre una pérdida pública; legado familiar.
 
-## 🌐 En astro.com
-| Asteroide   | Número |
-|-------------|--------|
-| Héctor      | 1179   |
-| Andrómaca   | 271    |
-
 > 🛡️ *Consejo*: activa también **Aquiles (588)** y **Patroclo (617)** para ver el drama completo de la cólera y la lealtad.
