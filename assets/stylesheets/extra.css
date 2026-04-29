@@ -21,8 +21,9 @@
     --md-default-fg-color: #e2e8f0;
     --md-default-fg-color--light: #C084FC; /* lila para textos secundarios */
     --md-default-fg-color--lighter: #a0aec0;
-    --md-default-bg-color: #0f172a;        /* fondo general oscuro (azul profundo neutro) */
-    
+    /*--md-default-bg-color: #0f172a;/*        /* fondo general oscuro (azul profundo neutro) */
+    --md-default-bg-color: #0b1120; /* un poco más claro que #0f172a, pero sigue siendo oscuro */
+
     /* Colores para header y footer (los modificamos abajo) */
     --md-header-bg: #0f0f1a;               /* casi negro */
     --md-footer-bg: #0a0a12;               /* más oscuro aún */
