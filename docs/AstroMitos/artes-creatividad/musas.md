@@ -28,7 +28,6 @@ Las musas activarán tu **talento puro**, tu **voz creativa innata** y los **can
 - **Musas en Acuario**: Creatividad tecnológica, rupturista, colectiva.
 - **Musas en Piscis**: Arte onírico, abstracto, que disuelve las fronteras.
 
-## 🌐 En astro.com
 | Asteroide   | Número | Área |
 |-------------|--------|------|
 | Calíope     | 22     | Poesía épica / Elocuencia |
