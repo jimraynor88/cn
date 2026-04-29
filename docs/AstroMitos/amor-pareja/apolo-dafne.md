@@ -1,6 +1,7 @@
 ---
 title: "Apolo y Dafne – El Amor que Huye y el Laurel"
 asteroides: [1862, (Dafne 41)]
+date: "2026-04-27"
 ico: "🏹"
 vinculo: "persecución – rechazo – transformación – laurel"
 casa_tipica: [3, 5, 7, 9]
