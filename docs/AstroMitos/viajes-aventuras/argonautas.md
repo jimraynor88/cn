@@ -23,13 +23,4 @@ Jasón fue el líder de los Argonautas, una tripulación de héroes a bordo del 
 - **Casa 9**: viajes largos y expediciones.
 - **Casa 11**: proyectos grupales para un fin común.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Argos     | 3738   |
-| Jasón     | 8192   |
-| Medea     | 212    |
-| Hércules  | 300    |
-| Vellocino | sin número |
-
 > 🧭 *Consejo avanzado*: si Medea (212) está en aspecto duro con Jasón (8192), el poder sexual o la magia femenina puede ser usada y luego desechada; integra tu propia valía.
