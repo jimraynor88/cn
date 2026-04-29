@@ -4,6 +4,7 @@ asteroides: [3, (Júpiter planeta)]
 vinculo: "matrimonio – ley – expansión"
 casa_tipica: [4, 7, 9, 10]
 tags: [mito, compromiso, autoridad, realeza]
+icon: "👑"
 ---
 
 # 👑 Juno (3) · Júpiter (Planeta)
