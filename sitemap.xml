@@ -206,11 +206,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CartaNatal.de/AstroMitos/ixion/</loc>
-         <lastmod>2026-04-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://CartaNatal.de/AstroMitos/jason-argonautas/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -442,6 +437,11 @@
     </url>
     <url>
          <loc>https://CartaNatal.de/AstroMitos/sexo-transformacion/erinias/</loc>
+         <lastmod>2026-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CartaNatal.de/AstroMitos/sexo-transformacion/ixion/</loc>
          <lastmod>2026-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
