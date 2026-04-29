@@ -22,11 +22,4 @@ tags: [mito, duelo, fertilidad, transformación]
 - **Casa 8** → procesos de herencia, violación, poder sexual, psicoterapia profunda.
 - **Casa 12** → ciclos de pérdida inconscientes, memorias de vidas pasadas.
 
-## 🌐 En astro.com
-| Asteroide  | Número |
-|------------|--------|
-| Ceres      | 1      |
-| Perséfone  | 399    |
-| Plutón     | planeta |
-
 > 😭 *Consejo*: si tienes Ceres en aspecto duro a Plutón, revisa el mito del "rapto" simbólico (separación forzada, duelo crónico).
