@@ -22,9 +22,4 @@ Calipso era una ninfa ( oceánide o hija de Atlas[reference:11]) que vivía en l
 - **Calipso en Escorpio**: la obsesión sexual que no deja avanzar.
 - **Calipso en Piscis**: la disolución en el amor espiritual.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Calipso   | 53     |
-
 > 🏝️ *Consejo*: si Calipso está en Casa 5, un amor de juventud puede retenerte más allá de su tiempo natural, impidiendo otros amores. La liberación llega cuando aceptas que la isla ya no es tu hogar.
