@@ -23,11 +23,4 @@ Las Sirenas eran criaturas mitad mujer, mitad pájaro (en la iconografía antigu
 - **Sirenas en Leo**: el canto del ego, seducción teatral.
 - **Sirenas en Géminis**: tentación de la palabra, chismes que hunden.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Sirena    | 1009   |
-| Parténope | 11     |
-| Leucisia  | 1011   |
-
 > 🧜‍♀️ *Consejo*: busca la oposición entre Sirena y Saturno. Indica una lucha constante entre el deber y la tentación; la posibilidad de amarrarse al mástil.
