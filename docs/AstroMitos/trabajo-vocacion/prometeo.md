@@ -31,9 +31,4 @@ Prometeo, hijo del titán Jápeto y la oceánide Climene, fue el benefactor de l
 - **Prometeo en Acuario**: tecnología para las masas, internet como fuego prometeico.
 - **Prometeo en Piscis**: misticismo transgresor; disolver las fronteras de lo sagrado.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Prometeo  | 1809   |
-
 > ⛓️ *Consejo*: si Prometeo está en aspecto duro con Saturno, revisa las figuras de autoridad que te castigaron por innovar. El águila es tu propia crítica.
