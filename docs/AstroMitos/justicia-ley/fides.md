@@ -30,9 +30,4 @@ tags: [mito, romano, fides, lealtad]
 - **Fides en Acuario**: lealtad a ideales colectivos; pactos de grupo.
 - **Fides en Piscis**: lealtad espiritual; confianza en lo invisible.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Fides     | 37     |
-
 > 🏛️ *Consejo*: si Fides está en oposición a Neptuno, puede haber confusión entre lealtad idealizada y autoengaño. Si está en conjunción con Saturno, la palabra empeñada es indestructible, pero también muy rígida.
