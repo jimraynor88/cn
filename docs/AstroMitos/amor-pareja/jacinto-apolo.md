@@ -23,10 +23,4 @@ Jacinto era un príncipe espartano de extraordinaria belleza, amado por Apolo y 
 - **En Escorpio**: pérdida que transforma la sexualidad.
 - **En Piscis**: amor idealizado que se desvanece en el arte.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Jacinto   | 5254   |
-| Apolo     | 1862   |
-
 > 🌸 *Consejo*: si Jacinto está en Casa 5, presta atención a los hijos o a las obras creativas que nacen de una pérdida significativa.
