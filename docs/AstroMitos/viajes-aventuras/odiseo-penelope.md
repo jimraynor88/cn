@@ -21,10 +21,5 @@ Odiseo, rey de Ítaca y héroe de la Guerra de Troya, pasó veinte años intenta
 - **Casa 7** → esperar años por la pareja adecuada; matrimonios que superan la distancia física.
 - **Casa 12** → un secreto familiar de larga espera; una promesa que nunca se rompe, aunque el mundo la ignore.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Odiseo    | 1143   |
-| Penélope  | 201    |
 
 > ⏳ *Consejo*: si activas también a **Telémaco (1583)** (hijo de ambos), verás el triángulo completo: el hijo que crece sin el padre y es testigo de la espera.
