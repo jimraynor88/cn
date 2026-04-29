@@ -1,4 +1,3 @@
-
 ---
 title: "Los Guerreros Épicos (Aquiles, Héctor, Néstor)"
 asteroides: [588, 624, 659]
@@ -31,7 +30,6 @@ Activan tu **rol en los conflictos**, tu **estilo de liderazgo en crisis** y có
 - **Odysseus (1143) en Géminis**: Seducir al enemigo con palabras.
 - **Odysseus en Escorpio**: La astucia para manipular desde las sombras.
 
-## 🌐 En astro.com
 | Asteroide  | Número |
 |------------|--------|
 | Aquiles    | 588    |
