@@ -1,7 +1,8 @@
 ---
 title: "Hefesto, Afrodita y Ares – El herrero, la belleza y la guerra"
-ico: "🔨"
 asteroides: [2212, (Venus planeta), (Marte planeta)]
+date: "2026-04-27"
+ico: "🔨"
 vinculo: "artesanía – deseo – conflicto – humillación"
 casa_tipica: [5, 7, 8, 10]
 tags: [mito, triángulo, pasión, creatividad]
