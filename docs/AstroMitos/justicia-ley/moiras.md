@@ -31,7 +31,6 @@ Las Moiras (Parcas en Roma) son tres hermanas hijas de la Noche (Nix) o de Zeus 
 - **Moiras en Acuario**: grupos y tecnología como hilo colectivo.
 - **Moiras en Piscis**: Destino espiritual, maraña kármica.
 
-## 🌐 En astro.com
 | Asteroide | Número |
 |-----------|--------|
 | Klotho    | 97     |
