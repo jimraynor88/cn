@@ -76,13 +76,13 @@ plugins:
       encrypted_something:
         main: [main, tag]
  # - section-index
-  - rss:
-      match_path: "AstroMitos/.*"
-      date_from_meta:
-        as_creation: date
-        as_update: false
-      length: 20
-      abstract_chars_count: 160
+ # - rss:
+  #    match_path: "AstroMitos/.*"
+   #   date_from_meta:
+    #    as_creation: date
+     #   as_update: false
+      #length: 20
+     # abstract_chars_count: 160
   - glightbox
   - mkdocs-video
 
