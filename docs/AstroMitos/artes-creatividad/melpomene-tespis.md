@@ -21,10 +21,4 @@ tags: [mito, teatro, máscara, actor]
 - **Melpómene en Escorpio**: tragedias psicológicas, bajezas humanas.
 - **Melpómene en Piscis**: teatralización del inconsciente; identidad líquida.
 
-## 🌐 En astro.com
-| Asteroide  | Número |
-|------------|--------|
-| Melpómene  | 18     |
-| (Tespis)   | sin número oficial |
-
 > *Consejo*: Si Melpómene está en Casa 12, puede ser un indicador de una imaginación tan vívida que el personaje creado acaba dominando tu psique.
