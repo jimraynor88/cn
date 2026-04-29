@@ -75,9 +75,9 @@ plugins:
       encryption_info_message: '🔒 Necesitas credenciales para ver este contenido.'
       encrypted_something:
         main: [main, tag]
-  - section-index
+ # - section-index
   - rss:
-      match_path: "blog/posts/.*"
+      match_path: "AstroMitos/.*"
       date_from_meta:
         as_creation: date
         as_update: false
