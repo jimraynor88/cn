@@ -21,8 +21,3 @@ tags: [mito, realeza, pérdida, venganza]
 - **Casa 7** → pareja que arrastra a toda la familia a una crisis.
 - **Casa 10** → caída del estatus público; la reputación que se derrumba.
 - **Casa 12** → el dolor secreto; la transformación en bestia como defensa última.
-
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|---------|
-| Hécuba    | 108     |
