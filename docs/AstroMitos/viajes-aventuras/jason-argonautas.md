@@ -24,7 +24,6 @@ tags: [mito, argonautas, jasón, viaje]
 - **Vellocino en Tauro**: el tesoro material o económico que se busca.
 - **Jasón en Escorpio**: el héroe que se alía con la hechicera y la traiciona.
 
-## 🌐 En astro.com
 | Asteroide | Número |
 |-----------|--------|
 | Jasón     | 8192   |
