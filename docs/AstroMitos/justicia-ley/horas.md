@@ -28,11 +28,4 @@ Activan tu sentido del orden social, tu capacidad para mediar y generar justicia
 - **Horas en Acuario**: justicia colectiva, para todos.
 - **Horas en Piscis**: orden que disuelve las fronteras; justicia restaurativa.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Eunomia   | 15     |
-| Irene     | 14     |
-| Dice      | 99     |
-
 > 🏛️ *Consejo*: si Irene (14) está en tu Casa 10, tu carrera se vinculará a la diplomacia o a la resolución de conflictos.
