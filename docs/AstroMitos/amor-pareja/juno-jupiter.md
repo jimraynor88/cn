@@ -1,6 +1,7 @@
 ---
 title: "Juno y Júpiter – Poder y pacto conyugal"
 asteroides: [3, (Júpiter planeta)]
+date: "2026-04-27"
 vinculo: "matrimonio – ley – expansión"
 casa_tipica: [4, 7, 9, 10]
 tags: [mito, compromiso, autoridad, realeza]
