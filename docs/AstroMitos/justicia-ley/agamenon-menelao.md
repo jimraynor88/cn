@@ -20,9 +20,3 @@ tags: [mito, realeza, familia, destino]
 - **Casa 4** → familia marcada por el destino; sacrificios exigidos desde el hogar.
 - **Casa 7** → el socio como cómplice de un destino violento.
 - **Casa 10** → carrera construida sobre deudas de sangre; un padre tirano.
-
-## 🌐 En Astro.com
-| Asteroide | Número |
-|-----------|---------|
-| Agamenón  | 911     |
-| Menelao   | 1647    |
