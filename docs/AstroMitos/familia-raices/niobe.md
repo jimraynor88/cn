@@ -22,10 +22,4 @@ Níobe, hija de Tántalo y reina de Tebas, cometió la mayor de las arrogancias 
 - **Casa 5**: Pérdidas relacionadas con los hijos o con la propia creatividad.
 - **Casa 12**: El dolor inconsciente que se vuelve una losa de piedra.
 
-## 🌐 En astro.com
-| Asteroide | Número |
-|-----------|--------|
-| Níobe     | 71     |
-| Tántalo   | 2102   |
-
 > 🪨 *Consejo*: Si Níobe está en la Casa 5 en aspecto duro con Plutón, se recomienda prestar especial atención a los temas de pérdida gestacional o a la necesidad de "resignificarse" después de un fracaso creativo traumático.
