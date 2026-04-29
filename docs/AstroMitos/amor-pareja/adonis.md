@@ -1,5 +1,6 @@
 ---
 title: "Adonis – El Amante que Muere Cada Año"
+date: "2026-04-27"
 asteroides: [2101]
 vinculo: "belleza – caza – muerte – renacimiento vegetal"
 casa_tipica: [1, 5, 8]
