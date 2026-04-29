@@ -45,8 +45,7 @@ jobs:
 
      # - name: Proteger archivos de la categoría
      #   run: python scripts/protect_folders.py
-      - name: Add prev/next links
-        run: python scripts/add_prev_next.py site   # pasa el directorio de salida
+     
 
       - name: Build site
         run: mkdocs build
@@ -54,7 +53,8 @@ jobs:
   #    - name: Generate category indexes after build
   #      run: python scripts/generate_category_indexes_in_site.py
 
-     
+      - name: Add prev/next links
+        run: python scripts/add_prev_next.py site   # pasa el directorio de salida  
 
      # - name: Add CNAME
       #  run: echo "jim88.pp.ua" > ./site/CNAME
