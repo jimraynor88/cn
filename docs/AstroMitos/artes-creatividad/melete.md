@@ -7,7 +7,7 @@ tags: [mito, musa, práctica, esfuerzo]
 # 🏺 *Melete (56)* · La musa de la práctica
 
 ## 📖 Historia compartida
-Melete era una de las tres **musas originales** (antes de las nueve olímpicas), hijas de Urano y Gea, junto a Mneme (memoria) y Aoide (canto). Su nombre significa **"práctica"** o **"ejercicio"**. Presidía el esfuerzo constante, la repetición que conduce a la maestría. En la tradición posterior, fue absorbida por la musa Calíope (poesía épica), pero su esencia perdura: el talento sin práctica es solo potencial. Melete simboliza la **dedicación diaria**, la **paciencia del artesano** y la **transformación del hábito en arte**.
+Melete era una de las tres **musas originales** (antes de las nueve olímpicas), hijas de Zeus y Mnemósine (memoria), según algunas fuentes (otras la hacen hija de Urano y Gea). Su nombre significa "práctica", "ejercicio" o "meditación". Junto a su hermanas Aede (canto) y Mneme (memoria), presidía el trabajo constante que precede a la creación artística. Mientras las musas olímpicas inspiran el don, Melete representa el **esfuerzo deliberado, la repetición y la concentración** que convierten el talento en técnica. Es la musa del **artesano que pule su obra**, no solo del poeta iluminado. En la tradición posterior, fue absorbida por la musa Calíope (poesía épica), pero su esencia perdura: el talento sin práctica es solo potencial. Melete simboliza la **dedicación diaria**, la **paciencia del artesano** y la **transformación del hábito en arte**.
 
 ## 🔮 Lectura astrológica del vínculo
 - **Melete** señala **dónde la constancia y la repetición son la clave de tu éxito**. No es la inspiración repentina, sino el trabajo diario y meticuloso.
