@@ -27,7 +27,7 @@ theme:
         icon: material/brightness-7
         name: Cambiar a modo claro
   icon:
-    repo: https://cnn.jimraynor.workers.dev/cn.svg
+    repo: fontawesome/solid/bag-shopping
     #repo: material/brightness-7
   favicon: material/brightness-7
   highlightjs: true
