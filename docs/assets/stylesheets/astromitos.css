@@ -1,0 +1,17 @@
+
+}
+.btn-carta:hover {
+    background: var(--md-accent-fg-color--light);
+    transform: scale(1.02);
+    color: #1e1b4b;
+}
+.footer-note {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--md-default-fg-color--lighter);
+}
+@media (max-width: 600px) {
+    .hero h1 { font-size: 2rem; }
+    .catalog-list { columns: 1; }
+}
