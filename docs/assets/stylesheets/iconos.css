@@ -5,7 +5,7 @@
 /* 1. Inicio (home) */
 .md-tabs__list > li:nth-child(1) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/home.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/home.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -20,7 +20,7 @@
 /* 2. AstroMitos */
 .md-tabs__list > li:nth-child(2) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/blog.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/blog.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -35,7 +35,7 @@
 /* 3. Acerca Mía */
 .md-tabs__list > li:nth-child(3) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/acerca.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/acerca.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -50,7 +50,7 @@
 /* 4. Contacto */
 .md-tabs__list > li:nth-child(4) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/contacto.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/contacto.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -65,7 +65,7 @@
 /* 5. Cursos */
 .md-tabs__list > li:nth-child(5) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/seguridad.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/seguridad.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -80,7 +80,7 @@
 /* 6. Servicios */
 .md-tabs__list > li:nth-child(6) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/servicios.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/servicios.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -95,7 +95,7 @@
 /* 7. Temas 
 .md-tabs__list > li:nth-child(7) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/temas.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/temas.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
