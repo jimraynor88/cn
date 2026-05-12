@@ -57,7 +57,7 @@ extra_css:
   - assets/stylesheets/extra.css
 #  - assets/stylesheets/cn.css
   - assets/stylesheets/astromitos.css
-  #- assets/stylesheets/cartanatal.css   # <--- NUEVO: el archivo de estilos personalizados
+  #- assets/stylesheets/iconos.css
 
 hooks:
   - hooks/read_aloud_hook.py
