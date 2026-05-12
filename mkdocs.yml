@@ -56,7 +56,7 @@ theme:
     
 extra_css:
   - assets/stylesheets/colors.css
-#  - assets/stylesheets/cn.css
+  - assets/stylesheets/cn.css
   - assets/stylesheets/astromitos.css
   - assets/stylesheets/iconos.css
   - assets/stylesheets/topbar.css
