@@ -55,7 +55,7 @@ theme:
     - navigation.tracking     # Actualiza la URL con el título de la página al navegar (para instant)
     
 extra_css:
-  - assets/stylesheets/extra.css
+  - assets/stylesheets/colors.css
 #  - assets/stylesheets/cn.css
   - assets/stylesheets/astromitos.css
   - assets/stylesheets/iconos.css
