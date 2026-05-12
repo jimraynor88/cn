@@ -29,12 +29,11 @@ theme:
   icon:
     repo: fontawesome/solid/bag-shopping
     #repo: material/brightness-7
-  favicon: material/brightness-7
+  favicon: assets/images/iconos/favicon.ico
   highlightjs: true
   
   features:
     - navigation.tabs        # pestañas en el header
-   # - navigation.sections    # secciones expandibles en la barra lateral
     - navigation.tabs.sticky   # mantiene las pestañas visibles al hacer scroll.
     - navigation.indexes # usa los index.md como índices de sección (en lugar de enlazar a la primera subpágina).
     - navigation.prune # elimina las secciones vacías del menú lateral.
@@ -120,7 +119,7 @@ copyright: "✦ CartaNatal.de - Astrología esencial ✦ Hecho con 💙 por Jim 
 extra:
   author: "Jim Raynor"
   link: "https://CartaNatal.de"
-  avatar: "docs/assets/logo.jpg"
+  avatar: "docs/assets/images/logo.jpg"
   year: 2026
   generator: false
 #logo: assets/logo.jpg
@@ -132,9 +131,6 @@ extra:
     - icon: fontawesome/brands/keybase
       link: https://keybase.io/jimraynor88
       name: KeyBase
-   # - icon: fontawesome/brands/x-twitter
-    #  link: https://x.com/jimraynor1488
-    #  name: X
     - icon: fontawesome/solid/bell
       link: https://ntfy.angry.im/jim88
       name: NTFY - Notificaciones Instantáneas
