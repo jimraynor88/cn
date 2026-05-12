@@ -74,11 +74,11 @@ body { font-family: 'Segoe UI', Roboto, sans-serif; background: linear-gradient(
     <div class="card"><div class="card-icon">🏠</div><h3>Familia y raíces</h3><p>Ceres, Tetis, Mnemósine, Níobe... El árbol genealógico también tiene sus asteroides.</p><ul><li><span class="badge">Ceres 1</span> Matriarca nutricia</li><li><span class="badge">Tetis 17</span> Madre transformadora</li><li><span class="badge">Níobe 71</span> Orgullo y pérdida</li></ul></div>
     <!-- Sexo y transformación -->
     <div class="card"><div class="card-icon">🔥</div><h3>Sexo y transformación</h3><p>Medusa, Quimera, Circe, las Erinias... La energía cruda que todo lo quema y regenera.</p><ul><li><span class="badge">Medusa 149</span> Mirada que petrifica</li><li><span class="badge">Quimera 623</span> Deseo monstruoso</li><li><span class="badge">Erynnia 889</span> Karma sexual</li></ul></div>
-    <!-- 👉 NUEVA: Salud y bienestar -->
+    <!-- Salud y bienestar -->
     <div class="card"><div class="card-icon">🩺</div><h3>Salud y bienestar</h3><p>Higia, Asclepio, Quirón, Hygeia... Tu cuerpo, tus rutinas y tu sanación escrita en el cielo.</p><ul><li><span class="badge">Higia 10</span> Salud preventiva</li><li><span class="badge">Asclepio 1027</span> Medicina regeneradora</li><li><span class="badge">Quirón 2060</span> Herida que enseña</li></ul></div>
-    <!-- 👉 NUEVA: Espiritualidad y magia -->
+    <!-- Espiritualidad y magia -->
     <div class="card"><div class="card-icon">🔮</div><h3>Espiritualidad y magia</h3><p>Hécate, Morfeo, Pasítea, Hermes Psicopompo... Conexión con lo invisible, sueños y tránsitos del alma.</p><ul><li><span class="badge">Hécate 100</span> Magia y encrucijadas</li><li><span class="badge">Morfeo 4197</span> Sueños proféticos</li><li><span class="badge">Pasítea 1188</span> Descanso reparador</li></ul></div>
-    <!-- 👉 NUEVA: Amistad y grupos -->
+    <!-- Amistad y grupos -->
     <div class="card"><div class="card-icon">👥</div><h3>Amistad y grupos</h3><p>Cástor y Pólux, Argos, Parténope... La tribu, los compañeros de viaje y las redes de apoyo.</p><ul><li><span class="badge">Argos 3738</span> Colaboración anónima</li><li><span class="badge">Parténope 11</span> Amistad sincera</li><li><span class="badge">Dióscuros</span> Hermandad inquebrantable</li></ul></div>
 </div>
 
@@ -97,18 +97,6 @@ body { font-family: 'Segoe UI', Roboto, sans-serif; background: linear-gradient(
 </div>
 <p style="margin-top: 1.5rem;">Cada uno de estos personajes celestes está influyendo en tu carácter, tus relaciones y tu camino profesional.</p>
 </div>
-
-<!-- Catálogo rápido -->
-<h2 style="text-align: center;">📜 Catálogo incluido en AstroMitos</h2>
-<ul style="columns: 2; list-style: none; text-align: center;">
-<li>✦ Eros (433)</li><li>✦ Psique (16)</li><li>✦ Ceres (1)</li><li>✦ Palas (2)</li>
-<li>✦ Juno (3)</li><li>✦ Vesta (4)</li><li>✦ Quirón (2060)</li><li>✦ Medusa (149)</li>
-<li>✦ Dejanira (157)</li><li>✦ Nessus (7066)</li><li>✦ Prometeo (1809)</li><li>✦ Dédalo (1864)</li>
-<li>✦ Fides (37)</li><li>✦ Talos (5786)</li><li>✦ Hécate (100)</li><li>✦ Odiseo (1143)</li>
-<li>✦ Atalanta (36)</li><li>✦ Pandora (55)</li><li>✦ Moiras (97,120,273)</li><li>✦ Cerbero (1865)</li>
-<li>✦ Esfinge (896)</li><li>✦ Apofis (99942)</li><li>✦ Higia (10)</li><li>✦ Asclepio (1027)</li>
-<li>✦ +70 cuerpos más</li>
-</ul>
 
 <!-- Botón final -->
 <div style="text-align: center; margin: 3rem 0 2rem;">
