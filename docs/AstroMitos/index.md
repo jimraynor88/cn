@@ -10,7 +10,7 @@ hide: toc
 <div class="deco">🌙 ✨ 🏛️</div>
 <h1>AstroMitos</h1>
 <div class="hero-sub">Cada asteroide, cada ninfa, cada monstruo olímpico es una llave que abre una puerta de tu psique.</div>
-<p><strong>AstroMitos</strong> reúne más de 70 cuerpos celestes con sus historias, vínculos y mensajes ocultos para que descifres tu destino.</p>
+<p><strong>AstroMitos</strong> reúne más de 128 cuerpos celestes con sus historias, vínculos y mensajes ocultos para que descifres tu destino.</p>
 </div>
 
 <!-- 8 tarjetas temáticas -->
