@@ -91,9 +91,9 @@ plugins:
   - rss:
      feed:
         # ---- Feed del blog (solo posts de blog/posts/) ----
-       - title: "Mi Blog RSS"
-         description: "Últimos artículos del blog"
-         match_path: "blog/posts/.*"          # regex para incluir solo posts
+       - title: "AstroMitos RSS"
+         description: "Últimos AstroMitos agregados"
+         match_path: "AstroMitos/.*"          # regex para incluir solo posts
          date_from_meta:
            as_creation: date                 # campo 'date' del frontmatter
            date_format: '%Y-%m-%d'           # tu formato de fecha
@@ -103,7 +103,7 @@ plugins:
          abstract_chars_count: 160
         # ---- Feed general (todo el sitio que tenga rss_feed: true) ----
        - title: "Todo el sitio (selección)"
-         description: "Páginas destacadas de mi web"
+         description: "Páginas destacadas de la web"
          match_meta:                        # filtra por frontmatter
            rss_feed: true                   # solo páginas con 'rss_feed: true'
          date_from_meta:
