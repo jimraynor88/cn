@@ -29,14 +29,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-  #    - name: Generate shop data
-   #     run: python scripts/generar_tienda.py
-
       - name: Build site
         run: mkdocs build
 
-      - name: Add global prev/next links
-        run: python scripts/add_prev_next_global.py site
+      - name: Add prev/next links
+        run: python scripts/add_prev_next.py site
+        
+    #  - name: Add global prev/next links
+    #    run: python scripts/add_prev_next_global.py site
         
       - name: Create MTA-STS and .nojekyll
         run: |
