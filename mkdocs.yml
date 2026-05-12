@@ -58,7 +58,15 @@ extra_css:
 #  - assets/stylesheets/cn.css
   - assets/stylesheets/astromitos.css
   #- assets/stylesheets/cartanatal.css   # <--- NUEVO: el archivo de estilos personalizados
-  
+
+hooks:
+  - hooks/read_aloud_hook.py
+
+extra_javascript:
+  - https://code.responsivevoice.org/responsivevoice.js?key=BH8TlfWs
+  - assets/js/read-aloud-player.js
+  - assets/js/tabs-header.js    
+
 plugins:
   - search
   - ezlinks
