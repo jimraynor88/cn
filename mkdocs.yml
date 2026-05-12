@@ -99,7 +99,7 @@ plugins:
            date_format: '%Y-%m-%d'           # tu formato de fecha
            as_update: false
          output_path: "feed_blog.xml"        # archivo de salida
-         length: 20
+         length: 88
          abstract_chars_count: 160
         # ---- Feed general (todo el sitio que tenga rss_feed: true) ----
        - title: "Todo el sitio (selección)"
@@ -111,7 +111,7 @@ plugins:
            date_format: '%Y-%m-%d'
            as_update: false
          output_path: "feed_general.xml"
-         length: 30
+         length: 33
          abstract_chars_count: 200
   - glightbox
   - mkdocs-video
