@@ -66,7 +66,7 @@ Si quieres comunicarte conmigo de forma segura, utiliza este formulario. Tu mens
 
 </div>
 
-<script src="/js/openpgp.min.js"></script>
+<script src="/assets/js/openpgp.min.js"></script>
 <script>
 // ==================== TU CLAVE PÚBLICA (sin comentarios) ====================
 const myPublicKeyArmored = `-----BEGIN PGP PUBLIC KEY BLOCK-----
