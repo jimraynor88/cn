@@ -3,7 +3,7 @@ site_url: https://cartanatal.de
 site_author: "Jim Raynor"
 #edit_uri: ""
 repo_url: https://cartanatal.de/servicios
-repo_name: Quiero la mía!
+repo_name: La Quiero!
 
 theme:
   name: material
@@ -55,9 +55,9 @@ theme:
     
 extra_css:
   - assets/stylesheets/extra.css
-#  - assets/stylesheets/cn.css
+  - assets/stylesheets/cn.css
   - assets/stylesheets/astromitos.css
-  #- assets/stylesheets/iconos.css
+  - assets/stylesheets/iconos.css
 
 hooks:
   - hooks/read_aloud_hook.py
