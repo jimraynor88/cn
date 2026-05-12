@@ -17,10 +17,10 @@
     top: -0.40rem;
 }
 
-/* 2. Acerca mía */
+/* 2. AstroMitos */
 .md-tabs__list > li:nth-child(2) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/acerca.svg') center / contain no-repeat;
+    background: url('/assets/blog.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -32,10 +32,10 @@
     top: -0.40rem;        /* ajusta a ojo después */
 }
 
-/* 3. Blog */
+/* 3. Acerca Mía */
 .md-tabs__list > li:nth-child(3) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/blog.svg') center / contain no-repeat;
+    background: url('/assets/acerca.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -62,7 +62,7 @@
     top: -0.30rem;
 }
 
-/* 5. Seguridad */
+/* 5. Cursos */
 .md-tabs__list > li:nth-child(5) .md-tabs__link {
     font-size: 0;
     background: url('/assets/seguridad.svg') center / contain no-repeat;
@@ -92,7 +92,7 @@
     top: -0.42rem;
 }
 
-/* 7. Temas */
+/* 7. Temas 
 .md-tabs__list > li:nth-child(7) .md-tabs__link {
     font-size: 0;
     background: url('/assets/temas.svg') center / contain no-repeat;
@@ -106,15 +106,14 @@
     position: relative;
     top: -0.36rem;
 }
-
+*/
 /* Alinear los <li> para que no se descuadren */
 .md-tabs__list > li:nth-child(1),
 .md-tabs__list > li:nth-child(2),
 .md-tabs__list > li:nth-child(3),
 .md-tabs__list > li:nth-child(4),
 .md-tabs__list > li:nth-child(5),
-.md-tabs__list > li:nth-child(6),
-.md-tabs__list > li:nth-child(7) {
+.md-tabs__list > li:nth-child(6){
     display: inline-flex;
     align-items: center;
 }
