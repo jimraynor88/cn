@@ -1,9 +1,9 @@
 site_name: CartaNatal.de
-site_url: https://CartaNatal.de
+site_url: https://cartanatal.de
 site_author: "Jim Raynor"
 #edit_uri: ""
-repo_url: https://cartanatal.de/servicios/carta-natal-personalizada/
-repo_name: Haz mi Carta Natal
+repo_url: https://cartanatal.de/servicios
+repo_name: Quiero la mía!
 
 theme:
   name: material
@@ -11,52 +11,54 @@ theme:
   logo: assets/1px.png
   
   custom_dir: overrides
- # palette:
+  palette:
     # Modo claro (fondo claro -> colores oscuros)
-  #  - scheme: default
-   #   primary: custom     # usaremos nuestro color personalizado
-    #  accent: custom      # también personalizado
-     # toggle:
-      #  icon: material/brightness-4
-       # name: Cambiar a modo oscuro
+    - scheme: default
+      primary: custom     # usaremos nuestro color personalizado
+      accent: custom      # también personalizado
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo oscuro
     # Modo oscuro (fondo oscuro -> colores claros)
-   # - scheme: slate
-    #  primary: custom
-     # accent: custom
-      #toggle:
-       # icon: material/brightness-7
-        #name: Cambiar a modo claro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo claro
   icon:
     repo: material/brightness-7
   favicon: material/brightness-7
   highlightjs: true
+  
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - navigation.prune
-    - navigation.top
-    - search.highlight
-    - search.suggest
-    - search.share
-    - search.term.highlight
-    - content.code.copy
-    - content.code.select
-    - content.code.scroll
-    - content.code.line-numbers
-    - content.code.annotate
-    - content.tabs.link
-    - content.tooltips
-    - content.footnote.tooltips
-    - navigation.instant
-    - navigation.path
-    - navigation.tracking
-
+    - navigation.tabs        # pestañas en el header
+    - navigation.sections    # secciones expandibles en la barra lateral
+    - navigation.tabs.sticky   # mantiene las pestañas visibles al hacer scroll.
+    - navigation.indexes # usa los index.md como índices de sección (en lugar de enlazar a la primera subpágina).
+    - navigation.prune # elimina las secciones vacías del menú lateral.
+    - navigation.top #  añade un botón para volver arriba.
+    - search.highlight # resalta los términos de búsqueda en los resultados.
+    - search.suggest # activa autocompletado en la barra de búsqueda.
+    - search.share # permite compartir enlaces de búsqueda.
+    - search.term.highlight   # Resalta los términos de búsqueda dentro del contenido de la página
+    - content.code.copy # añade un botón para copiar fragmentos de código.
+    - content.code.select     # Permite seleccionar y copiar solo partes de bloques de código
+    - content.code.scroll     # Hace que los bloques de código largos tengan scroll horizontal
+    - content.code.line-numbers # Muestra números de línea en los bloques de código
+    - content.code.annotate # permite anotar líneas de código (con iconos, etc.).
+    - content.tabs.link       # Vincula pestañas de contenido entre sí para que persistan al cambiar de página
+    - content.tooltips        # Muestra tooltips al pasar el cursor sobre enlaces de cabecera
+    - content.footnote.tooltips # Muestra tooltips para notas al pie
+    - navigation.path         # Muestra la ruta de navegación (breadcrumbs) en la parte superior
+    - navigation.tracking     # Actualiza la URL con el título de la página al navegar (para instant)
+    
 extra_css:
   - assets/stylesheets/extra.css
+#  - assets/stylesheets/cn.css
+  - assets/stylesheets/astromitos.css
   #- assets/stylesheets/cartanatal.css   # <--- NUEVO: el archivo de estilos personalizados
-  # - assets/stylesheets/kofi.css       # si lo necesitas, lo dejas comentado o lo añades
-
+  
 plugins:
   - search
   - ezlinks
@@ -70,19 +72,37 @@ plugins:
       password_button_text: 'Desbloquear'
       placeholder: 'Contraseña'
       placeholder_user: 'Usuario'
-      summary: '⚠️ Esta página está protegida.'
+      summary: '⚠️ Esta página está protegida, accede a la sección [Servicios](/servicios), gracias.'
       decryption_failure_message: '❌ Credenciales incorrectas. Si el problema persiste, recarga la página e inténtalo de nuevo.'
       encryption_info_message: '🔒 Necesitas credenciales para ver este contenido.'
       encrypted_something:
         main: [main, tag]
  # - section-index
   - rss:
-      match_path: "AstroMitos/.*"
-      date_from_meta:
-        as_creation: date
-        as_update: false
-      length: 20
-      abstract_chars_count: 160
+     feed:
+        # ---- Feed del blog (solo posts de blog/posts/) ----
+       - title: "Mi Blog RSS"
+         description: "Últimos artículos del blog"
+         match_path: "blog/posts/.*"          # regex para incluir solo posts
+         date_from_meta:
+           as_creation: date                 # campo 'date' del frontmatter
+           date_format: '%Y-%m-%d'           # tu formato de fecha
+           as_update: false
+         output_path: "feed_blog.xml"        # archivo de salida
+         length: 20
+         abstract_chars_count: 160
+        # ---- Feed general (todo el sitio que tenga rss_feed: true) ----
+       - title: "Todo el sitio (selección)"
+         description: "Páginas destacadas de mi web"
+         match_meta:                        # filtra por frontmatter
+           rss_feed: true                   # solo páginas con 'rss_feed: true'
+         date_from_meta:
+           as_creation: date
+           date_format: '%Y-%m-%d'
+           as_update: false
+         output_path: "feed_general.xml"
+         length: 30
+         abstract_chars_count: 200
   - glightbox
   - mkdocs-video
 
@@ -93,19 +113,45 @@ extra:
   avatar: "docs/assets/logo.jpg"
   year: 2026
   generator: false
+#logo: assets/logo.jpg
+ # revision: true   # no es una opción estándar, mejor usar el plugin directamente
   social:
+    - icon: fontawesome/solid/user
+      link: https://yo.soyel.de
+      name: Bio
     - icon: fontawesome/brands/keybase
       link: https://keybase.io/jimraynor88
       name: KeyBase
+   # - icon: fontawesome/brands/x-twitter
+    #  link: https://x.com/jimraynor1488
+    #  name: X
+    - icon: fontawesome/solid/bell
+      link: https://ntfy.angry.im/jim88
+      name: NTFY - Notificaciones Instantáneas
+    - icon: fontawesome/solid/envelope-circle-check
+      link: https://cartanatal.de/contacto
+      name: PGP Email
     - icon: fontawesome/brands/telegram
       link: https://t.me/jimraynorbot
       name: Telegram
+    - icon: fontawesome/solid/comment-medical
+      link: https://matrix.to/#/@jim:matrix.theprivate.space
+      name: Matrix
+    - icon: simple/xmpp
+      link: xmpp:jimraynor@xmpp.is
+      name: XMPP / Jabber
+    - icon: fontawesome/solid/bolt                 
+      link: lightning:jimraynor@bitrefill.me             
+      name: BitRefill Bitcoin Lightning   
+    - icon: fontawesome/solid/rss
+      link: https://cartanatal.de/feed_rss_updated.xml
+      name: RSS
     - icon: fontawesome/solid/sitemap
       link: /sitemap.xml
       name: Mapa del sitio
-    - icon: fontawesome/solid/mug-hot
-      link: https://ko-fi.com/invito/?hidefeed=true&widget=true
-      name: Invítame al Ko-Fi
+    - icon: fontawesome/solid/bag-shopping
+      link: https://cartanatal.de/servicios
+      name: Gracias!
 
 markdown_extensions:
   - toc:
