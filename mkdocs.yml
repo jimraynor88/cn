@@ -8,7 +8,7 @@ repo_name: La Quiero!
 theme:
   name: material
   language: es
-  logo: assets/images/iconos/favicon.ico
+  logo: assets/images/iconos/moon-phases-moon.gif
   #1px.png
   
   custom_dir: overrides
