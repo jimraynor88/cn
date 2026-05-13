@@ -8,7 +8,8 @@ repo_name: La Quiero!
 theme:
   name: material
   language: es
-  logo: assets/1px.png
+  logo: assets/images/iconos/favicon.ico
+  #1px.png
   
   custom_dir: overrides
   palette:
