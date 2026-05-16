@@ -28,8 +28,8 @@ theme:
 #        icon: material/brightness-7
 #        name: Cambiar a modo claro
   icon:
-    repo: fontawesome/solid/bag-shopping
-    #repo: material/brightness-7
+    #repo: fontawesome/solid/bag-shopping
+    repo: heart-bag
   favicon: assets/images/iconos/favicon.ico
   highlightjs: true
   
