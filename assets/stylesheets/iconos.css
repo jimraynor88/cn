@@ -117,3 +117,7 @@
     display: inline-flex;
     align-items: center;
 }
+/* Ocultar la séptima pestaña (Servicios) del topbar */
+.md-tabs__list > li:nth-child(7) {
+    display: none;
+}
