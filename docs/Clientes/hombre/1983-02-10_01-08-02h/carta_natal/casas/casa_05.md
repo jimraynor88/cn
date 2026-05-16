@@ -1,6 +1,7 @@
 ---
 title: "Casa 5 – Mi creatividad, mi amor romántico, mi placer, mis hijos"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 5 – Mi creatividad, mi amor romántico, mi placer, mis hijos
