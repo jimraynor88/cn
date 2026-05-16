@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios · CartaNatal.de</title>
+    <style>
+        /* ============================================
+           Tema personalizado para CartaNatal.de
+           Solo modo oscuro | Azul, Rosa, Lila como acentos
+           Copiado de tu theme slate para consistencia
+        ============================================ */
+        :root {
+            --md-primary-fg-color: #1e1b4b;
+            --md-primary-fg-color--light: #4C1D95;
+            --md-primary-fg-color--dark: #0f0a1a;
+            --md-accent-fg-color: #F472B6;
+            --md-accent-fg-color--light: #F9A8D4;
+            --md-accent-fg-color--dark: #EC4899;
+            --md-default-fg-color: #e2e8f0;
+            --md-default-fg-color--light: #C084FC;
+            --md-default-fg-color--lighter: #a0aec0;
+            --md-default-bg-color: #0b1120;
+            --md-header-bg: #0f0f1a;
+            --md-footer-bg: #0a0a12;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--md-default-bg-color);
+            color: var(--md-default-fg-color);
+            font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+        }
+
+        /* Estilos de la página de servicios */
+        .donation-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, #1e1b4e, #0f0a2a);
+            border-radius: 28px;
+            border: 1px solid var(--md-accent-fg-color);
+        }
+        .donation-header h1 {
+            color: var(--md-accent-fg-color--light);
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .donation-header p {
+            font-size: 1.1rem;
+            color: var(--md-default-fg-color--light);
+        }
+
+        .copy-box {
+            background: linear-gradient(120deg, #2d1b4e, #1a0f2e);
+            border: 1px solid var(--md-accent-fg-color);
+            border-radius: 28px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        .lightning-address {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin: 1rem 0;
+        }
+        .lightning-address code {
+            background: rgba(15, 23, 42, 0.9);
+            color: var(--md-accent-fg-color--light);
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            border: 1px solid var(--md-accent-fg-color);
+        }
+        .copy-button {
+            background-color: var(--md-accent-fg-color);
+            color: #1e1b4b;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 60px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.2s;
+        }
+        .copy-button:hover {
+            background-color: var(--md-accent-fg-color--light);
+            transform: translateY(-2px);
+        }
+
+        .cards-grid {
+            display: flex;
+            justify-content: center;
+            margin: 2rem 0;
+        }
+        .service-card {
+            background: rgba(30, 27, 75, 0.5);
+            backdrop-filter: blur(4px);
+            border-radius: 28px;
+            border: 1px solid rgba(244, 114, 182, 0.3);
+            width: 100%;
+            max-width: 380px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .service-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--md-accent-fg-color);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+        }
+        .card-header {
+            background-color: var(--md-accent-fg-color);
+            padding: 1rem;
+            text-align: center;
+            border-top-left-radius: 28px;
+            border-top-right-radius: 28px;
+        }
+        .card-header h3 {
+            margin: 0;
+            color: #1e1b4b;
+            font-size: 1.4rem;
+        }
+        .card-body {
+            padding: 1.5rem;
+        }
+        .price {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--md-accent-fg-color--light);
+            text-align: center;
+            margin: 0.5rem 0;
+        }
+        .description {
+            color: var(--md-default-fg-color--light);
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        .card-footer {
+            padding: 1rem;
+            text-align: center;
+            border-top: 1px solid rgba(244,114,182,0.3);
+        }
+        .pay-button {
+            background-color: var(--md-accent-fg-color);
+            color: #1e1b4b;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 60px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .pay-button:hover {
+            background-color: var(--md-accent-fg-color--light);
+            transform: scale(1.02);
+        }
+
+        .instructions {
+            background: rgba(30, 27, 75, 0.4);
+            backdrop-filter: blur(2px);
+            border-radius: 28px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border: 1px solid rgba(244,114,182,0.3);
+        }
+        .instructions h3 {
+            color: var(--md-accent-fg-color--light);
+        }
+        .instructions li {
+            margin: 0.5rem 0;
+            color: var(--md-default-fg-color--light);
+        }
+        .alert {
+            background-color: rgba(244,114,182,0.1);
+            border-left: 4px solid var(--md-accent-fg-color);
+            padding: 1rem;
+            border-radius: 16px;
+            margin: 1rem 0;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding: 1rem;
+            border-top: 1px solid var(--md-default-fg-color--lighter);
+            font-size: 0.8rem;
+            color: var(--md-default-fg-color--lighter);
+        }
+        footer a {
+            color: var(--md-accent-fg-color);
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        .social-links {
+            margin-top: 0.5rem;
+        }
+        .social-links a {
+            margin: 0 0.5rem;
+        }
+        @media (max-width: 600px) {
+            .donation-header h1 { font-size: 1.8rem; }
+            .container { padding: 0 1rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="donation-header">
+        <h1>☕️ Invita a un café</h1>
+        <p>Cada granito de arena me ayuda a seguir creando contenido y manteniendo la web.</p>
+        <div class="card-footer" style="border: none;">
+            <button class="pay-button" onclick="payWithPayPal()">Invitar al Café</button>
+        </div>
+    </div>
+
+    <div class="copy-box">
+        <h3>⚡ Propinas con Bitcoin Lightning</h3>
+        <p>Mi dirección Lightning a través de Bitrefill:</p>
+        <div class="lightning-address">
+            <code id="lightningAddr">jimraynor@bitrefill.me</code>
+            <button class="copy-button" onclick="copyLightningAddress()">Copiar dirección</button>
+        </div>
+        <div id="copyFeedback" class="copy-feedback"></div>
+        <div class="alert" style="background: rgba(0,0,0,0.3);">
+            🔹 Esta dirección acepta pagos en euros (se convierten automáticamente a BTC en la red Lightning).<br>
+            🔹 Para otras criptomonedas, contáctame y te daré una dirección temporal.
+        </div>
+    </div>
+
+    <div class="cards-grid">
+        <div class="service-card">
+            <div class="card-header">
+                <h3>✨ Carta Natal Personificada</h3>
+            </div>
+            <div class="card-body">
+                <div class="price">182 €</div>
+                <div class="description">
+                    Tu propia Carta Natal que te habla en primera persona.<br>
+                    Casas, Conditio Vitae, perfiles y aspectos.<br>
+                    Un enlace único y privado para ti.
+                </div>
+            </div>
+            <div class="card-footer">
+                <button class="pay-button" onclick="payWithPayPal(182, 'Carta Natal Personificada')">Solicitar por 182 €</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="instructions">
+        <h3>📘 Cómo pagar</h3>
+        <ol>
+            <li><strong>PayPal</strong>: Haz clic en "Invitar al Café" o en "Solicitar por 182 €". Se abrirá PayPal con el importe correcto. Puedes pagar con tarjeta sin necesidad de cuenta PayPal.</li>
+            <li><strong>Bitcoin Lightning</strong>: Copia la dirección <code>jimraynor@bitrefill.me</code>, abre tu monedero Lightning (Wallet of Satoshi, Zeus, etc.) y pega la dirección. Introduce el importe en euros (si tu monedero lo permite) o en satoshis equivalentes.</li>
+            <li><strong>Para la Carta Natal</strong>: Una vez realizado el pago, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 24-48h recibirás tu enlace personalizado.</li>
+        </ol>
+        <div class="alert">
+            💡 <strong>Nota</strong>: Bitrefill me acredita el saldo en euros para gastar en su tienda. Es la forma más sencilla de aceptar Lightning sin gestionar un nodo propio.
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>© 2025 CartaNatal.de · Hecho con 💙 y código estelar</p>
+    <div class="social-links">
+        <a href="https://t.me/jimraynorbot" target="_blank">Telegram</a> ·
+        <a href="/zona-contacto">Formulario contacto</a> ·
+        <a href="https://twitter.com/jimraynor1488" target="_blank">X (Twitter)</a>
+    </div>
+</footer>
+
+<script>
+    function copyLightningAddress() {
+        const addr = document.getElementById('lightningAddr').innerText;
+        navigator.clipboard.writeText(addr).then(() => {
+            const feedback = document.getElementById('copyFeedback');
+            feedback.innerText = '✅ Dirección copiada. Pégala en tu monedero Lightning.';
+            setTimeout(() => { feedback.innerText = ''; }, 3000);
+        }).catch(() => {
+            alert('No se pudo copiar. Cópiala manualmente: ' + addr);
+        });
+    }
+
+    function payWithPayPal(amount, itemName) {
+        // Usamos el hosted_button_id que proporcionaste
+        const donateUrl = 'https://www.paypal.com/donate/?hosted_button_id=LV4Y3F89YFP24';
+        // Para la carta natal, si quisieras un importe fijo, necesitarías otro botón.
+        // Por ahora abrimos el mismo enlace de donación.
+        window.open(donateUrl, '_blank');
+    }
+</script>
+</body>
+</html>
