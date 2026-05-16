@@ -1,6 +1,7 @@
 ---
 title: "Casa 8 – Mi sexualidad, mi transformación, mis recursos compartidos, mis crisis"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 8 – Mi sexualidad, mi transformación, mis recursos compartidos, mis crisis
