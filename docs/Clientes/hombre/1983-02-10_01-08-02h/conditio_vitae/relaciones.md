@@ -2,6 +2,8 @@
 title: "Conditio Vitae - Relaciones"
 description: "Una presentación sincera de mi forma de vincularme"
 summary: "Una presentación sincera de mi forma de vincularme, para quien busque conocer quién soy cuando elijo compartir mi tiempo, mi intimidad y mi vida."
+date: "1983-02-10"
+read: true
 ---
 
 # Conditio Vitae Relaciones
