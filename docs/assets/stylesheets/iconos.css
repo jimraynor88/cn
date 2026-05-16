@@ -65,7 +65,7 @@
 /* 5. Cursos */
 .md-tabs__list > li:nth-child(5) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/images/iconos/seguridad.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/cursos.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
