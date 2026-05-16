@@ -2,6 +2,8 @@
 Title: "Mis Conditio Vitae"
 description: "Las condiciones vitales son características innatas con las que nacemos"
 summary: "He preferido construir dos documentos que reflejan quién soy realmente: mis capacidades innatas, mi forma de trabajar, mi manera de vincularme."
+date: "1983-02-10"
+read: true
 ---
 
 
