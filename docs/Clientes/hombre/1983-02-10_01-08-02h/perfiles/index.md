@@ -1,6 +1,7 @@
 ---
 title: "Perfiles Astrológicos"
-category: "Perfiles"
+date: "1983-02-10"
+read: true
 ---
 
 # Perfiles astrológicos: mi mapa interior
