@@ -1,6 +1,7 @@
 ---
 title: "Carta Natal General"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 
