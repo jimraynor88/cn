@@ -1,6 +1,7 @@
 ---
 title: "Casa 1 – Mi identidad, mi presencia, mi forma de iniciar"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 
