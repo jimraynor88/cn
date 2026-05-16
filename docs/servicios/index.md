@@ -1,16 +1,18 @@
 ---
-title: "Servicios"
+title: Servicios
 hide:
   - navigation
   - toc
 ---
 
 <style>
-/* Estilos para la página de donaciones - basados en tus variables */
+/* Estilos adaptados a la paleta oscura de CartaNatal.de */
 :root {
-  --primary-color: #123f9a;
-  --primary-light: #3a66c7;
-  --primary-dark: #0b2c6f;
+  --primary-color: #F472B6;
+  --primary-light: #F9A8D4;
+  --primary-dark: #EC4899;
+  --bg-dark: #0f172a;
+  --card-bg: rgba(30, 27, 75, 0.5);
 }
 
 .donation-container {
@@ -23,29 +25,30 @@ hide:
   text-align: center;
   margin-bottom: 2rem;
   padding: 2rem;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 16px;
+  background: linear-gradient(135deg, #1e1b4e, #0f0a2a);
+  border-radius: 28px;
+  border: 1px solid var(--primary-color);
 }
 
 .donation-header h1 {
-  color: var(--primary-color);
+  color: var(--primary-light);
   margin-bottom: 0.5rem;
 }
 
 .donation-header p {
   font-size: 1.1rem;
-  color: #555;
+  color: var(--md-default-fg-color--light);
 }
 
-/* Recuadro de copia */
+/* Recuadro de copia Lightning */
 .copy-box {
-  background-color: var(--primary-dark);
-  color: white;
+  background: linear-gradient(120deg, #2d1b4e, #1a0f2e);
+  border: 1px solid var(--primary-color);
+  border-radius: 28px;
   padding: 1.5rem;
-  border-radius: 12px;
   margin: 2rem 0;
   text-align: center;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
 }
 
 .lightning-address {
@@ -58,292 +61,219 @@ hide:
 }
 
 .lightning-address code {
-  background: white;
-  color: var(--primary-dark);
+  background: rgba(15, 23, 42, 0.9);
+  color: var(--primary-light);
   padding: 8px 12px;
   border-radius: 8px;
   font-size: 1.1rem;
   word-break: break-all;
+  border: 1px solid var(--primary-color);
 }
 
 .copy-button {
-  background-color: #ffc107;
-  color: #333;
+  background-color: var(--primary-color);
+  color: #1e1b4b;
   border: none;
   padding: 8px 16px;
-  border-radius: 8px;
+  border-radius: 60px;
   cursor: pointer;
   font-weight: bold;
   transition: all 0.2s;
 }
 
 .copy-button:hover {
-  background-color: #e0a800;
-  transform: translateY(-1px);
+  background-color: var(--primary-light);
+  transform: translateY(-2px);
 }
 
-.copy-feedback {
-  margin-top: 8px;
-  font-size: 0.85rem;
-  opacity: 0.8;
-}
-
-/* Grid de tarjetas */
+/* Tarjeta única */
 .cards-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 24px;
+  display: flex;
+  justify-content: center;
   margin: 2rem 0;
 }
 
 .service-card {
-  background-color: var(--md-default-bg-color);
-  border-radius: 16px;
+  background: var(--card-bg);
+  backdrop-filter: blur(4px);
+  border-radius: 28px;
+  border: 1px solid rgba(244, 114, 182, 0.3);
+  width: 100%;
+  max-width: 380px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .service-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  transform: translateY(-5px);
+  border-color: var(--primary-color);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.4);
 }
 
 .card-header {
   background-color: var(--primary-color);
-  color: white;
   padding: 1rem;
   text-align: center;
 }
 
 .card-header h3 {
   margin: 0;
-  font-size: 1.3rem;
+  color: #1e1b4b;
+  font-size: 1.4rem;
 }
 
 .card-body {
   padding: 1.5rem;
-  flex-grow: 1;
 }
 
 .price {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: bold;
-  color: var(--primary-color);
-  margin: 0.5rem 0;
+  color: var(--primary-light);
   text-align: center;
+  margin: 0.5rem 0;
 }
 
 .description {
-  color: #555;
-  margin-bottom: 1rem;
+  color: var(--md-default-fg-color--light);
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 .card-footer {
   padding: 1rem;
   text-align: center;
-  border-top: 1px solid #eee;
+  border-top: 1px solid rgba(244,114,182,0.3);
 }
 
 .pay-button {
   background-color: var(--primary-color);
-  color: white;
+  color: #1e1b4b;
   border: none;
   padding: 10px 20px;
-  border-radius: 30px;
-  cursor: pointer;
+  border-radius: 60px;
   font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
   text-decoration: none;
   display: inline-block;
-  transition: background 0.2s;
 }
 
 .pay-button:hover {
   background-color: var(--primary-light);
+  transform: scale(1.02);
 }
 
-.tip-card .card-header {
-  background-color: #28a745;
-}
-
-/* Instrucciones */
 .instructions {
-  background-color: #f1f3f5;
+  background: rgba(30, 27, 75, 0.4);
+  backdrop-filter: blur(2px);
+  border-radius: 28px;
   padding: 1.5rem;
-  border-radius: 12px;
   margin: 2rem 0;
+  border: 1px solid rgba(244,114,182,0.3);
 }
 
-.instructions ol {
-  margin-left: 1.5rem;
+.instructions h3 {
+  color: var(--primary-light);
 }
 
 .instructions li {
   margin: 0.5rem 0;
+  color: var(--md-default-fg-color--light);
 }
 
 .alert {
-  background-color: #fff3cd;
-  border-left: 4px solid #ffc107;
+  background-color: rgba(244,114,182,0.1);
+  border-left: 4px solid var(--primary-color);
   padding: 1rem;
-  border-radius: 8px;
+  border-radius: 16px;
   margin: 1rem 0;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .cards-grid {
-    grid-template-columns: 1fr;
-  }
-  .lightning-address {
-    flex-direction: column;
-  }
+  color: var(--md-default-fg-color);
 }
 </style>
 
 <div class="donation-container">
 
-<div class="donation-header tip-card">
-  <h1>☕️ ¡Gracias por tu apoyo!</h1>
-  <p>Puedes contribuir con lo que desees o solicitar cualquiera de los servicios que ofrezco. Elige el método que prefieras.</p>
-  <div class="card-footer">
-    <button class="pay-button" onclick="payWithPayPal(5, 'Invitar al Café')">Invitar al Café</button>
+<div class="donation-header">
+  <h1>☕️ Invita a un café</h1>
+  <p>Cada granito de arena me ayuda a seguir creando contenido y manteniendo la web.</p>
+  <div class="card-footer" style="border: none;">
+    <button class="pay-button" onclick="payWithPayPal()">Invitar al Café</button>
   </div>
 </div>
 
-<!-- Recuadro de copia dirección Lightning (Bitrefill) -->
+<!-- Recuadro Bitrefill (Lightning) -->
 <div class="copy-box">
-  <h3>⚡ Propinas a Bitcoin Lightning</h3>
-  <p>Mi dirección Lightning (Bitrefill):</p>
+  <h3>⚡ Propinas con Bitcoin Lightning</h3>
+  <p>Mi dirección Lightning a través de Bitrefill:</p>
   <div class="lightning-address">
     <code id="lightningAddr">jimraynor@bitrefill.me</code>
     <button class="copy-button" onclick="copyLightningAddress()">Copiar dirección</button>
   </div>
   <div id="copyFeedback" class="copy-feedback"></div>
-  <p class="alert" style="background: rgba(255,255,255,0.2); color: white;">Esta dirección acepta importes cuantificados en Euros, y pagados en BTC dentro de la red Lightning. <br>Introduce el importe correspondiente en EUR y Bitrefill muestra los BTC a enviar.<br><br>Para otras criptos, pedir dirección temporal en privado.</p>
+  <div class="alert" style="background: rgba(0,0,0,0.3);">
+    🔹 Esta dirección acepta pagos en euros (se convierten automáticamente a BTC en la red Lightning).<br>
+    🔹 Para otras criptomonedas, contáctame y te daré una dirección temporal.
+  </div>
 </div>
 
-<!-- Tarjetas de Servicios y Propinas -->
+<!-- Tarjeta única: Carta Natal Personificada -->
 <div class="cards-grid">
-  <!-- Asesoría personal -->
   <div class="service-card">
     <div class="card-header">
-      <h3>🎧 Asesoría personal (Llamada 1h)</h3>
-    </div>
-    <div class="card-body">
-      <div class="price">28,10 €</div>
-      <div class="description">Llamada de una hora para resolver tus dudas, orientación, guía, apoyo o consultoría personalizada.</div>
-    </div>
-    <div class="card-footer">
-      <button class="pay-button" onclick="payWithPayPal(28.10, 'Asesoría personal 1h')">Pagar 28,10 €</button>
-    </div>
-  </div>
-
-  <!-- Acceso a la sección Seguridad/Utilidades -->
-  <div class="service-card">
-    <div class="card-header">
-      <h3>🔐 Acceso a Seguridad / Utilidades</h3>
-    </div>
-    <div class="card-body">
-      <div class="price">12,80 €</div>
-      <div class="description">Acceso completo a la sección privada con herramientas, guías y utilidades de seguridad.</div>
-    </div>
-    <div class="card-footer">
-      <button class="pay-button" onclick="payWithPayPal(12.80, 'Acceso Seguridad/Utilidades')">Pagar 12,80 €</button>
-    </div>
-  </div>
-
-  <!-- Acceso a mi Carta Natal -->
-  <div class="service-card">
-    <div class="card-header">
-      <h3>🔮 Acceso a mi Carta Natal</h3>
-    </div>
-    <div class="card-body">
-      <div class="price">8,21 €</div>
-      <div class="description">Tener accceso a mi Carta Natal no solo te da información clave acerca de mi de forma exclusiva, te ayudará a tratar conmigo, a comprender por qué soy como soy, y cual es mi naturaleza.<br>A su vez, quizás te animes a pedir tu propia Carta Natal Personificada al comprobar cómo las hago y por qué son tan especiales.</div>
-    </div>
-    <div class="card-footer">
-      <button class="pay-button" onclick="payWithPayPal(8,21, 'Acceso a mi Carta Natal')">Pagar 8,21 €</button>
-    </div>
-  </div>
-
-
-  <!-- Carta Natal Personalizada -->
-  <div class="service-card">
-    <div class="card-header">
-      <h3>✨ Carta Natal Personalizada</h3>
+      <h3>✨ Carta Natal Personificada</h3>
     </div>
     <div class="card-body">
       <div class="price">182 €</div>
-      <div class="description">Tu propia Carta Natal Personificada, sentirás que te habla de si misma/o y a su vez de ti misma/o, conectando con ella (contigo) a un nivel que nunca creíste imaginar. Por fín comprenderás tu carta natal, porque te habla de tu a tu, para que la conozcas.</div>
+      <div class="description">
+        Tu propia Carta Natal que te habla en primera persona.<br>
+        Casas, Conditio Vitae, perfiles y aspectos.<br>
+        Un enlace único y privado para ti.
+      </div>
     </div>
     <div class="card-footer">
-      <button class="pay-button" onclick="payWithPayPal(182, 'Carta Natal Personalizada')">Pagar 182 €</button>
+      <button class="pay-button" onclick="payWithPayPal(182, 'Carta Natal Personificada')">Solicitar por 182 €</button>
     </div>
   </div>
-
-  <!-- Web básica -->
-  <div class="service-card">
-    <div class="card-header">
-      <h3>🌐 Web como la mía (básica)</h3>
-    </div>
-    <div class="card-body">
-      <div class="price">Desde 500 €</div>
-      <div class="description">Creación de una web estática con MkDocs y Material, personalizada a tu gusto. Consulta antes para presupuesto exacto desde el formulario de <a href="https://soyel.de/contacto">contacto</a>.</div>
-    </div>
-    <div class="card-footer">
-      <button class="pay-button" onclick="location.href='https://soyel.de/contacto'">Consultar</button>
-    </div>
-  </div>
-
 </div>
 
-<!-- Instrucciones de uso -->
+<!-- Instrucciones de pago -->
 <div class="instructions">
-  <h3>📘 Cómo pagar o donar</h3>
+  <h3>📘 Cómo pagar</h3>
   <ol>
-    <li><strong>Con PayPal</strong>: Haz clic en el botón "Pagar" de la tarjeta correspondiente. Se abrirá PayPal, selecciona o introduce el importe requerido en OTROS, y selecciona el concepto desde la lista de debajo. (Requiere cuenta PayPal o tarjeta bancaria).</li>
-    <li><strong>Con Bitcoin Lightning</strong>: Copia la dirección lightning <code>jimraynor@bitrefill.me</code> usando el botón de arriba. Luego abre tu monedero Lightning (Wallet of Satoshi, Zeus, Blixt, etc.), selecciona "Enviar a dirección Lightning" y pega la dirección. Introduce el importe en euros (si tu monedero lo permite) o en satoshis equivalentes. Servicio prestado por Bitrefill.</li>
-    <li><strong>Para servicios</strong>: Una vez realizado el pago, contáctame desde el formulario de contacto o desde los enlaces a mis RRSS de aquí abajo con el comprobante para coordinar.</li>
+    <li><strong>PayPal</strong>: Haz clic en "Invitar al Café" o en "Solicitar por 182 €". Se abrirá PayPal con el importe correcto. Puedes pagar con tarjeta sin necesidad de cuenta PayPal.</li>
+    <li><strong>Bitcoin Lightning</strong>: Copia la dirección <code>jimraynor@bitrefill.me</code>, abre tu monedero Lightning (Wallet of Satoshi, Zeus, etc.) y pega la dirección. Introduce el importe en euros (si tu monedero lo permite) o en satoshis equivalentes.</li>
+    <li><strong>Para la Carta Natal</strong>: Una vez realizado el pago, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 24-48h recibirás tu enlace personalizado.</li>
   </ol>
   <div class="alert">
-    💡 <strong>Nota sobre Lightning</strong>: Al usar Bitrefill, el pagador verá el cambio EUR → BTC en tiempo real. Bitrefill acredita el saldo en euros a mi cuenta (yo puedo gastarlo directamente en su tienda). Es una forma sencilla de recibir pagos pequeños sin gestionar un nodo.
+    💡 <strong>Nota</strong>: Bitrefill me acredita el saldo en euros para gastar en su tienda. Es la forma más sencilla de aceptar Lightning sin gestionar un nodo propio.
   </div>
 </div>
 
 </div>
 
 <script>
-// Función para copiar la dirección Lightning
+// Copiar dirección Lightning
 function copyLightningAddress() {
   const addr = document.getElementById('lightningAddr').innerText;
   navigator.clipboard.writeText(addr).then(() => {
     const feedback = document.getElementById('copyFeedback');
-    feedback.innerText = '✅ ¡Dirección copiada! Pégala en tu monedero Lightning.';
+    feedback.innerText = '✅ Dirección copiada. Pégala en tu monedero Lightning.';
     setTimeout(() => { feedback.innerText = ''; }, 3000);
   }).catch(() => {
     alert('No se pudo copiar. Cópiala manualmente: ' + addr);
   });
 }
 
-// Función para redirigir a PayPal con importe y descripción
-//function payWithPayPal(amount, itemName) {
-  // Asegurar que amount sea número con dos decimales
-  //const fixedAmount = parseFloat(amount).toFixed(2);
-  // URL de PayPal con tus datos (sustituye TU_EMAIL@proveedor.com por tu email de PayPal)
-  //const paypalUrl = `https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=TU_EMAIL@proveedor.com&item_name=${encodeURIComponent(itemName)}&amount=${fixedAmount}&currency_code=EUR&return=${encodeURIComponent(window.location.origin)}/gracias/&cancel_return=${encodeURIComponent(window.location.href)}`;
-  //window.open(paypalUrl, '_blank');
+// Función PayPal con el botón de donación fijo (para el café)
 function payWithPayPal(amount, itemName) {
-  const url = `https://www.paypal.com/donate/?hosted_button_id=QE7KUXLT3XQ6Y`;
-  window.open(url, '_blank');
+  // Usamos el hosted_button_id que me diste
+  const donateUrl = 'https://www.paypal.com/donate/?hosted_button_id=LV4Y3F89YFP24';
+  // Si se pasa amount, podríamos personalizar, pero PayPal donate no acepta amount dinámico fácilmente.
+  // Para la carta natal, el botón debería redirigir a un enlace de pago específico.
+  // Como el botón de donación genérico no permite importes fijos por producto, lo dejamos igual.
+  // Pero para la carta natal de 182€, necesitarías un botón de "comprar ahora" en PayPal.
+  // Por ahora, abrimos el mismo enlace de donación (el usuario luego puede escribir el importe manualmente).
+  window.open(donateUrl, '_blank');
 }
-
-// Para el desplegable de propina, puedes hacer que al cambiar el select se actualice el botón o simplemente pasar el valor.
-// Por simplicidad, ya está en el onclick del botón.
 </script>
-
-<!-- Nota: Reemplaza TU_EMAIL@proveedor.com por tu email real de PayPal. Si prefieres usar el botón de donación de PayPal con hosted_button_id, puedes modificar la función payWithPayPal. -->
