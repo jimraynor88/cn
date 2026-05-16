@@ -1,6 +1,7 @@
 ---
 title: "Salud, Bienestar y Rutinas"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Salud, Bienestar y Rutinas
