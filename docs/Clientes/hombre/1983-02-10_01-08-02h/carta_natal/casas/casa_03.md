@@ -1,6 +1,7 @@
 ---
 title: "Casa 3 – Mi comunicación, mis hermanos, mi entorno cercano"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 3 – Mi comunicación, mis hermanos, mi entorno cercano
