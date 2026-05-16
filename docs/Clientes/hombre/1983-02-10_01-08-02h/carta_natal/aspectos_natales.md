@@ -1,6 +1,6 @@
 ---
 title: "Carta Natal - Aspectos"
-level: "astro"
+date: "1983-02-10"
 ---
 
 
