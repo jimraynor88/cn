@@ -1,7 +1,7 @@
 ---
-title: Famosos – Cartas Natales de Personajes Conocidos
-description: Próximamente podrás explorar las cartas natales personificadas de tus artistas, científicos, líderes y mitos favoritos. Mientras tanto, unas migas de pan dulce con datos reales.
-summary: Un adelanto basado en cartas natales verificadas de personajes históricos y famosos. Estructura completa: casas, Conditio Vitae y perfiles (próximamente).
+title: "Famosos – Cartas Natales de Personajes Conocidos"
+description: "Próximamente podrás explorar las cartas natales personificadas de tus artistas, científicos, líderes y mitos favoritos. Mientras tanto, unas migas de pan dulce con datos reales."
+summary: "Un adelanto basado en cartas natales verificadas de personajes históricos y famosos. Estructura completa: casas, Conditio Vitae y perfiles (próximamente)."
 hide:
   - navigation
   - toc
