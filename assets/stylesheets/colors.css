@@ -28,7 +28,22 @@
     --md-header-bg: #0f0f1a;               /* casi negro */
     --md-footer-bg: #0a0a12;               /* más oscuro aún */
 }
+/* Forzar texto blanco en todos los botones principales */
+.btn-hero,
+.coffee-btn,
+.btn-carta,
+.btn-secondary,
+.md-footer__link,
+.md-typeset .btn-hero,
+.md-typeset .coffee-btn,
+.md-typeset .btn-carta {
+    color: #ffffff !important;
+}
 
+/* Si usas el botón de "Apúntame a la lista" u otros, también */
+.signup-form .btn-carta {
+    color: #ffffff !important;
+}
 /* ------------------------------------------------------------
    HEADER (barra de navegación) - Sin azul, solo tonos oscuros
    ------------------------------------------------------------ */
