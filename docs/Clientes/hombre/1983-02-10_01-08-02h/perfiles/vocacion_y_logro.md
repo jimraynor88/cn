@@ -1,6 +1,7 @@
 ---
 Title: "Vocación y Logro"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Vocación y Logro
