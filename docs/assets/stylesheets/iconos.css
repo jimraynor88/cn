@@ -32,7 +32,7 @@
     top: -0.50rem;        /* ajusta a ojo después */
 }
 
-/* 3. Acerca Mía */
+/* 3. Clientes */
 .md-tabs__list > li:nth-child(3) .md-tabs__link {
     font-size: 0;
     background: url('/assets/images/iconos/acerca.svg') center / contain no-repeat;
@@ -47,10 +47,10 @@
     top: -0.50rem;
 }
 
-/* 4. Contacto */
+/* 4. Famosos */
 .md-tabs__list > li:nth-child(4) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/images/iconos/contacto.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/famosos.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
@@ -77,10 +77,10 @@
     top: -0.50rem;
 }
 
-/* 6. Famosos */
+/* 6. zona-contacto */
 .md-tabs__list > li:nth-child(6) .md-tabs__link {
     font-size: 0;
-    background: url('/assets/images/iconos/famosos.svg') center / contain no-repeat;
+    background: url('/assets/images/iconos/contacto.svg') center / contain no-repeat;
     width: 1.28rem;
     height: 1.28rem;
     display: inline-flex;
