@@ -1,6 +1,7 @@
 ---
 title: "Relaciones y Vínculos"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Relaciones y Vínculos
