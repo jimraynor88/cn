@@ -8,8 +8,9 @@ hide:
 
 # Contacto cifrado con PGP
 
-Si quieres comunicarte conmigo de forma segura, utiliza este formulario. Tu mensaje se cifrará con mi clave pública y necesito tu clave pública para responderte de forma cifrada. **Puedes pegar tu clave o generar una nueva abajo.**
-
+Si quieres comunicarte conmigo de forma segura, utiliza este formulario. Tu mensaje se cifrará con mi clave pública y necesito tu clave pública para responderte de forma cifrada. **Puedes pegar tu clave o generar una nueva abajo, no olvides guardar tus claves.**
+<br>
+Si no sabes cómo funciona, qué es PGP y por qué deberías utilizarlo, visita éste [enlace](https://soyel.de/seguridad/pgp).
 ---
 
 ## 📝 Enviar mensaje cifrado
@@ -311,7 +312,7 @@ sendBtn.addEventListener('click', async () => {
     }
     manualDiv.innerHTML = `
       <strong>⚠️ Envío automático falló. Puedes enviar el mensaje manualmente:</strong><br>
-      Copia el texto cifrado de arriba y envíalo por correo a <strong>pgp@soyel.de</strong><br>
+      Copia el texto cifrado de arriba y envíalo por correo a <strong>contacto@cartanatal.de</strong><br>
      `;
     sendBtn.disabled = false;
     copyBtn.disabled = false;
