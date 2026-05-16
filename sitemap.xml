@@ -716,6 +716,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cartanatal.de/Clientes/</loc>
+         <lastmod>2026-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cartanatal.de/Clientes/1983-02-10_01-08-02h/</loc>
          <lastmod>2026-05-16</lastmod>
          <changefreq>daily</changefreq>
@@ -837,11 +842,6 @@
     </url>
     <url>
          <loc>https://cartanatal.de/Clientes/1983-02-10_01-08-02h/perfiles/vocacion_y_logro/</loc>
-         <lastmod>2026-05-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://cartanatal.de/Famosos/</loc>
          <lastmod>2026-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
