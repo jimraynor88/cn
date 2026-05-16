@@ -89,7 +89,7 @@ hide:
         <div>🔗 <a href="/Clientes/hombre/1983-02-10_01-08-02/" class="example-link">Ver Carta Natal completa →</a></div>
         <div style="margin-top:0.5rem; font-size:0.8rem;">🏠 Casas · 💼 Conditio Vitae · 🧠 Perfiles</div>
     </div>
- /*   <div class="client-example">
+<!--    <div class="client-example">
         <div class="example-icon">♀️</div>
         <div class="example-title">Mujer · 15 de mayo de 1990 · 14:30</div>
         <div>🔗 <a href="/Clientes/mujer/1990-05-15_14-30-00/carta-natal/" class="example-link">Ver Carta Natal completa →</a></div>
@@ -106,7 +106,7 @@ hide:
         <div class="example-title">Hombre · 3 de julio de 2001 · 20:45</div>
         <div>🔗 <a href="/Clientes/hombre/2001-07-03_20-45-00/carta-natal/" class="example-link">Ver Carta Natal completa →</a></div>
         <div style="margin-top:0.5rem; font-size:0.8rem;">🏠 Casas · 💼 Conditio Vitae · 🧠 Perfiles</div>
-    </div> */
+    </div> -->
 </div>
 
 <div class="footer-client" style="text-align:center; margin-top:2rem;">
