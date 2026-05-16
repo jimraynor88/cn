@@ -159,6 +159,6 @@ hide:
 <!-- Llamada a la acción: inscripción -->
 <div style="text-align:center; margin: 2rem 0;">
     <h3>¿Quieres ser el primero en recibir noticias?</h3>
-    <p>Pues no dudes en hacérmelo saber desde el [Formulario de Contacto](https://cartanatal.de/zona-contacto)</p>
+    <p>Pues no dudes en hacérmelo saber desde el [Formulario de Contacto](/zona-contacto)</p>
     <p style="font-size:0.8rem; margin-top:0.5rem;">(No compartiré tu email, prometido por Saturno)</p>
 </div>
