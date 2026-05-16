@@ -1,6 +1,7 @@
 ---
 title: "Casa 11 – Mis amistades, mis grupos, mis ideales, mis proyectos colectivos"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 11 – Mis amistades, mis grupos, mis ideales, mis proyectos colectivos
