@@ -77,7 +77,7 @@ hide:
 </div>
 
 <div class="note-public">
-    🌟 <strong>¿Por qué están públicos?</strong> Porque cada carta es única y funciona como escaparate. Compáralas, cotillea, descubre dónde tienes tú ese planeta... y cuando quieras la tuya, <a href="/servicios">solicita tu Carta Natal Personificada</a>.
+    🌟 <strong>¿Por qué están públicos?</strong> Porque cada carta es única y funciona como escaparate. Compáralas, cotillea, descubre dónde tienes tú ese planeta... y cuando quieras la tuya, <a href="/zona-servicios">solicita tu Carta Natal Personificada</a>.
 </div>
 
 <h2 style="text-align:center;">✨ Ejemplos por sexo y fecha ✨</h2>
