@@ -2,7 +2,7 @@ site_name: CartaNatal.de
 site_url: https://cartanatal.de
 site_author: "Jim Raynor"
 #edit_uri: ""
-repo_url: https://cartanatal.de/servicios
+repo_url: https://cartanatal.de/zona-servicios
 repo_name: La Quiero!
 
 theme:
@@ -157,7 +157,7 @@ extra:
       link: /sitemap.xml
       name: Mapa del sitio
     - icon: fontawesome/solid/bag-shopping
-      link: https://cartanatal.de/servicios
+      link: https://cartanatal.de/zona-servicios
       name: Gracias!
 
 markdown_extensions:
