@@ -1,6 +1,7 @@
 ---
 title: "Casa 4 – Mi hogar, mis raíces, mi familia, mi mundo interior"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 4 – Mi hogar, mis raíces, mi familia, mi mundo interior
