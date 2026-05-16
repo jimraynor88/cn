@@ -110,5 +110,5 @@ hide:
 </div>
 
 <div class="footer-client" style="text-align:center; margin-top:2rem;">
-    🚀 ¿Quieres el tuyo? <a href="/servicios" style="color: var(--md-accent-fg-color);">Solicita tu Carta Natal Personificada</a> y recibirás un enlace único como <strong>la.cartanatal.de/tunombre</strong> (si está disponible).
+    🚀 ¿Quieres el tuyo? <a href="/zona-servicios" style="color: var(--md-accent-fg-color);">Solicita tu Carta Natal Personificada</a> y recibirás un enlace único como <strong>la.cartanatal.de/tunombre</strong> (si está disponible).
 </div>
