@@ -1,6 +1,7 @@
 ---
 title: "Casa 2 – Mis recursos, mis valores, mi autoestima"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 
