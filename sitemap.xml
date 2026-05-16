@@ -841,17 +841,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cartanatal.de/contacto/</loc>
-         <lastmod>2026-05-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://cartanatal.de/cursos/</loc>
          <lastmod>2026-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cartanatal.de/servicios/</loc>
+         <lastmod>2026-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cartanatal.de/zona-contacto/</loc>
          <lastmod>2026-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
