@@ -1,6 +1,7 @@
 ---
 title: "Casa 9 – Mi filosofía, mis viajes, mi educación superior, mi propósito"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 
