@@ -1,6 +1,7 @@
 ---
 title: "Identidad y Desarollo Personal"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Identidad y Desarrollo Personal
