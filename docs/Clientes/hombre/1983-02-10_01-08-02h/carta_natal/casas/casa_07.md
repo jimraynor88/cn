@@ -1,6 +1,7 @@
 ---
 title: "Casa 7 – Mis relaciones de pareja, mis asociaciones, mis enemigos declarados"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 7 – Mis relaciones de pareja, mis asociaciones, mis enemigos declarados
