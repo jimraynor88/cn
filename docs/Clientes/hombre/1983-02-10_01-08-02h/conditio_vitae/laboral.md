@@ -2,6 +2,8 @@
 title: "Conditio Vitae - Laboral"
 description: "Un resumen de quién soy, qué sé hacer y cómo puedo aportar valor, construido desde mis experiencias, mis dones innatos y mi forma de ser."
 summary: "Un resumen de quién soy, qué sé hacer y cómo puedo aportar valor, construido desde mis experiencias, mis dones innatos y mi forma de ser."
+date: "1983-02-10"
+read: true
 ---
 
 # Conditio Vitae Laboral
