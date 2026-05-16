@@ -1,6 +1,7 @@
 ---
 title: "Espiritualidad y Trascendencia"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Espiritualidad y Trascendencia
