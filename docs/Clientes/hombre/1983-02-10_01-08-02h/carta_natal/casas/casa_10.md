@@ -1,6 +1,7 @@
 ---
 title: "Casa 10 – Mi carrera, mi reputación, mis logros, mi contribución al mundo"
-level: "astro"
+date: "1983-02-10"
+read: true
 ---
 
 # Casa 10 – Mi carrera, mi reputación, mis logros, mi contribución al mundo
