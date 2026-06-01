@@ -4,7 +4,9 @@ asteroides: [1809]
 vinculo: "transgresión – conocimiento – sacrificio – tecnología"
 casa_tipica: [3, 5, 9, 11]
 tags: [mito, titán, fuego, civilización]
+hide: toc
 ---
+
 
 # 🔥 *Prometeo (1809)* · El Fuego que Nos Hace Humanos
 
