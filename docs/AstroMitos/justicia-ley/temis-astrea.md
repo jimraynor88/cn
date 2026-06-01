@@ -4,7 +4,9 @@ asteroides: [24, 5]
 vinculo: "ley – justicia – equilibrio – profecía"
 casa_tipica: [1, 7, 9, 10]
 tags: [mito, diosas, derecho, armonía]
+hide: toc
 ---
+
 
 # ⚖️ **Temis (24)** · **Astrea (5)**
 
