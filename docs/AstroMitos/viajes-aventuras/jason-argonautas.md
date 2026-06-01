@@ -4,7 +4,9 @@ asteroides: [8192, 3738, 3725, 3739, 3741]
 vinculo: "aventura – cooperación – traición – vellocino"
 casa_tipica: [3, 9, 11]
 tags: [mito, argonautas, jasón, viaje]
+hide: toc
 ---
+
 
 # ⛵ *Jasón (8192)* · *Argos (3738)* · *Los Argonautas* · *El Vellocino*
 
