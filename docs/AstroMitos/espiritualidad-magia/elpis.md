@@ -2,7 +2,9 @@
 title: "Elpis – La diosa de la esperanza"
 asteroides: [59]
 tags: [mito, esperanza, pandora, consuelo]
+hide: toc
 ---
+
 
 # 🌅 *Elpis (59)* · La diosa de la esperanza
 
