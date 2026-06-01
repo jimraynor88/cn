@@ -4,7 +4,9 @@ asteroides: [5143, 6, 1036]
 vinculo: "fuerza – juventud – servicio – inmortalidad"
 casa_tipica: [1, 6, 9, 10]
 tags: [mito, héroe, heracles, juventud]
+hide: toc
 ---
+
 
 # 🦁 *Heracles (5143)* · *Hebe (6)* · *Ganimedes (1036)*
 
