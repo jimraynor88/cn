@@ -4,7 +4,9 @@ asteroides: [97, 120, 273]
 vinculo: "destino – muerte – azar – inevitabilidad"
 casa_tipica: [8, 12, 4]
 tags: [mito, parcas, hadas, karma]
+hide: toc
 ---
+
 
 # ✂️ *Klotho (97)* · *Lachesis (120)* · *Atropos (273)*
 
