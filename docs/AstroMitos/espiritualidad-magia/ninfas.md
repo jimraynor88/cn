@@ -4,7 +4,9 @@ asteroides: [Multiple]
 vinculo: "naturaleza – fertilidad – inspiración – fuga"
 casa_tipica: [3, 4, 5, 6]
 tags: [mito, naturaleza, bosque, agua]
+hide: toc
 ---
+
 
 # 🍃 *Las Ninfas* · Las Almas de los Árboles y el Agua
 
