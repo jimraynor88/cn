@@ -136,7 +136,7 @@ extra:
       link: https://ntfy.angry.im/jim88
       name: NTFY - Notificaciones Instantáneas
     - icon: fontawesome/solid/envelope-circle-check
-      link: https://cartanatal.de/contacto
+      link: https://cartanatal.de/zona-contacto
       name: PGP Email
     - icon: fontawesome/brands/telegram
       link: https://t.me/jimraynorbot
@@ -153,9 +153,9 @@ extra:
     - icon: fontawesome/solid/rss
       link: https://cartanatal.de/feed_rss_updated.xml
       name: RSS
-    - icon: fontawesome/solid/sitemap
-      link: /sitemap.xml
-      name: Mapa del sitio
+#    - icon: fontawesome/solid/sitemap
+#      link: /sitemap.xml
+#      name: Mapa del sitio
     - icon: fontawesome/solid/bag-shopping
       link: https://cartanatal.de/zona-servicios
       name: Gracias!
