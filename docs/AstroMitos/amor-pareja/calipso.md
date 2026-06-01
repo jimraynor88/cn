@@ -4,7 +4,9 @@ asteroides: [53]
 vinculo: "ocultamiento – deseo – nostalgia – liberación"
 casa_tipica: [5, 8, 12]
 tags: [mito, ninfa, odiseo, ocultamiento]
+hide: toc
 ---
+
 
 # 🏝️ *Calipso (53)* · La Ninfa que Todo lo Oculta
 
