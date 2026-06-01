@@ -4,7 +4,9 @@ asteroides: [42355, (Equidna no catalogado)]
 vinculo: "destrucción – poder elemental – oscuridad – engendro"
 casa_tipica: [8, 12, 4]
 tags: [mito, titán, monstruo, tormenta, caos]
+hide: toc
 ---
+
 
 # 🌪️ *Tifón (42355)* · *Equidna (sin número)*
 
