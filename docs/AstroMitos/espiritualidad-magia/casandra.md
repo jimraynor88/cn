@@ -4,7 +4,9 @@ asteroides: [114]
 vinculo: "profecía – incredulidad – tragedia"
 casa_tipica: [3, 9, 12]
 tags: [mito, don, maldición, verdad incómoda, profecía, advertencia]
+hide: toc
 ---
+
 
 # 🏛️ **Casandra (114)** La profetisa que nadie creía
 
