@@ -4,7 +4,9 @@ asteroides: [41]
 vinculo: "transformación – rechazo – libertad – laurel"
 casa_tipica: [1, 5, 7, 12]
 tags: [mito, ninfa, árbol, apolo]
+hide: toc
 ---
+
 
 # 🌿 *Dafne (41)* · La Ninfa que Floresce al Huir
 
