@@ -2,7 +2,9 @@
 title: "Tisbe – La amante de Píramo"
 asteroides: [88]
 tags: [mito, amor, tragedia, morera]
+hide: toc
 ---
+
 
 # 🩸 *Tisbe (88)* · La amante de Píramo
 
