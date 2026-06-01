@@ -4,7 +4,9 @@ asteroides: [1179, 271]
 vinculo: "guerra – familia – viudedad – deber"
 casa_tipica: [4, 7, 10]
 tags: [mito, compromiso, pérdida, legado]
+hide: toc
 ---
+
 
 # 🏛️ Héctor (1179) · Andrómaca (271)
 
