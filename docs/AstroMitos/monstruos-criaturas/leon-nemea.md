@@ -2,7 +2,9 @@
 title: "León de Nemea – La piel que no podía ser atravesada"
 asteroides: [4483]
 tags: [mito, monstruo, heracles, piel]
+hide: toc
 ---
+
 
 # 🦁 *León de Nemea (4483)* · El primer trabajo de Heracles
 
