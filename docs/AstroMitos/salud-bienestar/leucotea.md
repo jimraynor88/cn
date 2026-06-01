@@ -2,7 +2,9 @@
 title: "Leucótea – La diosa que salva a los náufragos"
 asteroides: [35]
 tags: [mito, marina, salvación, náufragos, transformación]
+hide: toc
 ---
+
 
 # 🕊️ *Leucótea (35)* · La diosa que salva a los náufragos
 
