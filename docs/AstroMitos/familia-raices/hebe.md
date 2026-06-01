@@ -4,7 +4,9 @@ asteroides: [6]
 vinculo: "juventud – servicio – inmortalidad – reconciliación"
 casa_tipica: [1, 5, 7, 10]
 tags: [mito, olímpico, juventud, copero]
+hide: toc
 ---
+
 
 # 🍷 *Hebe (6)* · La Copa de la Juventud Eterna
 
