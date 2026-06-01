@@ -4,7 +4,9 @@ asteroides: [1862, (Coronis 158)]
 vinculo: "infidelidad – castigo – mensajero – cambio de color"
 casa_tipica: [4, 7, 12]
 tags: [mito, apolo, cuervo, traición]
+hide: toc
 ---
+
 
 # 🐦‍⬛ *Apolo (1862)* · *Coronis (158)*
 
