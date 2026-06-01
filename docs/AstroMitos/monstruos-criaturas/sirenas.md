@@ -4,7 +4,9 @@ asteroides: [1009, 1010, 1011]
 vinculo: "tentación – deseo – naufragio – conocimiento peligroso"
 casa_tipica: [5, 8, 12]
 tags: [mito, sirena, canto, odiseo]
+hide: toc
 ---
+
 
 # 🎵 *Sirena (1009)* · *Parténope (11)* · *Leucisia (1011)*
 
