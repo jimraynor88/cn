@@ -4,7 +4,9 @@ asteroides: [1862, (Jacinto 5254)]
 vinculo: "amor gay – competición – muerte – flor"
 casa_tipica: [5, 7, 8]
 tags: [mito, apolo, jacinto, luto]
+hide: toc
 ---
+
 
 # 💜 *Apolo (1862)* · *Jacinto (5254)*
 
