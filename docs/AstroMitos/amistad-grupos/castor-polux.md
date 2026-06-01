@@ -4,7 +4,9 @@ asteroides: [5468, 1179 – cuidado: no hay numeración única; se usan como Di�
 vinculo: "gemelos – lealtad – alternancia – protección"
 casa_tipica: [3, 11]
 tags: [mito, hermanos, viaje, mar]
+hide: toc
 ---
+
 
 # 👬 Cástor y Pólux (Dióscuros)
 
