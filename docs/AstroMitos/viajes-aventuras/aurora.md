@@ -2,6 +2,7 @@
 title: "Aurora – La diosa romana del amanecer"
 asteroides: [94]
 tags: [mito, romano, amanecer, eos, titánide]
+hide: toc
 ---
 
 # 🌅 *Aurora (94)* · La diosa del amanecer
