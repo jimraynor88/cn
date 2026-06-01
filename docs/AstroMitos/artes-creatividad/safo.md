@@ -2,7 +2,9 @@
 title: "Safo – La poetisa de Lesbos"
 asteroides: [80]
 tags: [mito, poetisa, amor, lesbianismo]
+hide: toc
 ---
+
 
 # 💜 *Safo (80)* · La poetisa del amor
 
