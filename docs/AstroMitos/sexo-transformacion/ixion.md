@@ -4,6 +4,7 @@ asteroides: [2893]
 vinculo: "arrogancia – deseo – castigo – rueda de fuego"
 casa_tipica: [8, 12, 7]
 tags: [mito, lapitas, nube, rueda]
+hide: toc
 ---
 
 # 🔥 *Ixión (2893)* · El Primer Parricida
