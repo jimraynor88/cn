@@ -4,7 +4,9 @@ asteroides: [17]
 vinculo: "mar – adaptación – maternidad – metamorfosis"
 casa_tipica: [4, 5, 7, 12]
 tags: [mito, titánide, nereida, madre]
+hide: toc
 ---
+
 
 # 🌊 *Tetis (17)* · La Madre que se Transforma
 
