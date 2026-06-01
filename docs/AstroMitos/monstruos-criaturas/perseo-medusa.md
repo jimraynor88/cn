@@ -2,7 +2,9 @@
 title: "Perseo y Medusa – El héroe que miró sin petrificarse"
 asteroides: [3548, 149]
 tags: [mito, héroe, gorgona, cabeza cortada]
+hide: toc
 ---
+
 
 # 🛡️ *Perseo (3548)* · *Medusa (149)*
 
