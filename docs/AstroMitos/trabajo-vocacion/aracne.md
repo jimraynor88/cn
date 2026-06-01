@@ -4,7 +4,9 @@ asteroides: [407]
 vinculo: "arte – soberbia – transformación – araña"
 casa_tipica: [3, 5, 6]
 tags: [mito, arte, hybris, tejedora]
+hide: toc
 ---
+
 
 # 🕸️ *Aracne (407)* · El Tejido que Desafía a los Dioses
 
