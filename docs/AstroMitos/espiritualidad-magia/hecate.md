@@ -4,7 +4,9 @@ asteroides: [100]
 vinculo: "magia – límites – hechicería – oscuridad"
 casa_tipica: [8, 12, 4, 1]
 tags: [mito, titán, bruja, noche]
+hide: toc
 ---
+
 
 # 🔥 *Hécate (100)* · La Madre de las Brujas
 
