@@ -4,7 +4,9 @@ asteroides: [108]
 vinculo: "reina – madre – duelo – metamorfosis"
 casa_tipica: [4, 7, 10, 12]
 tags: [mito, realeza, pérdida, venganza]
+hide: toc
 ---
+
 
 # 🏹 **Hécuba (108)**
 
