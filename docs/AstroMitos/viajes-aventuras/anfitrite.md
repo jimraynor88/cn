@@ -2,7 +2,9 @@
 title: "Anfítrite – La reina del mar"
 asteroides: [29]
 tags: [mito, nereida, poseidón, mar, reina]
+hide: toc
 ---
+
 
 # 🌊 *Anfítrite (29)* · La reina del mar sereno
 
