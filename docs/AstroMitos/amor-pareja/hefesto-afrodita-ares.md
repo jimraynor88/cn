@@ -6,7 +6,9 @@ ico: "🔨"
 vinculo: "artesanía – deseo – conflicto – humillación"
 casa_tipica: [5, 7, 8, 10]
 tags: [mito, triángulo, pasión, creatividad]
+hide: toc
 ---
+
 
 # 🔨 Hefesto (2212) · Afrodita (Venus) · Ares (Marte)
 
