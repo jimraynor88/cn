@@ -4,7 +4,9 @@ asteroides: [57, 24, 17, (Febe sin número), (Océano sin número)]
 vinculo: "profecía – memoria – justicia – adaptación"
 casa_tipica: [1, 4, 7, 9, 12]
 tags: [mito, titánides, titanes, profecía]
+hide: toc
 ---
+
 
 # 🌙 *Febe (Satélite de Saturno)* · *Mnemósine (57)* · *Temis (24)* · *Tetis (17)* · *Océano (Sin Número)*
 
