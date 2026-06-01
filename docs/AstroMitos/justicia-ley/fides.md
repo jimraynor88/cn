@@ -4,7 +4,9 @@ asteroides: [37]
 vinculo: "confianza – lealtad – palabra dada – contrato sagrado"
 casa_tipica: [2, 7, 10]
 tags: [mito, romano, fides, lealtad]
+hide: toc
 ---
+
 
 # 🤝 *Fides (37)* · La Confianza que Sella los Pactos
 
