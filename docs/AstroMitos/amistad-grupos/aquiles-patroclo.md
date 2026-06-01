@@ -4,6 +4,7 @@ asteroides: [588, 617]
 vinculo: "compañerismo – guerra – venganza – honor"
 casa_tipica: [6, 7, 11]
 tags: [mito, amistad, luto, acción]
+hide: toc
 ---
 
 # 🛡️ Aquiles (588) · Patroclo (617)
