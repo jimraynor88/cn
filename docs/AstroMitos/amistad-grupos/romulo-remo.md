@@ -2,7 +2,9 @@
 title: "Rómulo y Remo – Los fundadores de Roma"
 asteroides: [10386, 5853]
 tags: [mito, romano, fundación, hermanos]
+hide: toc
 ---
+
 
 # 🐺 *Rómulo (10386)* · *Remo (5853)*
 
