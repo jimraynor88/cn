@@ -4,6 +4,7 @@ asteroides: [1143, 201]
 vinculo: "lealtad – paciencia – astucia – recompensa tardía"
 casa_tipica: [4, 7, 12]
 tags: [mito, familia, regreso, fidelidad]
+hide: toc
 ---
 
 # 🏛️ *Odiseo (1143)* · *Penélope (201)*
