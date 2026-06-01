@@ -4,7 +4,9 @@ asteroides: [46, 67, 69]
 vinculo: "ocaso – guardiana – inmortalidad – jardín"
 casa_tipica: [4, 5, 12, 2]
 tags: [mito, hesperides, ocaso, tesoro]
+hide: toc
 ---
+
 
 # 🍊 *Las Hespérides* · El Jardín del Ocaso y la Serpiente
 
