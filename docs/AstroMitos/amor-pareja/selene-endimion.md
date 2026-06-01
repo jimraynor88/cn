@@ -4,7 +4,9 @@ asteroides: [580, (Endimión no existe como asteroide)]
 vinculo: "amor – lejanía – idealización – ciclo lunar"
 casa_tipica: [4, 5, 9, 12]
 tags: [mito, luna, sueño, eternidad]
+hide: toc
 ---
+
 
 # 🌕 *Selene (580)* · *Endimión (No catalogado)*
 
