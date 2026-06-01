@@ -6,7 +6,9 @@ ico: "🏹"
 vinculo: "persecución – rechazo – transformación – laurel"
 casa_tipica: [3, 5, 7, 9]
 tags: [mito, apolo, dafne, árbol]
+hide: toc
 ---
+
 
 # 🏹 *Apolo (1862)* · *Dafne (41)*
 
