@@ -4,7 +4,9 @@ asteroides: [2060, 10, 1027, 172]
 vinculo: "herida – curación – medicina – prodigio"
 casa_tipica: [6, 9, 12]
 tags: [mito, salud, pedagogía, sanación]
+hide: toc
 ---
+
 
 # 🏹 Quirón (2060) · Higia (10) · Asclepio (1027) · Podalirio (172)
 
