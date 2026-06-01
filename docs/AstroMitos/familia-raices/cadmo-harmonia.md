@@ -4,7 +4,9 @@ asteroides: [7092, 40]
 vinculo: "fundación – transgresión – reconciliación – paz"
 casa_tipica: [4, 7, 9, 10]
 tags: [mito, tebano, dragón, equilibrio]
+hide: toc
 ---
+
 
 # 🏛️ *Cadmo (7092)* · *Harmonía (40)*
 
