@@ -4,7 +4,9 @@ asteroides: [36, 7667]
 vinculo: "responsabilidad – soporte – resistencia – peso"
 casa_tipica: [6, 10, 12]
 tags: [mito, titán, responsabilidad, peso, resistencia]
+hide: toc
 ---
+
 
 # 🌍 *Atlas (36 y 7667)* · El Titán que Sostiene el Cielo
 
