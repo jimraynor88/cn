@@ -4,7 +4,9 @@ asteroides: [24]
 vinculo: "justicia – ley – equilibrio – orden"
 casa_tipica: [1, 7, 9, 10]
 tags: [mito, titánide, justicia, oráculo]
+hide: toc
 ---
+
 
 # ⚖️ *Temis (24)* · La Justicia Divina
 
