@@ -4,6 +4,7 @@ asteroides: [1865]
 vinculo: "guardián – límite – miedo – inconsciente"
 casa_tipica: [4, 8, 12]
 tags: [mito, inframundo, perro, límite]
+hide: toc
 ---
 
 # 🐕‍🦺 *Cerbero (1865)* · El Guardián de la Puerta del Hades
