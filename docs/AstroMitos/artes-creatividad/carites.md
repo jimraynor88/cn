@@ -4,7 +4,9 @@ asteroides: [47, 31, 23]
 vinculo: "belleza – alegría – creatividad – danza"
 casa_tipica: [1, 5, 7, 2]
 tags: [mito, gracias, encanto, fertilidad]
+hide: toc
 ---
+
 
 # 🌸 *Las Cárites* · La Belleza que Todo lo Ablanda
 
