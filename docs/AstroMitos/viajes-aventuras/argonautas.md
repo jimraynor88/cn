@@ -4,7 +4,9 @@ asteroides: [3738, 8192, 212, 300]
 vinculo: "aventura – cooperación – misión – riesgo"
 casa_tipica: [3, 9, 11]
 tags: [mito, argonautas, viaje, héroes]
+hide: toc
 ---
+
 
 # ⛵ *Argos (3738)* · *Jasón (8192)* · *Medea (212)* · *Hércules (300)*
 
