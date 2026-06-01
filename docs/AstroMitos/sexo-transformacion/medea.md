@@ -4,7 +4,9 @@ asteroides: [212]
 vinculo: "hechicería – abandono – sacrificio – crimen"
 casa_tipica: [4, 7, 8, 12]
 tags: [mito, magia, venganza, sombra femenina]
+hide: toc
 ---
+
 
 # 🔮 **Medea (212)**
 
