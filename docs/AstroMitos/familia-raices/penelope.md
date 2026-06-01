@@ -2,7 +2,9 @@
 title: "Penélope – La tejedora de la espera infinita"
 asteroides: [201]
 tags: [mito, odiseo, fidelidad, tejido]
+hide: toc
 ---
+
 
 # 🧵 *Penélope (201)* · La esposa paciente
 
