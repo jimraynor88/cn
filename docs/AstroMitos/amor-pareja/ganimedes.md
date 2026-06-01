@@ -4,7 +4,9 @@ asteroides: [1036]
 vinculo: "rapto – belleza – servicio – ascenso súbito"
 casa_tipica: [1, 5, 9, 10]
 tags: [mito, troyano, copero, zeus]
+hide: toc
 ---
+
 
 # 🦅 *Ganimedes (1036)* · El Príncipe Raptado que Sirve Néctar
 
