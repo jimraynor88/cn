@@ -2,7 +2,9 @@
 title: "Dido – La reina abandonada que fundó Cartago"
 asteroides: [209]
 tags: [mito, romano, eneas, abandono]
+hide: toc
 ---
+
 
 # 🔥 *Dido (209)* · La reina de Cartago
 
