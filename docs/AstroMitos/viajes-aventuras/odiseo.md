@@ -4,7 +4,9 @@ asteroides: [1143]
 vinculo: "viaje – astucia – regreso – identidad"
 casa_tipica: [3, 9, 12]
 tags: [mito, troyano, viaje, astucia]
+hide: toc
 ---
+
 
 # 🌊 *Odiseo (1143)* · El Rey que Nunca Dejó de Navegar
 
