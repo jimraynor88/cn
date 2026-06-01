@@ -6,7 +6,9 @@ vinculo: "matrimonio – ley – expansión"
 casa_tipica: [4, 7, 9, 10]
 tags: [mito, compromiso, autoridad, realeza]
 ico: "👑"
+hide: toc
 ---
+
 
 # 👑 Juno (3) · Júpiter (Planeta)
 
