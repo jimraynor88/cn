@@ -4,7 +4,9 @@ asteroides: [343158]
 vinculo: "música – desafío – arrogancia – justicia divina"
 casa_tipica: [3, 5, 12]
 tags: [mito, música, flauta, apolo]
+hide: toc
 ---
+
 
 # 🎵 *Marsias (343158)* · El Sátiro Desollado por su Música
 
