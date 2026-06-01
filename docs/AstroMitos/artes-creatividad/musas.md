@@ -4,7 +4,9 @@ asteroides: [22, 84, 27, 62, 18, 33, 81, 23, 30]
 vinculo: "inspiración – arte – memoria – creatividad"
 casa_tipica: [3, 5, 9, 12]
 tags: [mito, musas, artes, poesía, inspiración]
+hide: toc
 ---
+
 
 # 🎭 *Las Musas* · La Inspiración Fragmentada
 
