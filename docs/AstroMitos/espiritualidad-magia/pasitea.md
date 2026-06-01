@@ -4,7 +4,9 @@ asteroides: [1188, 4197, 14827]
 vinculo: "sueño – alucinación – descanso – visiones"
 casa_tipica: [12, 4, 5]
 tags: [mito, pasitea, sueño, morfeo]
+hide: toc
 ---
+
 
 # 💤 *Pasítea (1188)* · La Esposa del Sueño
 
