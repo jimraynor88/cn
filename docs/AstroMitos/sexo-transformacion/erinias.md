@@ -4,7 +4,9 @@ asteroides: [889]
 vinculo: "venganza – remordimiento – justicia arcaica"
 casa_tipica: [8, 12, 4]
 tags: [mito, furias, culpa, karma]
+hide: toc
 ---
+
 
 # 🐍 *Erynnia (889)* · Las Tres Furias
 
