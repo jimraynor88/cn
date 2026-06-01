@@ -2,7 +2,9 @@
 title: "Isis – La gran diosa egipcia de la magia"
 asteroides: [42]
 tags: [mito, egipcio, magia, maternidad]
+hide: toc
 ---
+
 
 # 🗝️ *Isis (42)* · La gran diosa egipcia
 
