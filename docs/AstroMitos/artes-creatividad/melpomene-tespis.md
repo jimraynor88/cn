@@ -4,7 +4,9 @@ asteroides: [18, (Tespis sin número oficial)]
 vinculo: "teatro – máscara – tragedia – ficción"
 casa_tipica: [5, 10, 12]
 tags: [mito, teatro, máscara, actor]
+hide: toc
 ---
+
 
 # 🎭 *Melpómene (18)* · *Tespis (sin número)*
 
