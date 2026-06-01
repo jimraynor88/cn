@@ -4,7 +4,9 @@ asteroides: [99942]
 vinculo: "caos – destrucción – crisis – renacimiento"
 casa_tipica: [8, 12, 4]
 tags: [mito, egipcio, caos, serpiente]
+hide: toc
 ---
+
 
 # 🐍 *Apofis (99942)* · El Caos que Casi lo Destruye Todo
 
