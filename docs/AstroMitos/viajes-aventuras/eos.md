@@ -4,7 +4,9 @@ asteroides: [221]
 vinculo: "aurora – deseo – maldición – renovación"
 casa_tipica: [1, 4, 7]
 tags: [mito, aurora, deseo, maldición]
+hide: toc
 ---
+
 
 # 🌅 *Eos (221)* · La Aurora Renovadora
 
