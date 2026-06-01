@@ -2,7 +2,9 @@
 title: "Polifemo – El cíclope devorador de hombres"
 asteroides: [1019]
 tags: [mito, cíclope, odiseo, astucia]
+hide: toc
 ---
+
 
 # 🧔‍♂️ *Polifemo (1019)* · El cíclope de la Odisea
 
