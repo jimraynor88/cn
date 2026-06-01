@@ -4,6 +4,7 @@ asteroides: [1809, 1810, 55]
 vinculo: "inteligencia – imprevisión – castigo – esperanza"
 casa_tipica: [3, 5, 9, 11]
 tags: [mito, fuego, tecnología, límite]
+hide: toc
 ---
 
 # 🔥 *Prometeo (1809)* · *Epimeteo (1810)* · *Pandora (55)*
