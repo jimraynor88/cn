@@ -4,7 +4,9 @@ asteroides: [1, 399, (Plutón planeta)]
 vinculo: "madre – hija – muerte – renacimiento"
 casa_tipica: [4, 8, 12]
 tags: [mito, duelo, fertilidad, transformación]
+hide: toc
 ---
+
 
 # 🌾 Ceres (1) · Perséfone (399) · Plutón (Planeta)
 
