@@ -4,7 +4,9 @@ asteroides: [43, (Teseo no existe como asteroide), (Dioniso no existe)]
 vinculo: "guía – amor – traición – consagración"
 casa_tipica: [5, 7, 8, 12]
 tags: [mito, laberinto, fidelidad, renacimiento]
+hide: toc
 ---
+
 
 # 🧵 *Ariadna (43)* · *Teseo (No catalogado)* · *Dioniso (No catalogado)*
 
