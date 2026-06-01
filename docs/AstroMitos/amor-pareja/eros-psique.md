@@ -6,7 +6,9 @@ vinculo: "amor – alma – deseo – traición iniciática"
 casa_tipica: [1, 5, 8, 12]
 ico: "🦋"
 tags: [mito, psique, eros, iluminación]
+hide: toc
 ---
+
 
 # 🦋 *Eros (433)* · *Psique (16)*
 
