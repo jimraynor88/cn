@@ -2,7 +2,9 @@
 title: "Hidra de Lerna – La serpiente de cabezas infinitas"
 asteroides: [no tiene número oficial]
 tags: [mito, monstruo, heracles, veneno]
+hide: toc
 ---
+
 
 # 🐍 *Hidra de Lerna* · La serpiente de cabezas infinitas
 
