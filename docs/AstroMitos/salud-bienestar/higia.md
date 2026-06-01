@@ -2,7 +2,9 @@
 title: "Higia – La Salud Preventiva y la Limpieza del Alma"
 asteroides: [10]
 tags: [mito, salud, higiene, prevención]
+hide: toc
 ---
+
 
 # 🧼 *Higia (10)* · La Salud Preventiva
 
