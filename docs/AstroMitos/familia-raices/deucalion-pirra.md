@@ -4,7 +4,9 @@ asteroides: [2891, (Pirra sin número oficial) Pandora (55) como sustituto mater
 vinculo: "diluvio – supervivencia – reinicio – piedras que se vuelven pueblo"
 casa_tipica: [4, 8, 12]
 tags: [mito, diluvio, pareja, creación]
+hide: toc
 ---
+
 
 # 🌊 *Deucalión (2891)* · *Pirra (sin número)*
 
