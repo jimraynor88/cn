@@ -2,7 +2,9 @@
 title: "Caronte – El barquero que cruza la laguna Estigia"
 asteroides: [2055]
 tags: [mito, inframundo, psicopompo, límite]
+hide: toc
 ---
+
 
 # ⛵️ *Caronte (2055)* · El barquero de almas
 
