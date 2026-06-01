@@ -2,7 +2,9 @@
 title: "Pales – La diosa romana de pastores y rebaños"
 asteroides: [49]
 tags: [mito, romano, pastores, ganado, fertilidad]
+hide: toc
 ---
+
 
 # 🐑 *Pales (49)* · La diosa de los pastores
 
