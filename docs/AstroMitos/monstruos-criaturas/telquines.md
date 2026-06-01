@@ -4,6 +4,7 @@ asteroides: [8442, 2136, 12929]
 vinculo: "magia – tecnología – límite – contaminación"
 casa_tipica: [3, 6, 8, 10]
 tags: [mito, telquines, magia, herrería]
+hide: toc
 ---
 
 # 🔧 *Telquines (8442, 2136, 12929)* · Los Magos Herreros
