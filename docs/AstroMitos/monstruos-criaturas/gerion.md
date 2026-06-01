@@ -2,7 +2,9 @@
 title: "Gerión – El gigante de tres cuerpos"
 asteroides: [452]
 tags: [mito, gigante, heracles, ganado]
+hide: toc
 ---
+
 
 # 🏃‍♂️ *Gerión (452)* · El monstruo tricéfalo
 
