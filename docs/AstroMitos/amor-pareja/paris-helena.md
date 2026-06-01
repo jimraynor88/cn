@@ -5,7 +5,9 @@ ico: "🍎"
 vinculo: "seducción – fama – conflicto – deseo colectivo"
 casa_tipica: [3, 5, 7, 10]
 tags: [mito, troyano, deseo, conflicto]
+hide: toc
 ---
+
 
 # 🍎 *Paris (3317)* · *Helena (101)*
 
