@@ -2,7 +2,9 @@
 title: "Argos – La Nave que Todo lo Soportó"
 asteroides: [3738]
 tags: [mito, viaje, cooperación, construcción]
+hide: toc
 ---
+
 
 # ⛵ *Argos (3738)* · La Nave de los Argonautas
 
