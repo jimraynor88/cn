@@ -4,7 +4,9 @@ asteroides: [1135, 172]
 vinculo: "hospitalidad – humildad – vejez – árboles gemelos"
 casa_tipica: [4, 7, 12]
 tags: [mito, vejez, hospitalidad, transformación]
+hide: toc
 ---
+
 
 # 🌳 *Filemón (1135)* · *Baucis (172)*
 
