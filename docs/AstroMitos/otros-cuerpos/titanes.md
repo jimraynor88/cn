@@ -4,7 +4,9 @@ asteroides: [36, 1809, 1810]
 vinculo: "sostener – robar – sufrir – castigar"
 casa_tipica: [3, 8, 9, 10]
 tags: [mito, titanes, tecnología, ideales]
+hide: toc
 ---
+
 
 # 🏔️ **Atlas (36)** · **Prometeo (1809)** · **Epimeteo (1810)**
 
