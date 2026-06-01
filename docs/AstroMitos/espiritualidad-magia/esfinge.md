@@ -4,7 +4,9 @@ asteroides: [896]
 vinculo: "enigma – identidad – introspección – umbral"
 casa_tipica: [1, 7, 9]
 tags: [mito, esfinge, enigma, conocimiento]
+hide: toc
 ---
+
 
 # 🗿 *Esfinge (896)* · El Acertijo de Ti Mismo
 
