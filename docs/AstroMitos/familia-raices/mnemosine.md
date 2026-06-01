@@ -4,7 +4,9 @@ asteroides: [57]
 vinculo: "memoria – archivo – olvido – conocimiento"
 casa_tipica: [3, 9, 12]
 tags: [mito, titánide, memoria, musas]
+hide: toc
 ---
+
 
 # 📖 *Mnemósine (57)* · La Memoria Absoluta
 
