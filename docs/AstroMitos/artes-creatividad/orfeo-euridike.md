@@ -4,7 +4,9 @@ asteroides: [3361, 75]
 vinculo: "amor – muerte – nostalgia – transgresión"
 casa_tipica: [5, 8, 12]
 tags: [mito, música, pérdida, frontera]
+hide: toc
 ---
+
 
 # 🎶 Orfeo (3361) · Eurídike (75)
 
