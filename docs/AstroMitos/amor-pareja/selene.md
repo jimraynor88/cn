@@ -4,7 +4,9 @@ asteroides: [580]
 vinculo: "luna – ciclos – sueño – amor eterno"
 casa_tipica: [4, 5, 12]
 tags: [mito, luna, selenita, endimion]
+hide: toc
 ---
+
 
 # 🌙 *Selene (580)* · La Luz que Atraviesa la Luna
 
