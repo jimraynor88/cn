@@ -4,7 +4,9 @@ asteroides: [1172, 1173, 884]
 vinculo: "huida – deber – realeza – fundación"
 casa_tipica: [4, 7, 9, 12]
 tags: [mito, troyano, romanos, destino]
+hide: toc
 ---
+
 
 # 🔥 **Eneas (1172)** · **Anquises (1173)** · **Príamo (884)**
 
