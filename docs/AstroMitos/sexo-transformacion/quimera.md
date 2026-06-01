@@ -4,7 +4,9 @@ asteroides: [623]
 vinculo: "monstruo – fusión – creatividad – sombra"
 casa_tipica: [5, 8, 12]
 tags: [mito, monstruo, fusión, peligro]
+hide: toc
 ---
+
 
 # 🔥 *Quimera (623)* · La Fusión Imposible
 
