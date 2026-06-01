@@ -4,7 +4,9 @@ asteroides: [2257, 17258]
 vinculo: "creación – poder bruto – singularidad – artesanía divina"
 casa_tipica: [5, 6, 8, 10]
 tags: [mito, herrero, rayo, titán]
+hide: toc
 ---
+
 
 # 🔨 *Los Cíclopes (2257 Ka, 17258, etc.)*
 
