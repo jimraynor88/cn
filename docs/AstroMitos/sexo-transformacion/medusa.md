@@ -4,7 +4,9 @@ asteroides: [149]
 vinculo: "ira – petrificación – poder femenino"
 casa_tipica: [1, 8, 12]
 tags: [mito, monstruo, gorgona, rabia]
+hide: toc
 ---
+
 
 # 🐍 *Medusa (149)* · La Mirada que Petrífica
 
