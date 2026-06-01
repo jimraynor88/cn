@@ -2,7 +2,9 @@
 title: "Hefesto – El Herrero Cojo que Forja el Poder"
 asteroides: [2212]
 tags: [mito, fragua, artesanía, poder]
+hide: toc
 ---
+
 
 # ⚒️ *Hefesto (2212)* · El Herrero Divino
 
