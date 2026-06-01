@@ -4,7 +4,9 @@ asteroides: [2895, 692, 2896]
 vinculo: "engranaje – carrera – traición – fundación"
 casa_tipica: [5, 7, 8]
 tags: [mito, amor, juego, muerte]
+hide: toc
 ---
+
 
 # 🏇 **Pelops (2895)** · **Hipodamía (692)** · **Mírtilo (2896)**
 
