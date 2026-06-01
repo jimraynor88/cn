@@ -4,7 +4,9 @@ asteroides: [84]
 vinculo: "historia – memoria – fama – registro"
 casa_tipica: [4, 9, 10]
 tags: [mito, musa, historia, fama]
+hide: toc
 ---
+
 
 # 📜 *Clío (84)* · Musa de la Historia y la Fama
 
