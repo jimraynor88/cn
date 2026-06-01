@@ -4,7 +4,9 @@ asteroides: [37117, 60]
 vinculo: "vanidad – rechazo – desaparición – reflejo"
 casa_tipica: [1, 3, 5, 12]
 tags: [mito, ego, comunicación, eco]
+hide: toc
 ---
+
 
 # 💧 *Narciso (37117)* · *Eco (60)*
 
