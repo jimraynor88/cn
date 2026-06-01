@@ -4,7 +4,9 @@ asteroides: [17, 11351]
 vinculo: "destino – boda – superación – héroe"
 casa_tipica: [4, 5, 7, 10]
 tags: [mito, nupcial, guerra, ascendencia]
+hide: toc
 ---
+
 
 # ⚡ **Tetis (17)** · **Peleo (11351)**
 
