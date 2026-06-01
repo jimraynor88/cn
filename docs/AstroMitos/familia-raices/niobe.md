@@ -4,7 +4,9 @@ asteroides: [71]
 vinculo: "orgullo – maternidad – pérdida – petrificación"
 casa_tipica: [4, 5, 12]
 tags: [mito, familia, duelo, hybris]
+hide: toc
 ---
+
 
 # 🗿 *Níobe (71)* · La Madre Convertida en Piedra
 
