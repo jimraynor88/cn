@@ -4,6 +4,7 @@ asteroides: [112, 134]
 vinculo: "familia – sacrificio – culpa – venganza"
 casa_tipica: [4, 8, 12]
 tags: [mito, hermandad, sangre, expiación]
+hide: toc
 ---
 
 # ⚔️ *Ifigenia (112)* · *Orestes (134)*
