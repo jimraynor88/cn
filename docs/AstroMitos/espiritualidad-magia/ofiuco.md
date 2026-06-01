@@ -3,7 +3,9 @@ title: "Ofiuco – El Portador de la Serpiente y la Sanación Perdida"
 vinculo: "sanación – conocimiento prohibido – ciclo zodiacal roto"
 casa_tipica: [1, 6, 9, 12]
 tags: [zodiaco, constelación, serpiente, sabiduría]
+hide: toc
 ---
+
 
 # 🐍 *Ofiuco (no asteroide)* · La Decimotercera Constelación
 
