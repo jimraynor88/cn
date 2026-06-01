@@ -2,7 +2,9 @@
 title: "Melete – La musa de la práctica"
 asteroides: [56]
 tags: [mito, musa, práctica, esfuerzo]
+hide: toc
 ---
+
 
 # 🏺 *Melete (56)* · La musa de la práctica
 
