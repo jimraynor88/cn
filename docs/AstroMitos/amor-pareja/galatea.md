@@ -2,7 +2,9 @@
 title: "Galatea – La estatua que cobró vida"
 asteroides: [74]
 tags: [mito, escultura, amor, pigmalión]
+hide: toc
 ---
+
 
 # 🗿 *Galatea (74)* · La estatua que cobró vida
 
