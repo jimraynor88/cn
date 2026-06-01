@@ -4,7 +4,9 @@ asteroides: [911, 1647]
 vinculo: "hermandad – poder – guerra – sacrificio"
 casa_tipica: [4, 7, 10]
 tags: [mito, realeza, familia, destino]
+hide: toc
 ---
+
 
 # 👑 **Agamenón (911)** · **Menelao (1647)** · Los Atridas
 
