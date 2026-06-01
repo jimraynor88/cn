@@ -4,7 +4,9 @@ asteroides: [588, 624, 659]
 vinculo: "héroe – guerra – deber – consejo"
 casa_tipica: [1, 6, 7, 10]
 tags: [mito, guerrero, iliada, troya]
+hide: toc
 ---
+
 
 # 🛡️ Los Troyanos Griegos · Las Estrategias de Guerra
 
