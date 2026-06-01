@@ -4,7 +4,9 @@ asteroides: [43]
 vinculo: "guía – abandono – laberinto – transformación"
 casa_tipica: [5, 7, 12]
 tags: [mito, cretense, hilo, teseo]
+hide: toc
 ---
+
 
 # 🧵 *Ariadna (43)* · El Hilo que Guía en la Oscuridad
 
