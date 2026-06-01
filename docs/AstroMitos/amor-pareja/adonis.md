@@ -6,7 +6,9 @@ vinculo: "belleza – caza – muerte – renacimiento vegetal"
 casa_tipica: [1, 5, 8]
 ico: "🌹"
 tags: [mito, adonis, afrodita, perséfone]
+hide: toc
 ---
+
 
 # 🌹 *Adonis (2101)* · El Joven que Afrodita y Perséfone amaron
 
