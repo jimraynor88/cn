@@ -4,7 +4,9 @@ asteroides: [15, 14, 99]
 vinculo: "estaciones – justicia – paz – orden social"
 casa_tipica: [6, 10, 7]
 tags: [mito, horas, ley, ciclos]
+hide: toc
 ---
+
 
 # 🌿 *Eunomia (15)* · *Irene (14)* · *Dice (99)*
 
