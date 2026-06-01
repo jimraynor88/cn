@@ -2,7 +2,9 @@
 title: "Minerva – La diosa romana de la sabiduría"
 asteroides: [93]
 tags: [mito, romano, sabiduría, artes]
+hide: toc
 ---
+
 
 # 🦉 *Minerva (93)* · La diosa romana de la sabiduría
 
