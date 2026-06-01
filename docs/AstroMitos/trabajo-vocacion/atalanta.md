@@ -4,7 +4,9 @@ asteroides: [36]
 vinculo: "independencia – velocidad – honor – trampa"
 casa_tipica: [1, 5, 6, 11]
 tags: [mito, caza, virginidad, carrera]
+hide: toc
 ---
+
 
 # 🏹 *Atalanta (36)*
 
