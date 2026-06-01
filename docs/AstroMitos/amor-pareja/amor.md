@@ -4,7 +4,9 @@ asteroides: [1221]
 vinculo: "deseo – eros – pasión – fugacidad"
 casa_tipica: [1, 5, 7, 8]
 tags: [mito, romano, amor, deseo]
+hide: toc
 ---
+
 
 # 💘 *Amor (1221)* · El Deseo que No Pide Permiso
 
