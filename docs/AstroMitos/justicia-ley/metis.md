@@ -2,7 +2,9 @@
 title: "Metis – La sabiduría devorada"
 asteroides: [9]
 tags: [mito, titánide, sabiduría, zeus]
+hide: toc
 ---
+
 
 # 🧠 *Metis (9)* · La sabiduría devorada
 
