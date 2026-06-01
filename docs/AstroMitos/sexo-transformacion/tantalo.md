@@ -4,7 +4,9 @@ asteroides: [2102]
 vinculo: "soberbia – castigo – privación – decepción eterna"
 casa_tipica: [2, 5, 8]
 tags: [mito, castigo, soberbia, tentación]
+hide: toc
 ---
+
 
 # 🍇 *Tántalo (2102)* · El Hambre Eterna Junto al Fruto
 
