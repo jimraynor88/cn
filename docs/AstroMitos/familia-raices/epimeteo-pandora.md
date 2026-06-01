@@ -4,7 +4,9 @@ asteroides: [55, 1810]
 vinculo: "curiosidad – confianza – desobediencia – esperanza"
 casa_tipica: [1, 3, 8, 12]
 tags: [mito, culpa, secreto, regalo]
+hide: toc
 ---
+
 
 # 🏺 *Pandora (55)* · *Epimeteo (1810)*
 
