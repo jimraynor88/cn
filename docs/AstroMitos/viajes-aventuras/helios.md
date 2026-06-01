@@ -4,7 +4,9 @@ asteroides: [895]
 vinculo: "sol – verdad – vigilancia – energía vital"
 casa_tipica: [5, 9, 10]
 tags: [mito, sol, vigilancia, justicia]
+hide: toc
 ---
+
 
 # ☀️ *Helios (895)* · La Vigilante Luz del Mediodía
 
