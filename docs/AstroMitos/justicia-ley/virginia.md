@@ -2,7 +2,9 @@
 title: "Virginia – La joven sacrificada por el honor romano"
 asteroides: [50]
 tags: [mito, romano, sacrificio, castidad, república]
+hide: toc
 ---
+
 
 # ⚖️ *Virginia (50)* · La joven sacrificada por el honor romano
 
