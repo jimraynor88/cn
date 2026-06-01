@@ -4,7 +4,9 @@ asteroides: [157, 7066]
 vinculo: "victimización – abuso – manipulación"
 casa_tipica: [7, 8, 12]
 tags: [mito, sombra, trauma, relación tóxica]
+hide: toc
 ---
+
 
 # ⚔️ Dejanira (157) · Nessus (7066)
 
