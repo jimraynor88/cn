@@ -4,7 +4,9 @@ asteroides: [1808, 5731]
 vinculo: "doma – vuelo – soberbia – caída"
 casa_tipica: [1, 5, 9, 10]
 tags: [mito, caballo alado, quimera, héroe]
+hide: toc
 ---
+
 
 # 🐎 *Belerefonte (1808)* · *Pegaso (5731)*
 
