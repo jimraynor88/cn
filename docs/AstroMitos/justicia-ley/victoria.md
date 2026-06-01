@@ -2,7 +2,9 @@
 title: "Victoria – La diosa de la victoria"
 asteroides: [12]
 tags: [mito, romano, victoria, éxito]
+hide: toc
 ---
+
 
 # 🏆 *Victoria (12)* · La diosa alada del triunfo
 
