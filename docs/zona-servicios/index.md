@@ -243,7 +243,7 @@ hide:
   <ol>
     <li><strong>PayPal</strong>: Haz clic en "Invitar al Café" o en "Solicitar por 182 €". Se abrirá PayPal con el importe correcto. Puedes pagar con tarjeta sin necesidad de cuenta PayPal.</li>
     <li><strong>Bitcoin Lightning</strong>: Copia la dirección <code>jimraynor@bitrefill.me</code>, abre tu monedero Lightning (Wallet of Satoshi, Zeus, etc.) y pega la dirección. Introduce el importe en euros (si tu monedero lo permite) o en satoshis equivalentes.</li>
-    <li><strong>Para la Carta Natal</strong>: Una vez realizado el pago, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 24-48h recibirás tu enlace personalizado.</li>
+    <li><strong>Para la Carta Natal</strong>: Una vez realizado el pago, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 72-92h recibirás tu enlace personalizado.</li>
   </ol>
   <div class="alert">
     💡 <strong>Nota</strong>: Bitrefill me acredita el saldo en euros para gastar en su tienda. Es la forma más sencilla de aceptar Lightning sin gestionar un nodo propio.
