@@ -4,7 +4,9 @@ asteroides: [588, 624, 659, 2035, 1404, 1437]
 vinculo: "héroe – consejo – furia – defensa"
 casa_tipica: [1, 6, 7, 10]
 tags: [mito, guerra, estrategia, fuerza]
+hide: toc
 ---
+
 
 # 🏹 **Néstor (659)** · **Ayante (1404)** · **Diomedes (1437)** · **Héctor (624)**
 
