@@ -4,7 +4,9 @@ asteroides: [1866]
 vinculo: "astucia – engaño – esfuerzo – rutina eterna"
 casa_tipica: [6, 10, 12]
 tags: [mito, castigo, rutina, significado, absurdidad]
+hide: toc
 ---
+
 
 # ⛰️ *Sísifo (1866)* · La Roca que Siempre Vuelve a Caer
 
