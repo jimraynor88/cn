@@ -2,7 +2,9 @@
 title: "Bellona – La diosa romana de la guerra justa"
 asteroides: [28]
 tags: [mito, romano, guerra, estrategia]
+hide: toc
 ---
+
 
 # ⚔️ *Bellona (28)* · La diosa de la guerra justa
 
