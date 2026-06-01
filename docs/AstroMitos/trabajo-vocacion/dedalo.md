@@ -4,7 +4,9 @@ asteroides: [1864]
 vinculo: "habilidad – creatividad – atrapamiento – vuelo"
 casa_tipica: [3, 5, 6, 10]
 tags: [mito, inventor, laberinto, ícaro]
+hide: toc
 ---
+
 
 # 🏛️ *Dédalo (1864)* · El Arquitecto del Laberinto
 
