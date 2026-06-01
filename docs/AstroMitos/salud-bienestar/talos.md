@@ -4,7 +4,9 @@ asteroides: [5786]
 vinculo: "robot – vigilancia – automatismo – destrucción"
 casa_tipica: [1, 6, 10]
 tags: [mito, talos, robot, tecnología]
+hide: toc
 ---
+
 
 # 🤖 *Talos (5786)* · El Autómata de Bronce
 
