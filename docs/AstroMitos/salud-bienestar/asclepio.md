@@ -2,7 +2,9 @@
 title: "Asclepio – La Medicina que Resucita"
 asteroides: [1027]
 tags: [mito, salud, curación, milagro]
+hide: toc
 ---
+
 
 # 🏥 *Asclepio (1027)* · La Medicina que Resucita
 
