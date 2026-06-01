@@ -4,6 +4,7 @@ asteroides: [212, 179]
 vinculo: "traición – venganza – infanticidio – matricidio"
 casa_tipica: [4, 7, 8, 12]
 tags: [mito, sombra, violencia, poder femenino]
+hide: toc
 ---
 
 # 🔪 **Medea (212)** · **Clitemnestra (179)**
