@@ -4,7 +4,9 @@ asteroides: [69230, (Heros sin número)]
 vinculo: "mensaje – iniciación – tránsito – frontera"
 casa_tipica: [1, 3, 9, 12]
 tags: [mito, hermes, tránsito, iniciación]
+hide: toc
 ---
+
 
 # ✨ *Hermes (69230)* · *El culto al Héroe*
 
