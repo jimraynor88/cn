@@ -2,7 +2,9 @@
 title: "Telémaco – El hijo que busca a su padre"
 asteroides: [1583]
 tags: [mito, odiseo, hijo, búsqueda]
+hide: toc
 ---
+
 
 # 🌊 *Telémaco (1583)* · El hijo de Odiseo y Penélope
 
