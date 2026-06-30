@@ -86,7 +86,7 @@ hide:
     <div class="client-example">
         <div class="example-icon">♂️</div>
         <div class="example-title">Hombre · 10 de febrero de 1983 · 01:08</div>
-        <div>🔗 <a href="/Clientes/hombre/1983-02-10_01-08-02h/" class="example-link">Ver Carta Natal completa →</a></div>
+        <div>🔗 <a href="/Clientes/hombre/1983-02-10_01-08-02/" class="example-link">Ver Carta Natal completa →</a></div>
         <div style="margin-top:0.5rem; font-size:0.8rem;">🏠 Casas · 💼 Conditio Vitae · 🧠 Perfiles</div>
     </div>
 <!--    <div class="client-example">
