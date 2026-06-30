@@ -224,7 +224,7 @@ hide:
       <h3>✨ Carta Natal Personificada</h3>
     </div>
     <div class="card-body">
-      <div class="price">182 €</div>
+      <div class="price">182.-</div>
       <div class="description">
         Tu propia Carta Natal que te habla en primera persona.<br>
         Casas, Conditio Vitae, perfiles y aspectos.<br>
@@ -232,22 +232,22 @@ hide:
       </div>
     </div>
     <div class="card-footer">
-      <button class="pay-button" onclick="payWithPayPal(182, 'Carta Natal Personificada')">Solicitar por 182 €</button>
+      <button class="pay-button" onclick="payWithPayPal(182, 'Carta Natal Personificada')">La quiero!</button>
     </div>
   </div>
 </div>
 
 <!-- Instrucciones de pago -->
 <div class="instructions">
-  <h3>📘 Cómo pagar</h3>
+  <h3>📘 Instrucciones</h3>
   <ol>
-    <li><strong>PayPal</strong>: Haz clic en "Invitar al Café" o en "Solicitar por 182 €". Se abrirá PayPal con el importe correcto. Puedes pagar con tarjeta sin necesidad de cuenta PayPal.</li>
-    <li><strong>Bitcoin Lightning</strong>: Copia la dirección <code>jimraynor@bitrefill.me</code>, abre tu monedero Lightning (Wallet of Satoshi, Zeus, etc.) y pega la dirección. Introduce el importe en euros (si tu monedero lo permite) o en satoshis equivalentes.</li>
-    <li><strong>Para la Carta Natal</strong>: Una vez realizado el pago, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 72-92h recibirás tu enlace personalizado.</li>
+    <li><strong>PayPal</strong>: Haz clic en "Invitar al Café" o en "La quiero!". Se abrirá PayPal con el importe correcto. Puedes pagar con tarjeta sin necesidad de cuenta PayPal.</li>
+    <li><strong>Bitcoin Lightning</strong>: Copia la dirección <code>jimraynor@bitrefill.me</code>, abre tu monedero Lightning (Wallet of Satoshi, Zeus, etc.) y pega la dirección e introduce el importe.</li>
+    <li><strong>Para la Carta Natal</strong>: Una vez completado el proceso, contáctame por cualquiera de los canales del footer de la web (Telegram, formulario, etc.) con el comprobante. En 72-92h recibirás tu enlace personalizado.</li>
   </ol>
-  <div class="alert">
+<!--  <div class="alert">
     💡 <strong>Nota</strong>: Bitrefill me acredita el saldo en euros para gastar en su tienda. Es la forma más sencilla de aceptar Lightning sin gestionar un nodo propio.
-  </div>
+  </div> -->
 </div>
 
 </div>
