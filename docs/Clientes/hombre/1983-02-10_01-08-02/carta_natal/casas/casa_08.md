@@ -1,7 +1,9 @@
 ---
 title: "Casa 8 – Mi sexualidad, mi transformación, mis recursos compartidos, mis crisis"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 8 – Mi sexualidad, mi transformación, mis recursos compartidos, mis crisis
 
