@@ -1,7 +1,9 @@
 ---
 title: "Espiritualidad y Trascendencia"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Espiritualidad y Trascendencia
 
