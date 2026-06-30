@@ -1,7 +1,9 @@
 ---
 title: "Carta Natal - Aspectos"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 
 # Mis aspectos natales – la trama que me conecta
