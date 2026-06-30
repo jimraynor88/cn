@@ -1,8 +1,9 @@
 ---
 title: "Casa 5 – Mi creatividad, mi amor romántico, mi placer, mis hijos"
-level: "astro"
 ---
-
+<!--level: "astro"
+---
+-->
 # Casa 5 – Mi creatividad, mi amor romántico, mi placer, mis hijos
 
 ## 📐 Datos técnicos
