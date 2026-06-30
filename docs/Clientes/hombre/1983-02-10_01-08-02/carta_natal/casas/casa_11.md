@@ -1,7 +1,9 @@
 ---
 title: "Casa 11 – Mis amistades, mis grupos, mis ideales, mis proyectos colectivos"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 11 – Mis amistades, mis grupos, mis ideales, mis proyectos colectivos
 
