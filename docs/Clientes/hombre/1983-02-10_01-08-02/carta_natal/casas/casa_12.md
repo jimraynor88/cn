@@ -1,7 +1,9 @@
 ---
 title: "Casa 12 – Mi inconsciente, mi espiritualidad, mis procesos de soledad y sanación"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 12 – Mi inconsciente, mi espiritualidad, mis procesos de soledad y sanación
 
