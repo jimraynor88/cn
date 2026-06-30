@@ -1,8 +1,9 @@
 ---
 title: "Casa 1 – Mi identidad, mi presencia, mi forma de iniciar"
-level: "astro"
 ---
-
+<!--level: "astro"
+---
+-->
 
 # Casa 1 – Mi identidad, mi presencia, mi forma de iniciar
 
