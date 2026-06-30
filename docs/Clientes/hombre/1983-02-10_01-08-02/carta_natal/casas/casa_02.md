@@ -1,7 +1,9 @@
 ---
 title: "Casa 2 – Mis recursos, mis valores, mi autoestima"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 
 # Casa 2 – Mis recursos, mis valores, mi autoestima
