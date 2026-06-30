@@ -1,7 +1,9 @@
 ---
 title: "Carta Natal General"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 
 # Mis doce casas – visión general
