@@ -82,7 +82,7 @@ plugins:
       password_button_text: 'Desbloquear'
       placeholder: 'Contraseña'
       placeholder_user: 'Usuario'
-      summary: '⚠️ Esta página está protegida, accede a la sección [Servicios](https://cartanatal.de/servicios) para lograr acceso, gracias.'
+      summary: '⚠️ Esta página está protegida, accede a la sección [Servicios](https://cartanatal.de/zona-servicios) para lograr acceso, gracias.'
       decryption_failure_message: '❌ Credenciales incorrectas. Si el problema persiste, recarga la página e inténtalo de nuevo.'
       encryption_info_message: '🔒 Necesitas credenciales para ver este contenido.'
       encrypted_something:
@@ -137,7 +137,7 @@ extra:
       name: NTFY - Notificaciones Instantáneas
     - icon: fontawesome/solid/envelope-circle-check
       link: https://cartanatal.de/zona-contacto
-      name: PGP Email
+      name: Contacto
     - icon: fontawesome/brands/telegram
       link: https://t.me/jimraynorbot
       name: Telegram
@@ -158,7 +158,7 @@ extra:
 #      name: Mapa del sitio
     - icon: fontawesome/solid/bag-shopping
       link: https://cartanatal.de/zona-servicios
-      name: Gracias!
+      name: Servicios
 
 markdown_extensions:
   - toc:
