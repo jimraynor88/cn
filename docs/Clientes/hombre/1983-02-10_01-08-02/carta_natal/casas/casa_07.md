@@ -1,7 +1,9 @@
 ---
 title: "Casa 7 – Mis relaciones de pareja, mis asociaciones, mis enemigos declarados"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 7 – Mis relaciones de pareja, mis asociaciones, mis enemigos declarados
 
