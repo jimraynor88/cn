@@ -1,7 +1,9 @@
 ---
 title: "Salud, Bienestar y Rutinas"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Salud, Bienestar y Rutinas
 
