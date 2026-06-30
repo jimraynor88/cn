@@ -1,7 +1,9 @@
 ---
 title: "Casa 3 – Mi comunicación, mis hermanos, mi entorno cercano"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 3 – Mi comunicación, mis hermanos, mi entorno cercano
 
