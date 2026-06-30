@@ -1,7 +1,9 @@
 ---
 title: "Identidad y Desarollo Personal"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Identidad y Desarrollo Personal
 
