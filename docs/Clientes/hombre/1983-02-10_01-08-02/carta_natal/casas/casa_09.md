@@ -1,7 +1,9 @@
 ---
 title: "Casa 9 – Mi filosofía, mis viajes, mi educación superior, mi propósito"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 
 # Casa 9 – Mi filosofía, mis viajes, mi educación superior, mi propósito
