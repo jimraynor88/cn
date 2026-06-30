@@ -1,7 +1,9 @@
 ---
 title: "Casa 4 – Mi hogar, mis raíces, mi familia, mi mundo interior"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Casa 4 – Mi hogar, mis raíces, mi familia, mi mundo interior
 
