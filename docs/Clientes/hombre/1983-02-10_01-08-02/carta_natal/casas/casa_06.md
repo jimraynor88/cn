@@ -1,8 +1,9 @@
 ---
 title: "Casa 6 – Mi salud, mi trabajo diario, mis rutinas, mi servicio"
-level: "astro"
 ---
-
+<!--level: "astro"
+---
+-->
 # Casa 6 – Mi salud, mi trabajo diario, mis rutinas, mi servicio
 
 ## 📐 Datos técnicos
