@@ -1,7 +1,9 @@
 ---
 Title: "Vocación y Logro"
-level: "astro"
 ---
+<!--level: "astro"
+---
+-->
 
 # Vocación y Logro
 
